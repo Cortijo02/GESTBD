@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  postgres:
+    container_name: postgres_db
+    image: postgres:16
+    restart: always
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: userGESTDB
+      POSTGRES_PASSWORD: passGESTDB
+      POSTGRES_DB: GESTDB
+    volumes:
+      - ./data:/var/lib/postgresql/data
+      - ./init:/docker-entrypoint-initdb.d
+      - ./csv:/csv
+    networks:
+          - gestbd_net
+
+  pgadmin: # postgres:5432 or localhost:5432 
+    image: dpage/pgadmin4
+    restart: always
+    ports:
+      - "8082:80"
+    environment:
+      PGADMIN_DEFAULT_EMAIL: cinco@GESTDB.com
+      PGADMIN_DEFAULT_PASSWORD: cinco
+    depends_on:
+      - postgres
+    volumes:
+      - ./datapga:/tmpdata
+      - ./dataexample:/var/lib/pgadmin/storage
+    networks:
+          - gestbd_net
+      
+networks:
+    gestbd_net:
+      external: true
+      

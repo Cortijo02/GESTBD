@@ -1,0 +1,11 @@
+id,nombre,id_universidad,direccion,codigo_postal,telefono,web,email
+1,Facultad de Ingeniería,1,"Calle Mayor 12, Madrid",28001,910000001,https://fi.unimad.es,info@fi.unimad.es
+2,Facultad de Ciencias,2,"Av. Diagonal 123, Barcelona",08034,932000002,https://fc.unibar.es,contacto@fc.unibar.es
+3,Facultad de Letras,3,"Calle Real 45, Sevilla",41010,955000003,https://fl.unise.es,info@fl.unise.es
+4,Facultad de Derecho,4,"Av. Libertad 10, Valencia",46020,963000004,https://fd.uav.es,secretaria@fd.uav.es
+5,Facultad de Medicina,5,"Calle Salud 9, Santander",39005,942000005,https://fm.uninorte.es,contacto@fm.uninorte.es
+6,Facultad de Arquitectura,6,"Calle Toledo 33, Toledo",45001,925000006,https://fa.ucastilla.es,info@fa.ucastilla.es
+7,Facultad de Psicología,7,"Av. Atlántico 56, A Coruña",15003,981000007,https://fps.uiatl.es,info@fps.uiatl.es
+8,Facultad de Económicas,8,"Calle Sol 78, Alicante",03002,965000008,https://fe.umedit.es,info@fe.umedit.es
+9,Facultad de Ciencias Sociales,9,"Av. Zaragoza 22, Zaragoza",50008,976000009,https://fcs.unizar.es,info@fcs.unizar.es
+10,Facultad de Comunicación,10,"Av. Granada 15, Granada",18012,958000010,https://fcom.upg.es,contacto@fcom.upg.es
