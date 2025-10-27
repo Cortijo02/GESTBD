@@ -18,6 +18,23 @@ services:
     networks:
           - gestbd_net
 
+  elasticsearch:
+    container_name: elasticsearch_db
+    image: elasticsearch:8.7.0
+    ports:
+      - 9200:9200      
+    environment:
+      - discovery.type=single-node
+      - ES_JAVA_OPTS=-Xms512m -Xmx512m
+      - xpack.security.enabled=false
+    #volumes:
+    #  - ./es-data:/usr/share/elasticsearch/data
+    volumes:
+      - ./seed_es.sh:/usr/share/elasticsearch/data/seed_es.sh # TODO: cambiar por command y lanzarlo durante el arranque
+    networks:
+      - gestbd_net
+
+
   pgadmin: # postgres:5432 or localhost:5432 
     image: dpage/pgadmin4
     restart: always
