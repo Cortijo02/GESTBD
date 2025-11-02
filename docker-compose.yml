@@ -1,28 +1,46 @@
 version: '3.8'
 
 services:
+
+  # Datos estructurados
   postgres:
     container_name: postgres_db
     image: postgres:16
     restart: always
     ports:
-      - "5432:5432"
+      - 5432:5432
     environment:
       POSTGRES_USER: userGESTDB
       POSTGRES_PASSWORD: passGESTDB
       POSTGRES_DB: GESTDB
     volumes:
-      - ./data:/var/lib/postgresql/data
-      - ./init:/docker-entrypoint-initdb.d
-      - ./csv:/csv
+      - ./postgres/data:/var/lib/postgresql/data
+      - ./postgres/init:/docker-entrypoint-initdb.d
+      - ./postgres/csv:/csv # TODO: esto es dummy, luego habrá que insetar datos reales desde los jupyters
+    networks:
+          - gestbd_net
+  pgadmin: 
+    image: dpage/pgadmin4
+    restart: always
+    ports:
+      - 8082:80
+    environment:
+      PGADMIN_DEFAULT_EMAIL: cinco@GESTDB.com
+      PGADMIN_DEFAULT_PASSWORD: cinco
+    depends_on:
+      - postgres
+    volumes:
+      - ./postgres/datapga:/tmpdata
+      - ./postgres/dataexample:/var/lib/pgadmin/storage
     networks:
           - gestbd_net
 
+  # Datos no estructurados  
   elasticsearch:
     container_name: elasticsearch_db
     image: elasticsearch:8.7.0
     ports:
-      - 9200:9200      
+      - 8000:9200      
     environment:
       - discovery.type=single-node
       - ES_JAVA_OPTS=-Xms512m -Xmx512m
@@ -30,28 +48,37 @@ services:
     #volumes:
     #  - ./es-data:/usr/share/elasticsearch/data
     volumes:
-      - ./seed_es.sh:/usr/share/elasticsearch/data/seed_es.sh # TODO: cambiar por command y lanzarlo durante el arranque
+      - ./elasticsearch/seed_es.sh:/usr/share/elasticsearch/data/seed_es.sh # TODO: esto es dummy, luego habrá que insetar datos reales desde los jupyters
+    networks:
+      - gestbd_net
+  
+  # Datos enlazados 
+  graphdb:
+    container_name: graphdb_db
+    image: ontotext/graphdb:10.3.2
+    ports:
+      - 8001:7200
+    environment:
+      GDB_JAVA_OPTS: -Dgraphdb.workbench.importDirectory=/opt/graphdb/home/graphdb-import
+    #volumes:
+    #  - ./gd-data:/opt/graphdb/home
     networks:
       - gestbd_net
 
-
-  pgadmin: # postgres:5432 or localhost:5432 
-    image: dpage/pgadmin4
-    restart: always
+  # Jupyter Notebooks
+  jupyter:
+    build: ./jupyter
+    container_name: jupyter_lab
+    
     ports:
-      - "8082:80"
-    environment:
-      PGADMIN_DEFAULT_EMAIL: cinco@GESTDB.com
-      PGADMIN_DEFAULT_PASSWORD: cinco
-    depends_on:
-      - postgres
+      - 8002:8888
     volumes:
-      - ./datapga:/tmpdata
-      - ./dataexample:/var/lib/pgadmin/storage
+      - "./jupyter/notebooks:/home/gestbd/"        
+    # command: ["start-notebook.sh","--NotebookApp.token=''","--NotebookApp.password=''"]          
     networks:
-          - gestbd_net
-      
+      - gestbd_net
+
 networks:
     gestbd_net:
-      external: true
+      # external: true
       

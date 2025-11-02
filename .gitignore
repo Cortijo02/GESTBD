@@ -1,2 +1,2 @@
-data/*
-datapga/*
+postgres/data/*
+postgres/datapga/*
