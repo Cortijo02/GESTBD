@@ -1,8 +1,7 @@
-Tabla resumen PgAdmin/PostGres:
+## Tabla resumen PgAdmin/PostGres:
 
 | CAMPO               | VALOR                   |
 |---------------------|-------------------------|
-| url                 | http://localhost:8082/  |
 | email               | cinco@GESTDB.com        |
 | password            | cinco                   |
 | name                | postgres_db             |
