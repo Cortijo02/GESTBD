@@ -72,11 +72,40 @@ services:
     
     ports:
       - 8002:8888
+    
     volumes:
-      - "./jupyter/notebooks:/home/gestbd/"        
-    # command: ["start-notebook.sh","--NotebookApp.token=''","--NotebookApp.password=''"]          
+      - "./jupyter/src:/home/gestbd/"        
+
     networks:
       - gestbd_net
+
+  jupyter_llm:
+    build: ./jupyter_llm
+    container_name: jupyter_llm_lab
+    restart: unless-stopped
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    ports:
+      - 8003:8003
+    volumes:
+      - ./jupyter_llm/src:/home/gestbd
+      - ollama_models:/root/.ollama
+
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=compute,utility
+    # working_dir: /home/gestbd   
+
+    networks:
+      - gestbd_net
+
+volumes:
+  ollama_models:
 
 networks:
     gestbd_net:
