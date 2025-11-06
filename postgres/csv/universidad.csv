@@ -1,40 +1,28 @@
-id,nombre,tipo
-1,Universidad Nacional de Educación a Distancia UNED,Pública
-2,Universidad Antonio de Nebrija,Privada
-3,Universidad Complutense de Madrid,Pública
-4,Universidad Francisco de Vitoria,Privada
-5,Universidad Rey Juan Carlos,Pública
-6,Universidad Camilo José Cela,Privada
-7,Universidad Alfonso X El Sabio,Privada
-8,Universidad San Pablo CEU,Privada
-9,Universidad Europea de Madrid,Privada
-10,"Universidad de Diseño, Innovación y Tecnología (UDIT)",Privada
-11,"Universidad Camilo José Cela) C/ Playa de Liencres, 2 bis Parque Europa Empresarial Edificio Madrid 28290 Las Rozas (Madrid) Tel.: 900 37 33 79 www.utad.com info@utad.com Universidad de Diseño, Innovación y Tecnología (UDIT)",Privada
-12,Universidad Carlos III de Madrid,Pública
-13,Universidad Autónoma de Madrid,Pública
-14,Universidad Pontificia Comillas ICAIICADE,Privada
-15,Universidad de Alcalá,Pública
-16,Universidad de Autónoma de Madrid,Pública
-17,Universidad Nacional de Educación a Distancia de Madrid UNED,Pública
-18,Universidad Pontificia Comillas,Privada
-19,Universidad Politécnica de Madrid,Pública
-20,Universidad a Distancia de Madrid UDIMA,Privada
-21,Universidad Internacional de la Empresa UNIE,Privada
-22,Universidad Internacional Villanueva,Privada
-23,"Universidad Rey Juan Carlos) (también semipresencial) C/ Costa Rica, 9 28016 Madrid Tels.: 91 350 12 12 / 900 101 483 www.eserp.com info@eserp.com Universidad de Alcalá",Pública
-24,Universidad Pontificia Comillas ICADE,Privada
-25,"Universidad Pompeu Fabra. Facultad de CC. Sociales y Jurídicas Campus de Getafe C/ Madrid,126 28903 Getafe (Madrid) Tel.: 91 624 60 00 www.uc3m.es futurosestudiantes@uc3m.es CUNEF Universidad",Privada
-26,Universidad Camilo José Cela),Privada
-27,Universidad Internacional de la Em presa UNIE,Privada
-28,"Universidad Rey Juan Carlos) (también online) C/ Costa Rica, 9 28016 Madrid Tels.: 91 350 12 12 / 900 101 483 www.eserp.com info@eserp.com Universidad de Alcalá",Pública
-29,Universidad Pontificia Comillas (ICAIICADE),Privada
-30,de grado en Ciencias Ambientales Universidad de Alcalá,Pública
-31,"Escuela Técnica Superior de Arquitectura Campus Ciudad Universitaria Avda. Juan Herrera, 6 28040 Madrid Tels.: 91 067 00 05 / 91 336 65 01 / 07 / 91 www.aq.upm.es acceso.universidad@upm.es Universidad de Alcalá",Pública
-32,"Escuela Técnica Superior de Ingenieros Industriales Campus Madrid Ciudad C/ José Gutierrez Abascal, 2 28006 Madrid Tels.: 91 067 67 24 / 64 / 66 / 67 www.etsii.upm.es secretaria.industriales@upm.es Universidad a Distancia de Madrid UDIMA",Privada
-33,"Escuela Superior de Ciencias Experimentales y Tecnología Campus Móstoles C/ Tulipán, s/n 28933 Móstoles (Madrid) Tels.: 91 665 50 61 / 91 664 74 18 www.urjc.es escet.director@urjc.es Universidad de Alcalá",Pública
-34,"Escuela Politécnica Superior Campus Leganés Avda. de la Universidad, 30 28911 Leganés (Madrid) Tel.: 91 624 60 00 www.uc3m.es futurosestudiantes@uc3m.es Universidad de Alcalá",Pública
-35,"Escuela Politécnica Superior Campus de Cantoblanco C/ Francisco Tomás y Valiente, 11 28049 Madrid Tels.: 91 497 22 23 / 26 www.uam.es informacion.eps@uam.es Universidad a Distancia de Madrid UDIMA",Privada
-36,"Escuela Politécnica Superior Ctra. de Pozuelo a Majadahonda, Km. 1,800 28223 Pozuelo de Alarcón (Madrid) Tels.: 91 351 03 03 / 91 709 14 00 www.ufv.es info@ufv.es Universidad a Distancia de Madrid UDIMA",Privada
-37,"Escuela Técnica Superior de Ingeniería Informática Campus de Madrid Vicálvaro Paseo Artilleros, s/n 28032 Madrid Tels.: 91 488 79 27 / 28 www.urjc.es madrid.secretariaalumnos@urjc.es 6 CUNEF Universidad",Privada
-38,"Escuela Técnica Superior de Ingeniería de Sistemas Informáticos Campus Sur C/ Alan Turing, s/n Ctra. de Valencia, km 7 28031 Madrid Tels.: 91 067 35 24 / 36 84 / 36 85 / 36 86 / 36 87 www.etsist.upm.es negociado.alumnos.etsisi@upm.es Universidad de Alcalá",Pública
-39,Universidad CEU San Pablo,Privada
+id;nombre;tipo
+1;Universidad Nacional de Educación a Distancia UNED;Pública
+2;Universidad Antonio de Nebrija;Privada
+3;Universidad Complutense de Madrid;Pública
+4;Universidad Francisco de Vitoria;Privada
+5;Universidad Rey Juan Carlos;Pública
+6;Universidad Alfonso X El Sabio;Privada
+7;Universidad San PabloCEU;Privada
+8;Universidad Europea de Madrid;Privada
+9;Universidad Carlos III de Madrid;Pública
+10;Universidad Autónoma de Madrid;Pública
+11;Universidad Pontificia Comillas ICAIICADE;Privada
+12;Universidad de Alcalá;Pública
+13;Universidad a Distancia de Madrid UDIMA;Privada
+14;Universidad de Autónoma de Madrid;Pública
+15;Universidad Nacional de Educación a Distancia de Madrid UNED;Pública
+16;Universidad Pontificia Comillas;Privada
+17;Universidad Politécnica de Madrid;Pública
+18;Universidad a Distancia de MadridUDIMA;Privada
+19;Universidad Camilo José Cela;Privada
+20;Universidad Internacional de la EmpresaUNIE;Privada
+21;Universidad San Pablo CEU;Privada
+22;Universidad Internacional Villanueva;Privada
+23;Universidad Internacional de la Empresa UNIE;Privada
+24;Universidad Pontificia Comillas ICADE;Privada
+25;Universidad Internacional de la Em presa UNIE;Privada
+26;Universidad a Distancia de Madrid – UDIMA;Privada
+27;Universidad CEU San Pablo;Privada

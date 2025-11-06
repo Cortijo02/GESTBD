@@ -1,6 +1,6 @@
-id,nombre
-1,Artes y Humanidades
-2,Ciencias Sociales y Jurídicas
-3,Ciencias
-4,Ciencias de la Salud
-5,Ingeniería y Arquitectura
+id;nombre
+1;Artes y Humanidades
+2;Ciencias Sociales y Jurídicas
+3;Ciencias
+4;Ciencias de la Salud
+5;Ingeniería y Arquitectura
