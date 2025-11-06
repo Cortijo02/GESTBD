@@ -1,76 +1,76 @@
-id,nombre,id_rama
-1,Antropología Social y Cultural,1
-1,Antropología Social y Cultural,2
-2,Artes,1
-3,Diseño,1
-4,Estudios Culturales,1
-5,Estudios de Asia y África,1
-6,Estudios Semíticos e Islámicos,1
-7,Filosofía,1
-8,Geografía e Historia,1
-9,Humanidades,1
-10,Lengua y Literatura Española,1
-11,Lenguas y Literaturas Clásicas,1
-12,Lenguas y Literaturas Modernas,1
-13,Paisajismo,1
-14,Traducción,1
-15,Ciencias de la Actividad Física y del Deporte,2
-15,Ciencias de la Actividad Física y del Deporte,4
-16,Ciencias del Trabajo,2
-17,Ciencias Políticas y Sociología,2
-18,Comercio y Marketing,2
-19,Derecho,2
-20,Economía,2
-21,Educación,2
-22,Ciencias del Comportamiento,2
-23,Empresas,2
-24,Estadística,2
-25,"Geografía, Urbanismo y Ordenación del Territorio",2
-26,Gestión Aeronáutica,2
-27,Información y Documentación,2
-28,Lengua de Signos,2
-29,"Periodismo, Publicidad y Comunicación Audiovisual",2
-30,Entorno Digital,2
-31,Trabajo Social,2
-32,Turismo,2
-33,Biología,3
-34,Biotecnología,3
-34,Biotecnología,4
-35,Ciencias,3
-36,Ciencia y Tecnología de los Alimentos,3
-37,Ciencias Ambientales,3
-38,Ciencias Agrarias,3
-39,Criminalística,3
-40,Física,3
-40,Física,5
-41,Geología,3
-42,Matemáticas,3
-43,Química,3
-44,Biología Sanitaria,4
-45,Enfermería,4
-46,Farmacia,4
-47,Fisioterapia,4
-48,Logopedia,4
-49,Medicina,4
-50,Nutrición Humana y Dietética,4
-51,Odontología,4
-52,Óptica,4
-53,Podología,4
-54,Psicología,4
-55,Terapia Ocupacional,4
-56,Veterinaria,4
-57,Arquitectura,5
-58,Arquitectura Naval e Ingeniería Marítima,5
-59,Geomática,5
-60,Ingeniería Aeroespacial,5
-61,Ingeniería Agrícola / Alimentaria / Forestal,5
-62,Ingeniería Ambiental y Química,5
-63,Ingeniería Biomédica,5
-64,Ingeniería Civil,5
-65,Ciencias del transporte y la Logística,5
-66,Ingeniería Industrial,5
-67,Ingeniería de la Energía,5
-68,Ingeniería Matemática,5
-69,Ingeniería de Materiales,5
-70,Ingeniería en Telecomunicación,5
-71,Ingeniería Informática,5
+id;nombre;id_rama
+1;Antropología Social y Cultural;1
+2;Artes;1
+3;Diseño;1
+4;Estudios Culturales;1
+5;Estudios de Asia y África;1
+6;Estudios Semíticos e Islámicos;1
+7;Filosofía;1
+8;Geografía e Historia;1
+9;Humanidades;1
+10;Lengua y Literatura Española;1
+11;Lenguas y Literaturas Clásicas;1
+12;Lenguas y Literaturas Modernas;1
+13;Paisajismo;1
+14;Traducción;1
+15;Antropología Social y Cultural;2
+16;Ciencias de la Actividad Física y del Deporte;2
+17;Ciencias del Trabajo;2
+18;Ciencias Políticas y Sociología;2
+19;Comercio y Marketing;2
+20;Derecho;2
+21;Economía;2
+22;Educación;2
+23;Ciencias del Comportamiento;2
+24;Empresas;2
+25;Estadística;2
+26;Geografía, Urbanismo y Ordenación del Territorio;2
+27;Gestión Aeronáutica;2
+28;Información y Documentación;2
+29;Lengua de Signos;2
+30;Periodismo, Publicidad y Comunicación Audiovisual;2
+31;Entorno Digital;2
+32;Trabajo Social;2
+33;Turismo;2
+34;Biología;3
+35;Biotecnología;3
+36;Ciencias;3
+37;Ciencia y Tecnología de los Alimentos;3
+38;Ciencias Ambientales;3
+39;Ciencias Agrarias;3
+40;Criminalística;3
+41;Física;3
+42;Geología;3
+43;Matemáticas;3
+44;Química;3
+45;Biología Sanitaria;4
+46;Biotecnología;4
+47;Ciencias de la Actividad Física y del Deporte;4
+48;Enfermería;4
+49;Farmacia;4
+50;Fisioterapia;4
+51;Logopedia;4
+52;Medicina;4
+53;Nutrición Humana y Dietética;4
+54;Odontología;4
+55;Óptica;4
+56;Podología;4
+57;Psicología;4
+58;Terapia Ocupacional;4
+59;Veterinaria;4
+60;Arquitectura;5
+61;Arquitectura Naval e Ingeniería Marítima;5
+62;Física;5
+63;Geomática;5
+64;Ingeniería Aeroespacial;5
+65;Ingeniería Agrícola / Alimentaria / Forestal;5
+66;Ingeniería Ambiental y Química;5
+67;Ingeniería Biomédica;5
+68;Ingeniería Civil;5
+69;Ciencias del transporte y la Logística;5
+70;Ingeniería Industrial;5
+71;Ingeniería de la Energía;5
+72;Ingeniería Matemática;5
+73;Ingeniería de Materiales;5
+74;Ingeniería en Telecomunicación;5
+75;Ingeniería Informática;5
