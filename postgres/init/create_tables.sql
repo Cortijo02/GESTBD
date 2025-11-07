@@ -21,13 +21,13 @@ CREATE TABLE universidad (
 -- ===================================================
 -- TABLA: FACULTAD
 -- ===================================================
-CREATE TABLE facultad (
+ CREATE TABLE facultad (
     id SERIAL PRIMARY KEY,
     nombre VARCHAR(200) NOT NULL,
     id_universidad INTEGER NOT NULL REFERENCES universidad(id) ON DELETE CASCADE,
     direccion VARCHAR(300),
-    codigo_postal VARCHAR(10),
-    telefono VARCHAR(20),
+    -- codigo_postal VARCHAR(10),
+    telefono VARCHAR(150),
     web VARCHAR(200),
     email VARCHAR(150),
     CONSTRAINT uq_facultad_universidad UNIQUE (nombre, id_universidad)
@@ -56,7 +56,7 @@ CREATE TABLE area (
 -- ===================================================
 CREATE TABLE grado (
     id SERIAL PRIMARY KEY,
-    nombre VARCHAR(200) NOT NULL UNIQUE,
+    nombre VARCHAR(200) NOT NULL,
     id_area INTEGER NOT NULL REFERENCES area(id) ON DELETE CASCADE,
     descripcion TEXT,
     salidas TEXT
