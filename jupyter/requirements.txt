@@ -2,3 +2,8 @@ pandas
 numpy
 matplotlib
 PyPDF2
+psycopg2-binary
+sqlalchemy
+Elasticsearch==8.7.0
+sentence_transformers
+pdfplumber
