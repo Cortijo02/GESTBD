@@ -1,0 +1,14 @@
+SELECT  
+    g.id AS id_grado, 
+    g.nombre AS grado, 
+    a.nombre AS area, 
+    r.nombre AS rama, 
+    u.nombre AS universidad 
+
+FROM grado g 
+JOIN area a ON g.id_area = a.id 
+JOIN rama r ON a.id_rama = r.id 
+JOIN grado_ofertado go ON g.id = go.id_grado 
+JOIN facultad f ON go.id_facultad = f.id 
+JOIN universidad u ON f.id_universidad = u.id 
+ORDER BY r.nombre, g.nombre; 

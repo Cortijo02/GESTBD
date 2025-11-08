@@ -1,0 +1,12 @@
+SELECT  
+    a.nombre AS area, 
+    g.nombre AS grado, 
+    ROUND(AVG(nc.nota), 2) AS nota_media 
+
+FROM grado g 
+JOIN area a ON g.id_area = a.id 
+JOIN grado_ofertado go ON g.id = go.id_grado 
+JOIN nota_corte nc ON go.id = nc.id_grado_ofertado 
+GROUP BY a.nombre, g.nombre 
+
+ORDER BY a.nombre, nota_media DESC; 

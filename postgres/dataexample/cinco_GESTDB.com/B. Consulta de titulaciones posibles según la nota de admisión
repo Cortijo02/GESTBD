@@ -1,0 +1,14 @@
+SELECT  
+    g.nombre AS grado, 
+    u.nombre AS universidad, 
+    nc.nota AS nota_corte, 
+    nc.año, 
+    nc.convocatoria 
+FROM nota_corte nc 
+JOIN grado_ofertado go ON nc.id_grado_ofertado = go.id 
+JOIN grado g ON go.id_grado = g.id 
+JOIN facultad f ON go.id_facultad = f.id 
+JOIN universidad u ON f.id_universidad = u.id 
+WHERE nc.nota <= 11.0 
+
+ORDER BY nc.nota DESC; 

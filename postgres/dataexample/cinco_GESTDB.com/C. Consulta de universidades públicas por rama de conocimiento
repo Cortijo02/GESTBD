@@ -1,0 +1,14 @@
+SELECT DISTINCT  
+    u.nombre AS universidad, 
+    r.nombre AS rama 
+
+FROM universidad u 
+JOIN facultad f ON u.id = f.id_universidad 
+JOIN grado_ofertado go ON f.id = go.id_facultad 
+JOIN grado g ON go.id_grado = g.id 
+JOIN area a ON g.id_area = a.id 
+JOIN rama r ON a.id_rama = r.id 
+
+WHERE u.tipo = 'Pública' 
+  AND r.nombre = 'Ingeniería y Arquitectura' 
+ORDER BY u.nombre; 
