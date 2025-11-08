@@ -25,4 +25,4 @@ DELIMITER ';' CSV HEADER;
 
 COPY nota_corte (id, id_grado_ofertado, año, convocatoria, grupo, nota)
 FROM '/csv/nota_corte.csv' 
-DELIMITER ',' CSV HEADER;
+DELIMITER ';' CSV HEADER;

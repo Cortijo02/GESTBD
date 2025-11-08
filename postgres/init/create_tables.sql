@@ -82,7 +82,7 @@ CREATE TABLE nota_corte (
     convocatoria VARCHAR(50) NOT NULL,
     grupo INTEGER,
     nota NUMERIC(4,2),
-    CONSTRAINT uq_nota_corte UNIQUE (id_grado_ofertado, año, convocatoria, grupo)
+    CONSTRAINT uq_nota_corte UNIQUE (id, id_grado_ofertado, año, convocatoria, grupo)
 );
 
 -- ===================================================
