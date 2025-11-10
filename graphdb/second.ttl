@@ -1,0 +1,246 @@
+@prefix rr:   <http://www.w3.org/ns/r2rml#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix sch:  <http://schema.org/> .
+@prefix dat:  <http://example.org/universidadesMadrid#> .
+
+###############################################################################
+# grado → sch:EducationalOccupationalProgram
+###############################################################################
+<#TM_Grado>
+  rr:logicalTable [ rr:tableName "grado" ; rr:sqlVersion rr:SQL2008 ] ;
+  rr:subjectMap [
+    rr:template "http://example.org/universidadesMadrid#program/{id}" ;
+    rr:class sch:EducationalOccupationalProgram
+  ] ;
+  # Literales
+  rr:predicateObjectMap [
+    rr:predicate sch:name ;
+    rr:objectMap [ rr:column "nombre" ; rr:datatype xsd:string ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate sch:description ;
+    rr:objectMap [ rr:column "descripcion" ; rr:datatype xsd:string ]
+  ] ;
+  # Relación con área (CategoryCode): sch:occupationalCategory
+  rr:predicateObjectMap [
+    rr:predicate sch:occupationalCategory ;
+    rr:objectMap [
+      rr:parentTriplesMap <#TM_Area> ;
+      rr:joinCondition [
+        rr:child "id_area" ;
+        rr:parent "id"
+      ] ;
+      rr:termType rr:IRI
+    ]
+  ] .
+
+###############################################################################
+# area → sch:CategoryCode
+###############################################################################
+<#TM_Area>
+  rr:logicalTable [ rr:tableName "area" ; rr:sqlVersion rr:SQL2008 ] ;
+  rr:subjectMap [
+    rr:template "http://example.org/universidadesMadrid#area/{id}" ;
+    rr:class sch:CategoryCode
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate sch:name ;
+    rr:objectMap [ rr:column "nombre" ; rr:datatype xsd:string ]
+  ] ;
+  # inCodeSet → rama
+  rr:predicateObjectMap [
+    rr:predicate sch:inCodeSet ;
+    rr:objectMap [
+      rr:parentTriplesMap <#TM_Rama> ;
+      rr:joinCondition [
+        rr:child "id_rama" ;
+        rr:parent "id"
+      ] ;
+      rr:termType rr:IRI
+    ]
+  ] ;
+  # (opcional) inversa: CategoryCode → occupationalCategory → Program (se rellena vía join desde grado)
+  rr:predicateObjectMap [
+    rr:predicate sch:occupationalCategory ;
+    rr:objectMap [
+      rr:parentTriplesMap <#TM_Grado> ;
+      rr:joinCondition [
+        rr:child "id" ;          # area.id
+        rr:parent "id_area"      # grado.id_area
+      ] ;
+      rr:termType rr:IRI
+    ]
+  ] .
+
+###############################################################################
+# rama → sch:CategoryCodeSet
+###############################################################################
+<#TM_Rama>
+  rr:logicalTable [ rr:tableName "rama" ; rr:sqlVersion rr:SQL2008 ] ;
+  rr:subjectMap [
+    rr:template "http://example.org/universidadesMadrid#rama/{id}" ;
+    rr:class sch:CategoryCodeSet
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate sch:name ;
+    rr:objectMap [ rr:column "nombre" ; rr:datatype xsd:string ]
+  ] ;
+  # hasCategoryCode → áreas
+  rr:predicateObjectMap [
+    rr:predicate sch:hasCategoryCode ;
+    rr:objectMap [
+      rr:parentTriplesMap <#TM_Area> ;
+      rr:joinCondition [
+        rr:child "id" ;          # rama.id
+        rr:parent "id_rama"      # area.id_rama
+      ] ;
+      rr:termType rr:IRI
+    ]
+  ] .
+
+###############################################################################
+# universidad → sch:CollegeOrUniversity (y Place)
+###############################################################################
+<#TM_Universidad>
+  rr:logicalTable [ rr:tableName "universidad" ; rr:sqlVersion rr:SQL2008 ] ;
+  rr:subjectMap [
+    rr:template "http://example.org/universidadesMadrid#university/{id}" ;
+    rr:class sch:CollegeOrUniversity , sch:Place
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate sch:legalName ;
+    rr:objectMap [ rr:column "nombre" ; rr:datatype xsd:string ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate sch:additionalType ;
+    rr:objectMap [ rr:column "tipo" ; rr:datatype xsd:string ]
+  ] .
+
+###############################################################################
+# facultad → sch:School (y Place) + containedInPlace universidad
+###############################################################################
+<#TM_Facultad>
+  rr:logicalTable [ rr:tableName "facultad" ; rr:sqlVersion rr:SQL2008 ] ;
+  rr:subjectMap [
+    rr:template "http://example.org/universidadesMadrid#school/{id}" ;
+    rr:class sch:School , sch:Place
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate sch:legalName ;
+    rr:objectMap [ rr:column "nombre" ; rr:datatype xsd:string ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate sch:telephone ;
+    rr:objectMap [ rr:column "telefono" ; rr:datatype xsd:string ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate sch:email ;
+    rr:objectMap [ rr:column "email" ; rr:datatype xsd:string ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate sch:url ;
+    rr:objectMap [ rr:column "web" ; rr:datatype xsd:anyURI ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate sch:address ;
+    rr:objectMap [ rr:column "direccion" ; rr:datatype xsd:string ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate sch:containedInPlace ;
+    rr:objectMap [
+      rr:parentTriplesMap <#TM_Universidad> ;
+      rr:joinCondition [
+        rr:child "id_universidad" ;
+        rr:parent "id"
+      ] ;
+      rr:termType rr:IRI
+    ]
+  ] .
+
+# (opcional) inversa: universidad containsPlace facultad
+<#TM_Universidad_containsPlace>
+  rr:logicalTable [ rr:tableName "facultad" ; rr:sqlVersion rr:SQL2008 ] ;
+  rr:subjectMap [
+    rr:template "http://example.org/universidadesMadrid#university/{id_universidad}" ;
+    rr:class sch:CollegeOrUniversity , sch:Place
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate sch:containsPlace ;
+    rr:objectMap [
+      rr:template "http://example.org/universidadesMadrid#school/{id}" ;
+      rr:termType rr:IRI
+    ]
+  ] .
+
+###############################################################################
+# grado_ofertado → sch:CourseInstance
+# about → Program (grado)
+# location → School (facultad)
+###############################################################################
+<#TM_GradoOfertado>
+  rr:logicalTable [ rr:tableName "grado_ofertado" ; rr:sqlVersion rr:SQL2008 ] ;
+  rr:subjectMap [
+    rr:template "http://example.org/universidadesMadrid#courseInstance/{id}" ;
+    rr:class sch:CourseInstance
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate sch:about ;
+    rr:objectMap [
+      rr:parentTriplesMap <#TM_Grado> ;
+      rr:joinCondition [
+        rr:child "id_grado" ;
+        rr:parent "id"
+      ] ;
+      rr:termType rr:IRI
+    ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate sch:location ;
+    rr:objectMap [
+      rr:parentTriplesMap <#TM_Facultad> ;
+      rr:joinCondition [
+        rr:child "id_facultad" ;
+        rr:parent "id"
+      ] ;
+      rr:termType rr:IRI
+    ]
+  ] .
+
+###############################################################################
+# nota_corte → dat:CutOffScore
+# educational_program → CourseInstance (grado_ofertado)
+###############################################################################
+<#TM_NotaCorte>
+  rr:logicalTable [ rr:tableName "nota_corte" ; rr:sqlVersion rr:SQL2008 ] ;
+  rr:subjectMap [
+    rr:template "http://example.org/universidadesMadrid#cutOffScore/{id}" ;
+    rr:class dat:CutOffScore
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate dat:value ;
+    rr:objectMap [ rr:column "nota" ; rr:datatype xsd:float ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate dat:year ;
+    rr:objectMap [ rr:column "año" ; rr:datatype xsd:gYear ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate dat:call ;
+    rr:objectMap [ rr:column "convocatoria" ; rr:datatype xsd:string ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate dat:group ;
+    rr:objectMap [ rr:column "grupo" ; rr:datatype xsd:string ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate dat:educational_program ;
+    rr:objectMap [
+      rr:parentTriplesMap <#TM_GradoOfertado> ;
+      rr:joinCondition [
+        rr:child "id_grado_ofertado" ;
+        rr:parent "id"
+      ] ;
+      rr:termType rr:IRI
+    ]
+  ] .

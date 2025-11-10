@@ -60,9 +60,13 @@ services:
     ports:
       - 8001:7200
     environment:
-      GDB_JAVA_OPTS: -Dgraphdb.workbench.importDirectory=/opt/graphdb/home/graphdb-import
-    #volumes:
-    #  - ./gd-data:/opt/graphdb/home
+      GDB_JAVA_OPTS: >
+        -Dgraphdb.workbench.importDirectory=/opt/graphdb/home/graphdb-import
+        -Dgraphdb.home=/opt/graphdb/home
+        -Dgraphdb.ontop.jdbc.path=/opt/graphdb/lib/jdbc
+    volumes:
+      - ./graphdb/gd-data:/opt/graphdb/home
+      - ./graphdb/lib:/opt/graphdb/lib/jdbc
     networks:
       - gestbd_net
 
