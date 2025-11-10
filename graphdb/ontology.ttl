@@ -4,65 +4,71 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix dat: <http://example.org/universidadesMadrid#> .
 
+
+<http://example.org/universidadesMadrid#> rdf:type owl:Ontology ;
+    rdfs:label "Ontologia practica GESTDB" ;
+    owl:versionInfo 1.0 .
+
 #######################################################################
 # CLASES
 #######################################################################
 
 sch:EducationalOccupationalProgram a owl:Class .
+
 sch:CourseInstance a owl:Class .
+
 sch:School a owl:Class ;
     rdfs:subClassOf sch:Place .
+
 sch:CollegeOrUniversity a owl:Class ;
     rdfs:subClassOf sch:Place .
+
 sch:CategoryCode a owl:Class .
+
 sch:CategoryCodeSet a owl:Class .
+
 dat:CutOffScore a owl:Class .
 
 #######################################################################
-# RELACIONES ENTRE CLASES (OBJECT PROPERTIES)
+# RELACIONES ENTRE CLASES (OBJECT PROPERTIES) -> no se si queda incluir las inversas (owl:inverseOf dat:hasOccupationalProgram .)
 #######################################################################
 
-sch:CourseInstance rdfs:subClassOf [
-    a owl:Restriction ;
-    owl:onProperty sch:about ;
-    owl:someValuesFrom sch:EducationalOccupationalProgram
-] .
+sch:about a owl:ObjectProperty ;
+    rdfs:domain sch:CourseInstance ;
+    rdfs:range sch:EducationalOccupationalProgram .
 
-sch:CourseInstance rdfs:subClassOf [
-    a owl:Restriction ;
-    owl:onProperty sch:location ;
-    owl:someValuesFrom sch:School
-] .
+sch:location a owl:ObjectProperty ;
+    rdfs:domain sch:CourseInstance ;
+    rdfs:range sch:School .
 
-sch:School rdfs:subClassOf [
-    a owl:Restriction ;
-    owl:onProperty sch:containedInPlace ;
-    owl:someValuesFrom sch:CollegeOrUniversity
-] .
+dat:educational_program a owl:ObjectProperty ;
+    rdfs:domain dat:CutOffScore ;
+    rdfs:range sch:CourseInstance .
 
-sch:CollegeOrUniversity rdfs:subClassOf [
-    a owl:Restriction ;
-    owl:onProperty sch:containsPlace ;
-    owl:someValuesFrom sch:School
-] .
+sch:inCodeSet a owl:ObjectProperty ;
+    rdfs:domain sch:CategoryCode ;
+    rdfs:range sch:CategoryCodeSet .
 
-sch:CategoryCode rdfs:subClassOf [
-    a owl:Restriction ;
-    owl:onProperty sch:inCodeSet ;
-    owl:someValuesFrom sch:CategoryCodeSet
-] .
+sch:hasCategoryCode a owl:ObjectProperty ;
+    rdfs:domain sch:CategoryCodeSet ;
+    rdfs:range sch:CategoryCode .
 
-sch:EducationalOccupationalProgram rdfs:subClassOf [
-    a owl:Restriction ;
-    owl:onProperty sch:occupationalCategory ;
-    owl:someValuesFrom sch:CategoryCode
-] .
+sch:occupationalCategory a owl:ObjectProperty ;
+    rdfs:domain sch:EducationalOccupationalProgram ;
+    rdfs:range sch:CategoryCode .
 
-dat:CutOffScore rdfs:subClassOf [
-    a owl:Restriction ;
-    owl:onProperty dat:educational_program ;
-    owl:someValuesFrom sch:CourseInstance
-] .
+sch:containedInPlace a owl:ObjectProperty ;
+    rdfs:domain sch:School ;
+    rdfs:range sch:CollegeOrUniversity .
+
+sch:containsPlace a owl:ObjectProperty ;
+    rdfs:domain sch:CollegeOrUniversity ;
+    rdfs:range sch:School .
+
+dat:hasOccupationalProgram a owl:ObjectProperty ;
+    rdfs:domain sch:CategoryCode ;
+    rdfs:range sch:EducationalOccupationalProgram .
+
 
 #######################################################################
 # ATRIBUTOS DE DATOS (DATA PROPERTIES)
@@ -79,6 +85,33 @@ sch:description a owl:DatatypeProperty ;
 
 sch:occupationalCredentialAwarded a owl:DatatypeProperty ;
     rdfs:domain sch:EducationalOccupationalProgram ;
+    rdfs:range xsd:string .
+
+# CategoryCode | Puede ser name o codeValue
+sch:name a owl:DatatypeProperty ;
+    rdfs:domain sch:CategoryCode ;
+    rdfs:range xsd:string .
+
+# CategoryCodeSet
+sch:name a owl:DatatypeProperty ;
+    rdfs:domain sch:CategoryCodeSet ;
+    rdfs:range xsd:string .
+
+# CutOffScore
+dat:value a owl:DatatypeProperty ;
+    rdfs:domain dat:CutOffScore ;
+    rdfs:range xsd:float .
+
+dat:year a owl:DatatypeProperty ;
+    rdfs:domain dat:CutOffScore ;
+    rdfs:range xsd:gYear .
+
+dat:call a owl:DatatypeProperty ;
+    rdfs:domain dat:CutOffScore ;
+    rdfs:range xsd:string .
+
+dat:group a owl:DatatypeProperty ;
+    rdfs:domain dat:CutOffScore ;
     rdfs:range xsd:string .
 
 # School
@@ -113,26 +146,4 @@ sch:legalName a owl:DatatypeProperty ;
 
 sch:additionalType a owl:DatatypeProperty ;
     rdfs:domain sch:CollegeOrUniversity ;
-    rdfs:range xsd:string .
-
-# CategoryCodeSet
-sch:hasCategoryCode a owl:ObjectProperty ;
-    rdfs:domain sch:CategoryCodeSet ;
-    rdfs:range sch:CategoryCode .
-
-# CutOffScore (nota de corte)
-dat:value a owl:DatatypeProperty ;
-    rdfs:domain dat:CutOffScore ;
-    rdfs:range xsd:float .
-
-dat:year a owl:DatatypeProperty ;
-    rdfs:domain dat:CutOffScore ;
-    rdfs:range xsd:gYear .
-
-dat:call a owl:DatatypeProperty ;
-    rdfs:domain dat:CutOffScore ;
-    rdfs:range xsd:string .
-
-dat:group a owl:DatatypeProperty ;
-    rdfs:domain dat:CutOffScore ;
     rdfs:range xsd:string .
