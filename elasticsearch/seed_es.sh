@@ -10,7 +10,7 @@ echo "✅ Elasticsearch está disponible, creando índice..."
 INDEX_NAME="informacion_grados"
 
 # Si existe, lo borramos
-if curl -s -o /dev/null -w "%{http_code}" http://localhost:9200/$INDEX_NAME | grep -q "200"; then
+if curl -s -o /dev/null -w "%{http_code}" http://localhost:8000/$INDEX_NAME | grep -q "200"; then
   echo "🧹 Eliminando índice existente: $INDEX_NAME"
   curl -X DELETE "http://localhost:8000/$INDEX_NAME" >/dev/null 2>&1
 fi
