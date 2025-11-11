@@ -12,6 +12,8 @@ docker compose up postgres pgadmin elasticsearch graphdb jupyter
 
 > También se puede levantar el contenedor jupyter_llm para revisar el procesamiento de los campos *descripcion* y *salidas* con llama3.1:8b.
 
+En la carpeta `scripts` hemos dejado una serie de `.sh` que permiten lanzar los contenedores con diferentes configuraciones.
+
 ## 3. Acceder a los servicos
 
  En la siguiente tabla se detallan los puertos y accesos de los servicios:
