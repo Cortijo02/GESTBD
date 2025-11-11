@@ -23,4 +23,16 @@ También se puede levantar el contenedor jupyter_llm para revisar el procesamien
 | 📓 **Jupyter**  | `8002`        | [http://localhost:8002](http://localhost:8002) | Entorno interactivo para notebooks Python |
 | 📓 **Jupyter LLMs**  | `8003`        | [http://localhost:8003](http://localhost:8003) | Entorno trabajar con jupyters, CUDA y LLMs (Ollama) |
 
+Y a continuación las credenciales de la base de datos:
+
+| CAMPO               | VALOR                   |
+|---------------------|-------------------------|
+| email               | cinco@GESTDB.com        |
+| password            | cinco                   |
+| name                | postgres_db             |
+| host name/address   | postgres                |
+| port                | 5432                    |
+| username_db         | userGESTDB              |
+| password_db         | passGESTDB              |
+
 En el contenedor de jupyter "queries.ipynb" contiene las queries a los servicios de Postgres, ElasticSearch y GraphDB.
