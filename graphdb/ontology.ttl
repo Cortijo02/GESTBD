@@ -135,10 +135,6 @@ sch:address a owl:DatatypeProperty ;
     rdfs:domain sch:School ;
     rdfs:range xsd:string .
 
-sch:postalCode a owl:DatatypeProperty ;
-    rdfs:domain sch:School ;
-    rdfs:range xsd:string .
-
 # CollegeOrUniversity
 sch:legalName a owl:DatatypeProperty ;
     rdfs:domain sch:CollegeOrUniversity ;
