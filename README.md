@@ -1,17 +1,19 @@
-## Tabla resumen PgAdmin/PostGres:
+## 1. Descargar el repositorio
 
-| CAMPO               | VALOR                   |
-|---------------------|-------------------------|
-| email               | cinco@GESTDB.com        |
-| password            | cinco                   |
-| name                | postgres_db             |
-| host name/address   | postgres                |
-| port                | 5432                    |
-| username_db         | userGESTDB              |
-| password_db         | passGESTDB              |
+ ```
+git clone https://github.com/Cortijo02/GESTBD.git
+ ```
 
+## 2. Levantar contenedores
 
-## 🌐 Puertos y accesos de los servicios
+```
+docker compose up postgres pgadmin elasticsearch graphdb jupyter
+ ```
+También se puede levantar el contenedor jupyter_llm para revisar el procesamiento de los campos *descripcion* y *salidas*.
+
+## 3. Acceder a los servicos
+
+ En la siguiente tabla se detallan los puertos y accesos de los servicios:
 
 | Servicio        | Puerto local | URL de acceso                      | Descripción                                |
 |-----------------|---------------|------------------------------------|--------------------------------------------|
@@ -20,3 +22,5 @@
 | 🕸️ **GraphDB**  | `8001`        | [http://localhost:8001](http://localhost:8001) | Base de datos de grafos RDF/SPARQL        |
 | 📓 **Jupyter**  | `8002`        | [http://localhost:8002](http://localhost:8002) | Entorno interactivo para notebooks Python |
 | 📓 **Jupyter LLMs**  | `8003`        | [http://localhost:8003](http://localhost:8003) | Entorno trabajar con jupyters, CUDA y LLMs (Ollama) |
+
+En el contenedor de jupyter "queries.ipynb" contiene las queries a los servicios de Postgres, ElasticSearch y GraphDB.
