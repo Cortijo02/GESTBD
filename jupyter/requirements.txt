@@ -8,3 +8,4 @@ Elasticsearch==8.7.0
 sentence_transformers
 pdfplumber
 rdflib
+SPARQLWrapper
