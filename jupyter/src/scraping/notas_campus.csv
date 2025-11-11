@@ -1,0 +1,895 @@
+0,1,2,3,4,5,grados
+universidad,grado,grupo,nota,año,convocatoria,
+Universidad Complutense De Madrid,Arqueología,Grupo 1,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Arqueología,Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Arqueología,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Arqueología,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Arqueología,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Bellas Artes,Grupo 1,9.936,2025,ordinaria,
+Universidad Complutense De Madrid,Bellas Artes,Grupo 2,9.29,2025,ordinaria,
+Universidad Complutense De Madrid,Bellas Artes,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Bellas Artes,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Bellas Artes,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Ciencias de las Religiones,Grupo 1,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Ciencias de las Religiones,Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Ciencias de las Religiones,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Ciencias de las Religiones,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Ciencias de las Religiones,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Conservación y Restauración del Patrimonio Cultural,Grupo 1,9.600,2025,ordinaria,
+Universidad Complutense De Madrid,Conservación y Restauración del Patrimonio Cultural,Grupo 2,8.94,2025,ordinaria,
+Universidad Complutense De Madrid,Conservación y Restauración del Patrimonio Cultural,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Conservación y Restauración del Patrimonio Cultural,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Conservación y Restauración del Patrimonio Cultural,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Diseño,Grupo 1,11.650,2025,ordinaria,
+Universidad Complutense De Madrid,Diseño,Grupo 2,8.30,2025,ordinaria,
+Universidad Complutense De Madrid,Diseño,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Diseño,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Diseño,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Español: Lengua y Literatura,Grupo 1,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Español: Lengua y Literatura,Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Español: Lengua y Literatura,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Español: Lengua y Literatura,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Español: Lengua y Literatura,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Estudios Ingleses,Grupo 1,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Estudios Ingleses,Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Estudios Ingleses,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Estudios Ingleses,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Estudios Ingleses,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Estudios Semíticos e Islámicos,Grupo 1,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Estudios Semíticos e Islámicos,Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Estudios Semíticos e Islámicos,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Estudios Semíticos e Islámicos,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Estudios Semíticos e Islámicos,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Estudios Teatrales,Grupo 1,5.378,2025,ordinaria,
+Universidad Complutense De Madrid,Estudios Teatrales,Grupo 2,7.50,2025,ordinaria,
+Universidad Complutense De Madrid,Estudios Teatrales,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Estudios Teatrales,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Estudios Teatrales,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Filología Clásica,Grupo 1,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Filología Clásica,Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Filología Clásica,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Filología Clásica,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Filología Clásica,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Filosofía,Grupo 1,5.940,2025,ordinaria,
+Universidad Complutense De Madrid,Filosofía,Grupo 2,8.79,2025,ordinaria,
+Universidad Complutense De Madrid,Filosofía,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Filosofía,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Filosofía,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,"Filosofía, Política y Economía",Grupo 1,8.384,2025,ordinaria,
+Universidad Complutense De Madrid,"Filosofía, Política y Economía",Grupo 2,8,2025,ordinaria,
+Universidad Complutense De Madrid,"Filosofía, Política y Economía",Grupo 3,7.030,2025,ordinaria,
+Universidad Complutense De Madrid,"Filosofía, Política y Economía",Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,"Filosofía, Política y Economía",Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Historia,Grupo 1,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Historia,Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Historia,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Historia,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Historia,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Historia del Arte,Grupo 1,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Historia del Arte,Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Historia del Arte,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Historia del Arte,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Historia del Arte,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Lenguas Modernas y sus Literaturas,Grupo 1,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Lenguas Modernas y sus Literaturas,Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Lenguas Modernas y sus Literaturas,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Lenguas Modernas y sus Literaturas,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Lenguas Modernas y sus Literaturas,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Lingüística y Lenguas Aplicadas,Grupo 1,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Lingüística y Lenguas Aplicadas,Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Lingüística y Lenguas Aplicadas,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Lingüística y Lenguas Aplicadas,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Lingüística y Lenguas Aplicadas,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Literatura General y Comparada,Grupo 1,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Literatura General y Comparada,Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Literatura General y Comparada,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Literatura General y Comparada,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Literatura General y Comparada,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Musicología,Grupo 1,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Musicología,Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Musicología,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Musicología,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Musicología,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Traducción e Interpretación,Grupo 1,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Traducción e Interpretación,Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Traducción e Interpretación,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Traducción e Interpretación,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Traducción e Interpretación,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Administración y Dirección de Empresas,Grupo 1,9.564,2025,ordinaria,
+Universidad Complutense De Madrid,Administración y Dirección de Empresas,Grupo 2,6.99,2025,ordinaria,
+Universidad Complutense De Madrid,Administración y Dirección de Empresas,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Administración y Dirección de Empresas,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Administración y Dirección de Empresas,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Administración y Dirección de Empresas (en inglés),Grupo 1,10.714,2025,ordinaria,
+Universidad Complutense De Madrid,Administración y Dirección de Empresas (en inglés),Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Administración y Dirección de Empresas (en inglés),Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Administración y Dirección de Empresas (en inglés),Grupo 4,6.88,2025,ordinaria,
+Universidad Complutense De Madrid,Administración y Dirección de Empresas (en inglés),Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Antropología Social y Cultural,Grupo 1,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Antropología Social y Cultural,Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Antropología Social y Cultural,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Antropología Social y Cultural,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Antropología Social y Cultural,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Ciencia de los Datos Aplicada,Grupo 1,10.937,2025,ordinaria,
+Universidad Complutense De Madrid,Ciencia de los Datos Aplicada,Grupo 2,8.76,2025,ordinaria,
+Universidad Complutense De Madrid,Ciencia de los Datos Aplicada,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Ciencia de los Datos Aplicada,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Ciencia de los Datos Aplicada,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Ciencias Políticas,Grupo 1,5.778,2025,ordinaria,
+Universidad Complutense De Madrid,Ciencias Políticas,Grupo 2,7.54,2025,ordinaria,
+Universidad Complutense De Madrid,Ciencias Políticas,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Ciencias Políticas,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Ciencias Políticas,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Comercio,Grupo 1,8.150,2025,ordinaria,
+Universidad Complutense De Madrid,Comercio,Grupo 2,6.60,2025,ordinaria,
+Universidad Complutense De Madrid,Comercio,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Comercio,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Comercio,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Comunicación Audiovisual,Grupo 1,9.544,2025,ordinaria,
+Universidad Complutense De Madrid,Comunicación Audiovisual,Grupo 2,9.63,2025,ordinaria,
+Universidad Complutense De Madrid,Comunicación Audiovisual,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Comunicación Audiovisual,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Comunicación Audiovisual,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Criminología,Grupo 1,11.233,2025,ordinaria,
+Universidad Complutense De Madrid,Criminología,Grupo 2,8.14,2025,ordinaria,
+Universidad Complutense De Madrid,Criminología,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Criminología,Grupo 4,6.75,2025,ordinaria,
+Universidad Complutense De Madrid,Criminología,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Derecho,Grupo 1,8.439,2025,ordinaria,
+Universidad Complutense De Madrid,Derecho,Grupo 2,7.16,2025,ordinaria,
+Universidad Complutense De Madrid,Derecho,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Derecho,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Derecho,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Economía,Grupo 1,8.800,2025,ordinaria,
+Universidad Complutense De Madrid,Economía,Grupo 2,6.65,2025,ordinaria,
+Universidad Complutense De Madrid,Economía,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Economía,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Economía,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Economía (en inglés),Grupo 1,9.545,2025,ordinaria,
+Universidad Complutense De Madrid,Economía (en inglés),Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Economía (en inglés),Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Economía (en inglés),Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Economía (en inglés),Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Educación Social,Grupo 1,8.500,2025,ordinaria,
+Universidad Complutense De Madrid,Educación Social,Grupo 2,7.62,2025,ordinaria,
+Universidad Complutense De Madrid,Educación Social,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Educación Social,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Educación Social,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Estadística Aplicada,Grupo 1,8.878,2025,ordinaria,
+Universidad Complutense De Madrid,Estadística Aplicada,Grupo 2,7.95,2025,ordinaria,
+Universidad Complutense De Madrid,Estadística Aplicada,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Estadística Aplicada,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Estadística Aplicada,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,"Finanzas, Banca y Seguros",Grupo 1,9.420,2025,ordinaria,
+Universidad Complutense De Madrid,"Finanzas, Banca y Seguros",Grupo 2,7.78,2025,ordinaria,
+Universidad Complutense De Madrid,"Finanzas, Banca y Seguros",Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,"Finanzas, Banca y Seguros",Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,"Finanzas, Banca y Seguros",Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Geografía y Ordenación del Territorio,Grupo 1,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Geografía y Ordenación del Territorio,Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Geografía y Ordenación del Territorio,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Geografía y Ordenación del Territorio,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Geografía y Ordenación del Territorio,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Gestión y Administración Pública,Grupo 1,5.228,2025,ordinaria,
+Universidad Complutense De Madrid,Gestión y Administración Pública,Grupo 2,6.34,2025,ordinaria,
+Universidad Complutense De Madrid,Gestión y Administración Pública,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Gestión y Administración Pública,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Gestión y Administración Pública,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Información y Documentación,Grupo 1,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Información y Documentación,Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Información y Documentación,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Información y Documentación,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Información y Documentación,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Maestro de Educación Infantil,Grupo 1,9.050,2025,ordinaria,
+Universidad Complutense De Madrid,Maestro de Educación Infantil,Grupo 2,7.86,2025,ordinaria,
+Universidad Complutense De Madrid,Maestro de Educación Infantil,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Maestro de Educación Infantil,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Maestro de Educación Infantil,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Maestro de Educación Primaria,Grupo 1,10.262,2025,ordinaria,
+Universidad Complutense De Madrid,Maestro de Educación Primaria,Grupo 2,8.66,2025,ordinaria,
+Universidad Complutense De Madrid,Maestro de Educación Primaria,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Maestro de Educación Primaria,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Maestro de Educación Primaria,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Pedagogía,Grupo 1,8.600,2025,ordinaria,
+Universidad Complutense De Madrid,Pedagogía,Grupo 2,8,2025,ordinaria,
+Universidad Complutense De Madrid,Pedagogía,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Pedagogía,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Pedagogía,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Periodismo,Grupo 1,6.575,2025,ordinaria,
+Universidad Complutense De Madrid,Periodismo,Grupo 2,6.62,2025,ordinaria,
+Universidad Complutense De Madrid,Periodismo,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Periodismo,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Periodismo,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Publicidad y Relaciones Públicas,Grupo 1,10.364,2025,ordinaria,
+Universidad Complutense De Madrid,Publicidad y Relaciones Públicas,Grupo 2,7.88,2025,ordinaria,
+Universidad Complutense De Madrid,Publicidad y Relaciones Públicas,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Publicidad y Relaciones Públicas,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Publicidad y Relaciones Públicas,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Relaciones Internacionales,Grupo 1,11.185,2025,ordinaria,
+Universidad Complutense De Madrid,Relaciones Internacionales,Grupo 2,8.93,2025,ordinaria,
+Universidad Complutense De Madrid,Relaciones Internacionales,Grupo 3,8.525,2025,ordinaria,
+Universidad Complutense De Madrid,Relaciones Internacionales,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Relaciones Internacionales,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Relaciones Laborales y Recursos Humanos,Grupo 1,7.350,2025,ordinaria,
+Universidad Complutense De Madrid,Relaciones Laborales y Recursos Humanos,Grupo 2,8.11,2025,ordinaria,
+Universidad Complutense De Madrid,Relaciones Laborales y Recursos Humanos,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Relaciones Laborales y Recursos Humanos,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Relaciones Laborales y Recursos Humanos,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Sociología,Grupo 1,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Sociología,Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Sociología,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Sociología,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Sociología,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Trabajo Social,Grupo 1,7.140,2025,ordinaria,
+Universidad Complutense De Madrid,Trabajo Social,Grupo 2,7.53,2025,ordinaria,
+Universidad Complutense De Madrid,Trabajo Social,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Trabajo Social,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Trabajo Social,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Turismo,Grupo 1,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Turismo,Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Turismo,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Turismo,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Turismo,Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,"Maestro de Educación Infantil - Maestro de
+Educación Primaria",Grupo 1,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,"Maestro de Educación Infantil - Maestro de
+Educación Primaria",Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,"Maestro de Educación Infantil - Maestro de
+Educación Primaria",Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,"Maestro de Educación Infantil - Maestro de
+Educación Primaria",Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,"Maestro de Educación Infantil - Maestro de
+Educación Primaria",Grupo 5,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Maestro de Educación Primaria - Pedagogía,Grupo 1,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Maestro de Educación Primaria - Pedagogía,Grupo 2,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Maestro de Educación Primaria - Pedagogía,Grupo 3,5.000,2025,ordinaria,
+Universidad Complutense De Madrid,Maestro de Educación Primaria - Pedagogía,Grupo 4,5.00,2025,ordinaria,
+Universidad Complutense De Madrid,Maestro de Educación Primaria - Pedagogía,Grupo 5,5.00,2025,ordinaria,
+Universidad De Alcalá,Arquitectura Técnica y Edificación (Guadalajara),Grupo 1,7.707,2025,ordinaria,Guadalajara
+Universidad De Alcalá,Arquitectura Técnica y Edificación (Guadalajara),Grupo 2,6.70,2025,ordinaria,Guadalajara
+Universidad De Alcalá,Fundamentos de Arquitectura y Urbanismo,Grupo 1,10.148,2025,ordinaria,
+Universidad De Alcalá,Fundamentos de Arquitectura y Urbanismo,Grupo 2,7.12,2025,ordinaria,
+Universidad De Alcalá,Ingeniería de Computadores,Grupo 1,8.575,2025,ordinaria,
+Universidad De Alcalá,Ingeniería de Computadores,Grupo 2,5.00,2025,ordinaria,
+Universidad De Alcalá,Ingeniería Electrónica de Comunicaciones,Grupo 1,7.504,2025,ordinaria,
+Universidad De Alcalá,Ingeniería Electrónica de Comunicaciones,Grupo 2,5.00,2025,ordinaria,
+Universidad De Alcalá,Ingeniería Electrónica y Automática Industrial,Grupo 1,9.976,2025,ordinaria,
+Universidad De Alcalá,Ingeniería Electrónica y Automática Industrial,Grupo 2,5.00,2025,ordinaria,
+Universidad De Alcalá,Ingeniería en Sistemas de Información,Grupo 1,8.139,2025,ordinaria,
+Universidad De Alcalá,Ingeniería en Sistemas de Información,Grupo 2,5.00,2025,ordinaria,
+Universidad De Alcalá,Ingeniería en Sistemas de Telecomunicación,Grupo 1,7.800,2025,ordinaria,
+Universidad De Alcalá,Ingeniería en Sistemas de Telecomunicación,Grupo 2,5.00,2025,ordinaria,
+Universidad De Alcalá,Ingeniería en Tecnologías de Telecomunicación,Grupo 1,8.003,2025,ordinaria,
+Universidad De Alcalá,Ingeniería en Tecnologías de Telecomunicación,Grupo 2,5.00,2025,ordinaria,
+Universidad De Alcalá,"Ingeniería en Tecnologías de Telecomunicación + Master Universitario en
+Ingeniería de Telecomunicaciones",Grupo 1,8.553,2025,ordinaria,
+Universidad De Alcalá,"Ingeniería en Tecnologías de Telecomunicación + Master Universitario en
+Ingeniería de Telecomunicaciones",Grupo 2,5.00,2025,ordinaria,
+Universidad De Alcalá,Ingeniería en Tecnologías Industriales,Grupo 1,11.000,2025,ordinaria,
+Universidad De Alcalá,Ingeniería en Tecnologías Industriales,Grupo 2,5.00,2025,ordinaria,
+Universidad De Alcalá,Ingeniería en Tecnologías Industriales + Master Universitario en Ing. Industrial,Grupo 1,11.614,2025,ordinaria,
+Universidad De Alcalá,Ingeniería en Tecnologías Industriales + Master Universitario en Ing. Industrial,Grupo 2,5.00,2025,ordinaria,
+Universidad De Alcalá,Ingeniería Informática,Grupo 1,10.700,2025,ordinaria,
+Universidad De Alcalá,Ingeniería Informática,Grupo 2,5.00,2025,ordinaria,
+Universidad De Alcalá,Ingeniería Telemática,Grupo 1,7.575,2025,ordinaria,
+Universidad De Alcalá,Ingeniería Telemática,Grupo 2,6.11,2025,ordinaria,
+Universidad De Alcalá,Matemáticas y Computación (Guadalajara),Grupo 1,10.064,2025,ordinaria,Guadalajara
+Universidad De Alcalá,Matemáticas y Computación (Guadalajara),Grupo 2,7.69,2025,ordinaria,Guadalajara
+Universidad De Alcalá,Educación Social,Grupo 1,5.000,2025,ordinaria,
+Universidad De Alcalá,Educación Social,Grupo 2,5.00,2025,ordinaria,
+Universidad De Alcalá,Magisterio de Educación Infantil,Grupo 1,5.336,2025,ordinaria,
+Universidad De Alcalá,Magisterio de Educación Infantil,Grupo 2,5.00,2025,ordinaria,
+Universidad De Alcalá,Magisterio de Educación Infantil (bilingüe) (docencia en inglés),Grupo 1,5.000,2025,ordinaria,
+Universidad De Alcalá,Magisterio de Educación Infantil (bilingüe) (docencia en inglés),Grupo 2,5.00,2025,ordinaria,
+Universidad De Alcalá,Magisterio de Educación Infantil (semipresencial),Grupo 1,5.000,2025,ordinaria,
+Universidad De Alcalá,Magisterio de Educación Infantil (semipresencial),Grupo 2,5.00,2025,ordinaria,
+Universidad De Alcalá,Magisterio de Educación Primaria,Grupo 1,7.140,2025,ordinaria,
+Universidad De Alcalá,Magisterio de Educación Primaria,Grupo 2,5.00,2025,ordinaria,
+Universidad De Alcalá,Magisterio de Educación Primaria (bilingüe) (docencia en inglés),Grupo 1,5.000,2025,ordinaria,
+Universidad De Alcalá,Magisterio de Educación Primaria (bilingüe) (docencia en inglés),Grupo 2,5.00,2025,ordinaria,
+Universidad De Alcalá,Magisterio de Educación Primaria (Semipresencial),Grupo 1,5.000,2025,ordinaria,Semipresencial
+Universidad De Alcalá,Magisterio de Educación Primaria (Semipresencial),Grupo 2,5.00,2025,ordinaria,Semipresencial
+Universidad De Alcalá,Psicología,Grupo 1,9.199,2025,ordinaria,
+Universidad De Alcalá,Psicología,Grupo 2,6.74,2025,ordinaria,
+Universidad Autónoma De Madrid,Arqueología,Grupo 1,5.000,2025,ordinaria,
+Universidad Autónoma De Madrid,Arqueología,Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,Estudios Clásicos y de la Antigüedad,Grupo 1,5.000,2025,ordinaria,
+Universidad Autónoma De Madrid,Estudios Clásicos y de la Antigüedad,Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,Estudios de Asia y África (Árabe),Grupo 1,5.000,2025,ordinaria,Árabe
+Universidad Autónoma De Madrid,Estudios de Asia y África (Árabe),Grupo 2,5.00,2025,ordinaria,Árabe
+Universidad Autónoma De Madrid,Estudios de Asia y África (Chino),Grupo 1,5.000,2025,ordinaria,Chino
+Universidad Autónoma De Madrid,Estudios de Asia y África (Chino),Grupo 2,5.00,2025,ordinaria,Chino
+Universidad Autónoma De Madrid,Estudios de Asia y África (Japonés),Grupo 1,5.000,2025,ordinaria,Japonés
+Universidad Autónoma De Madrid,Estudios de Asia y África (Japonés),Grupo 2,5.00,2025,ordinaria,Japonés
+Universidad Autónoma De Madrid,Estudios Hispánicos: Lengua Española y sus Literaturas,Grupo 1,5.000,2025,ordinaria,
+Universidad Autónoma De Madrid,Estudios Hispánicos: Lengua Española y sus Literaturas,Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,Estudios Ingleses,Grupo 1,5.000,2025,ordinaria,
+Universidad Autónoma De Madrid,Estudios Ingleses,Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,Filosofía,Grupo 1,5.000,2025,ordinaria,
+Universidad Autónoma De Madrid,Filosofía,Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,Historia,Grupo 1,5.000,2025,ordinaria,
+Universidad Autónoma De Madrid,Historia,Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,Historia del Arte,Grupo 1,5.000,2025,ordinaria,
+Universidad Autónoma De Madrid,Historia del Arte,Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,Historia y Ciencias de la Música y Tecnología Musical,Grupo 1,5.000,2025,ordinaria,
+Universidad Autónoma De Madrid,Historia y Ciencias de la Música y Tecnología Musical,Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,"Lenguas Modernas, Cultura y Comunicación-Español",Grupo 1,5.000,2025,ordinaria,
+Universidad Autónoma De Madrid,"Lenguas Modernas, Cultura y Comunicación-Español",Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,"Lenguas Modernas, Cultura y Comunicación-Francés",Grupo 1,5.000,2025,ordinaria,
+Universidad Autónoma De Madrid,"Lenguas Modernas, Cultura y Comunicación-Francés",Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,"Lenguas Modernas, Cultura y Comunicación-Inglés",Grupo 1,5.000,2025,ordinaria,
+Universidad Autónoma De Madrid,"Lenguas Modernas, Cultura y Comunicación-Inglés",Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,Traducción e Interpretación (Francés),Grupo 1,5.000,2025,ordinaria,Francés
+Universidad Autónoma De Madrid,Traducción e Interpretación (Francés),Grupo 2,5.00,2025,ordinaria,Francés
+Universidad Autónoma De Madrid,Traducción e Interpretación (Inglés),Grupo 1,6.700,2025,ordinaria,Inglés
+Universidad Autónoma De Madrid,Traducción e Interpretación (Inglés),Grupo 2,5.00,2025,ordinaria,Inglés
+Universidad Autónoma De Madrid,"Ciencias Ambientales - Geografía, Geotecnologías y Sostenibilidad
+Territorial",Grupo 1,6.580,2025,ordinaria,
+Universidad Autónoma De Madrid,"Ciencias Ambientales - Geografía, Geotecnologías y Sostenibilidad
+Territorial",Grupo 2,8.10,2025,ordinaria,
+Universidad Autónoma De Madrid,Derecho - Administración y Dirección de Empresas,Grupo 1,10.928,2025,ordinaria,
+Universidad Autónoma De Madrid,Derecho - Administración y Dirección de Empresas,Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,Derecho - Ciencia Política y Administración Pública,Grupo 1,8.911,2025,ordinaria,
+Universidad Autónoma De Madrid,Derecho - Ciencia Política y Administración Pública,Grupo 2,7.25,2025,ordinaria,
+Universidad Autónoma De Madrid,Estudios Internacionales - Estudios de Asia y África (árabe),Grupo 1,10.336,2025,ordinaria,
+Universidad Autónoma De Madrid,Estudios Internacionales - Estudios de Asia y África (árabe),Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,Filosofía - Historia,Grupo 1,12.264,2025,ordinaria,
+Universidad Autónoma De Madrid,Filosofía - Historia,Grupo 2,8.49,2025,ordinaria,
+Universidad Autónoma De Madrid,Filosofía - Historia y CC. de la Música y Tecnología Musical,Grupo 1,5.000,2025,ordinaria,
+Universidad Autónoma De Madrid,Filosofía - Historia y CC. de la Música y Tecnología Musical,Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,Historia - Estudios Internacionales,Grupo 1,12.964,2025,ordinaria,
+Universidad Autónoma De Madrid,Historia - Estudios Internacionales,Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,Historia del Arte - Estudios Clásicos y de la Antigüedad,Grupo 1,5.000,2025,ordinaria,
+Universidad Autónoma De Madrid,Historia del Arte - Estudios Clásicos y de la Antigüedad,Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,Historia del Arte - Historia,Grupo 1,12.513,2025,ordinaria,
+Universidad Autónoma De Madrid,Historia del Arte - Historia,Grupo 2,8.56,2025,ordinaria,
+Universidad Autónoma De Madrid,Ingeniería Informática - Matemáticas,Grupo 1,13.136,2025,ordinaria,
+Universidad Autónoma De Madrid,Ingeniería Informática - Matemáticas,Grupo 2,8.82,2025,ordinaria,
+Universidad Autónoma De Madrid,Maestro en Educación Infantil - Maestro en Educación Primaria,Grupo 1,10.278,2025,ordinaria,
+Universidad Autónoma De Madrid,Maestro en Educación Infantil - Maestro en Educación Primaria,Grupo 2,8.01,2025,ordinaria,
+Universidad Autónoma De Madrid,Nutrición Humana y Dietética - Ciencia y Tecnología de los Alimentos,Grupo 1,10.870,2025,ordinaria,
+Universidad Autónoma De Madrid,Nutrición Humana y Dietética - Ciencia y Tecnología de los Alimentos,Grupo 2,8.58,2025,ordinaria,
+Universidad Autónoma De Madrid,"Traducción e Interpretación (Francés) - Lenguas Modernas, Cultura y
+Comunicación (Francés)",Grupo 1,5.790,2025,ordinaria,Francés
+Universidad Autónoma De Madrid,"Traducción e Interpretación (Francés) - Lenguas Modernas, Cultura y
+Comunicación (Francés)",Grupo 2,5.00,2025,ordinaria,Francés
+Universidad Autónoma De Madrid,Diseño y Gestión de Proyectos Transmedia,Grupo 1,5.000,2025,ordinaria,
+Universidad Autónoma De Madrid,Diseño y Gestión de Proyectos Transmedia,Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,Educación Social,Grupo 1,5.000,2025,ordinaria,
+Universidad Autónoma De Madrid,Educación Social,Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,Fisioterapia,Grupo 1,5.000,2025,ordinaria,
+Universidad Autónoma De Madrid,Fisioterapia,Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,Maestro en Educación Infantil,Grupo 1,5.000,2025,ordinaria,
+Universidad Autónoma De Madrid,Maestro en Educación Infantil,Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,Maestro en Educación Primaria,Grupo 1,5.000,2025,ordinaria,
+Universidad Autónoma De Madrid,Maestro en Educación Primaria,Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,Podología,Grupo 1,7.203,2025,ordinaria,
+Universidad Autónoma De Madrid,Podología,Grupo 2,8.59,2025,ordinaria,
+Universidad Autónoma De Madrid,Terapia Ocupacional,Grupo 1,5.000,2025,ordinaria,
+Universidad Autónoma De Madrid,Terapia Ocupacional,Grupo 2,5.00,2025,ordinaria,
+Universidad Autónoma De Madrid,Trabajo Social,Grupo 1,5.000,2025,ordinaria,
+Universidad Autónoma De Madrid,Trabajo Social,Grupo 2,5.00,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ciencia e Ingeniería de Datos (en inglés),Grupo 1,11.556,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ciencia e Ingeniería de Datos (en inglés),Grupo 2,7.56,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería Aeroespacial (en inglés),Grupo 1,13.300,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería Aeroespacial (en inglés),Grupo 2,7.43,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería Biomédica (en inglés),Grupo 1,12.843,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería Biomédica (en inglés),Grupo 2,9.31,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería de Comunicaciones Móviles y Espaciales (español o bilingüe),Grupo 1,10.253,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería de Comunicaciones Móviles y Espaciales (español o bilingüe),Grupo 2,5.00,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería de Internet,Grupo 1,9.764,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería de Internet,Grupo 2,5.00,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería de la Energía (en inglés),Grupo 1,11.175,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería de la Energía (en inglés),Grupo 2,5.00,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería de Sonido e Imagen (español o bilingüe),Grupo 1,10.115,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería de Sonido e Imagen (español o bilingüe),Grupo 2,5.00,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería Eléctrica (español o bilingüe),Grupo 1,10.967,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería Eléctrica (español o bilingüe),Grupo 2,5.00,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería Electrónica Industrial y Automática (español o bilingüe),Grupo 1,10.636,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería Electrónica Industrial y Automática (español o bilingüe),Grupo 2,5.00,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería en Tecnologías de Telecomunicación (español o bilingüe),Grupo 1,10.713,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería en Tecnologías de Telecomunicación (español o bilingüe),Grupo 2,5.00,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería en Tecnologías Industriales (español o bilingüe),Grupo 1,11.966,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería en Tecnologías Industriales (español o bilingüe),Grupo 2,5.00,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería Física (en inglés),Grupo 1,13.225,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería Física (en inglés),Grupo 2,7.38,2025,ordinaria,
+Universidad Carlos Iii De Madrid,"Ingeniería Informática (español, bilingüe o inglés)",Grupo 1,10.978,2025,ordinaria,
+Universidad Carlos Iii De Madrid,"Ingeniería Informática (español, bilingüe o inglés)",Grupo 2,5.00,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería Informática (Colmenarejo),Grupo 1,10.364,2025,ordinaria,Colmenarejo
+Universidad Carlos Iii De Madrid,Ingeniería Informática (Colmenarejo),Grupo 2,5.00,2025,ordinaria,Colmenarejo
+Universidad Carlos Iii De Madrid,Ingeniería Mecánica (español o bilingüe),Grupo 1,11.664,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería Mecánica (español o bilingüe),Grupo 2,5.00,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería Robótica (en inglés),Grupo 1,11.489,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería Robótica (en inglés),Grupo 2,8.63,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Inteligencia Artificial,Grupo 1,11.775,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Inteligencia Artificial,Grupo 2,8.05,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Inteligencia Artificial (Colmenarejo),Grupo 1,10.448,2025,ordinaria,Colmenarejo
+Universidad Carlos Iii De Madrid,Inteligencia Artificial (Colmenarejo),Grupo 2,7.04,2025,ordinaria,Colmenarejo
+Universidad Carlos Iii De Madrid,Matemática Aplicada,Grupo 1,12.024,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Matemática Aplicada,Grupo 2,6.89,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Matemáticas y Computación (en inglés),Grupo 1,12.224,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Matemáticas y Computación (en inglés),Grupo 2,8.41,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Programa Académico de Ingeniería Informática vía Grado en Ing. Informática (bilingüe),Grupo 1,12.825,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Programa Académico de Ingeniería Informática vía Grado en Ing. Informática (bilingüe),Grupo 2,5.00,2025,ordinaria,
+Universidad Carlos Iii De Madrid,"Programa Académico de Ingeniería de Telecomunicación vía Grado en Ing. en
+Tecnologías de Telecomunicación (bilingüe)",Grupo 1,12.889,2025,ordinaria,
+Universidad Carlos Iii De Madrid,"Programa Académico de Ingeniería de Telecomunicación vía Grado en Ing. en
+Tecnologías de Telecomunicación (bilingüe)",Grupo 2,5.00,2025,ordinaria,
+Universidad Carlos Iii De Madrid,"Programa Académico de Ingeniería Industrial vía Grado en Ing. en Tecnologías
+Industriales (bilingüe-español)",Grupo 1,13.414,2025,ordinaria,
+Universidad Carlos Iii De Madrid,"Programa Académico de Ingeniería Industrial vía Grado en Ing. en Tecnologías
+Industriales (bilingüe-español)",Grupo 2,5.00,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ciencias Políticas y Sociología,Grupo 1,9.041,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ciencias Políticas y Sociología,Grupo 2,7.40,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ciencia e Ingeniería de Datos e Ingeniería en Tecnologías de Telecomunicación (bilingüe),Grupo 1,12.124,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ciencia e Ingeniería de Datos e Ingeniería en Tecnologías de Telecomunicación (bilingüe),Grupo 2,5.00,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Derecho y Administración de Empresas (español o bilingüe),Grupo 1,12.600,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Derecho y Administración de Empresas (español o bilingüe),Grupo 2,8.11,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Derecho y Administración de Empresas (Colmenarejo),Grupo 1,11.250,2025,ordinaria,Colmenarejo
+Universidad Carlos Iii De Madrid,Derecho y Administración de Empresas (Colmenarejo),Grupo 2,7.94,2025,ordinaria,Colmenarejo
+Universidad Carlos Iii De Madrid,Derecho y Ciencias Políticas,Grupo 1,11.178,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Derecho y Ciencias Políticas,Grupo 2,7.37,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Derecho y Economía (español o bilingüe),Grupo 1,12.239,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Derecho y Economía (español o bilingüe),Grupo 2,6.55,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Estudios Internacionales y Administración de Empresas (en inglés),Grupo 1,13.119,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Estudios Internacionales y Administración de Empresas (en inglés),Grupo 2,5.00,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Estudios Internacionales y Ciencias Políticas (bilingüe),Grupo 1,12.475,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Estudios Internacionales y Ciencias Políticas (bilingüe),Grupo 2,7.43,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Estudios Internacionales y Derecho (bilingue),Grupo 1,13.175,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Estudios Internacionales y Derecho (bilingue),Grupo 2,8.44,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Estudios Internacionales y Economía (en inglés),Grupo 1,12.830,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Estudios Internacionales y Economía (en inglés),Grupo 2,5.00,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería Física e Ingeniería en Tecnologías Industriales (bilingüe),Grupo 1,13.464,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería Física e Ingeniería en Tecnologías Industriales (bilingüe),Grupo 2,6.35,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Ingeniería Informática y Administración de Empresas (Colmenarejo),Grupo 1,11.386,2025,ordinaria,Colmenarejo
+Universidad Carlos Iii De Madrid,Ingeniería Informática y Administración de Empresas (Colmenarejo),Grupo 2,5.00,2025,ordinaria,Colmenarejo
+Universidad Carlos Iii De Madrid,Ingeniería Informática y Administración de Empresas (Leganes-Getafe),Grupo 1,12.053,2025,ordinaria,Leganes-Getafe
+Universidad Carlos Iii De Madrid,Ingeniería Informática y Administración de Empresas (Leganes-Getafe),Grupo 2,5.00,2025,ordinaria,Leganes-Getafe
+Universidad Carlos Iii De Madrid,Periodismo y Comunicación Audiovisual (español o bilingüe),Grupo 1,10.939,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Periodismo y Comunicación Audiovisual (español o bilingüe),Grupo 2,7.58,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Periodismo y Humanidades,Grupo 1,7.816,2025,ordinaria,
+Universidad Carlos Iii De Madrid,Periodismo y Humanidades,Grupo 2,9.07,2025,ordinaria,
+Universidad Politécnica De Madrid,Arquitecto/a (PARS),Grupo 1,13.089,2025,ordinaria,
+Universidad Politécnica De Madrid,Arquitecto/a (PARS),Grupo 2,8.60,2025,ordinaria,
+Universidad Politécnica De Madrid,Arquitectura Naval / Ingeniería Marítima,Grupo 1,10.467,2025,ordinaria,
+Universidad Politécnica De Madrid,Arquitectura Naval / Ingeniería Marítima,Grupo 2,6.51,2025,ordinaria,
+Universidad Politécnica De Madrid,Biotecnología,Grupo 1,12.728,2025,ordinaria,
+Universidad Politécnica De Madrid,Biotecnología,Grupo 2,8.23,2025,ordinaria,
+Universidad Politécnica De Madrid,Ciencia de Datos e Inteligencia Artificial (Campus de Montegancedo),Grupo 1,11.899,2025,ordinaria,Campus de Montegancedo
+Universidad Politécnica De Madrid,Ciencia de Datos e Inteligencia Artificial (Campus de Montegancedo),Grupo 2,8.98,2025,ordinaria,Campus de Montegancedo
+Universidad Politécnica De Madrid,Ciencia de Datos e Inteligencia Artificial (Campus Sur),Grupo 1,12.139,2025,ordinaria,Campus Sur
+Universidad Politécnica De Madrid,Ciencia de Datos e Inteligencia Artificial (Campus Sur),Grupo 2,8.35,2025,ordinaria,Campus Sur
+Universidad Politécnica De Madrid,Edificación,Grupo 1,7.637,2025,ordinaria,
+Universidad Politécnica De Madrid,Edificación,Grupo 2,6.97,2025,ordinaria,
+Universidad Politécnica De Madrid,Fundamentos de la Arquitectura,Grupo 1,11.091,2025,ordinaria,
+Universidad Politécnica De Madrid,Fundamentos de la Arquitectura,Grupo 2,7.73,2025,ordinaria,
+Universidad Politécnica De Madrid,Gestión y Operaciones del Transporte Aéreo,Grupo 1,11.478,2025,ordinaria,
+Universidad Politécnica De Madrid,Gestión y Operaciones del Transporte Aéreo,Grupo 2,7.15,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Aeroespacial,Grupo 1,12.484,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Aeroespacial,Grupo 2,7.59,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a Aeronáutico/a (PARS),Grupo 1,13.411,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a Aeronáutico/a (PARS),Grupo 2,7.44,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Agrícola,Grupo 1,8.173,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Agrícola,Grupo 2,6.88,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a Agrónomo/a (PARS),Grupo 1,10.814,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a Agrónomo/a (PARS),Grupo 2,5.00,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Agroambiental,Grupo 1,5.750,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Agroambiental,Grupo 2,6.88,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Alimentaria,Grupo 1,7.015,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Alimentaria,Grupo 2,7.13,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Biomédica,Grupo 1,12.553,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Biomédica,Grupo 2,8.89,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a Biomédico/a (PARS),Grupo 1,13.150,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a Biomédico/a (PARS),Grupo 2,8.45,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Civil y Territorial (Moncloa),Grupo 1,10.053,2025,ordinaria,Moncloa
+Universidad Politécnica De Madrid,Ingeniería Civil y Territorial (Moncloa),Grupo 2,5.00,2025,ordinaria,Moncloa
+Universidad Politécnica De Madrid,Ingeniería Civil y Territorial (Retiro),Grupo 1,9.675,2025,ordinaria,Retiro
+Universidad Politécnica De Madrid,Ingeniería Civil y Territorial (Retiro),Grupo 2,6.33,2025,ordinaria,Retiro
+Universidad Politécnica De Madrid,"Ingeniero/a de Caminos, Canales y Puertos (PARS)",Grupo 1,11.961,2025,ordinaria,
+Universidad Politécnica De Madrid,"Ingeniero/a de Caminos, Canales y Puertos (PARS)",Grupo 2,6.40,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería de Computadores,Grupo 1,9.311,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería de Computadores,Grupo 2,5.00,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería de la Energía,Grupo 1,11.039,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería de la Energía,Grupo 2,5.00,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería de las Tecnologías de la Información Geoespacial,Grupo 1,7.310,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería de las Tecnologías de la Información Geoespacial,Grupo 2,5.00,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería de Materiales,Grupo 1,9.561,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería de Materiales,Grupo 2,5.00,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a de Materiales (PARS),Grupo 1,10.728,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a de Materiales (PARS),Grupo 2,5.00,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a de Minas (PARS),Grupo 1,10.388,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a de Minas (PARS),Grupo 2,7.24,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a de Montes (PARS),Grupo 1,8.739,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a de Montes (PARS),Grupo 2,5.00,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería de Organización,Grupo 1,12.636,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería de Organización,Grupo 2,5.00,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería de Sistemas de Telecomunicación,Grupo 1,9.186,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería de Sistemas de Telecomunicación,Grupo 2,7.40,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería de Sonido e Imagen,Grupo 1,8.066,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería de Sonido e Imagen,Grupo 2,6.99,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería de Tecnologías y Servicios de Telecomunicación,Grupo 1,9.408,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería de Tecnologías y Servicios de Telecomunicación,Grupo 2,5.00,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a de Telecomunicación (PARS),Grupo 1,11.686,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a de Telecomunicación (PARS),Grupo 2,5.00,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería del Medio Natural,Grupo 1,5.744,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería del Medio Natural,Grupo 2,6.09,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería del Software,Grupo 1,10.036,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería del Software,Grupo 2,5.00,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a del Software (PARS),Grupo 1,11.533,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a del Software (PARS),Grupo 2,5.00,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Eléctrica,Grupo 1,10.450,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Eléctrica,Grupo 2,7.01,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Electrónica de Comunicaciones,Grupo 1,8.361,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Electrónica de Comunicaciones,Grupo 2,8.14,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Electrónica Industrial y Automática,Grupo 1,10.670,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Electrónica Industrial y Automática,Grupo 2,7.48,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería en Diseño Industrial y Desarrollo de Producto,Grupo 1,12.461,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería en Diseño Industrial y Desarrollo de Producto,Grupo 2,8.20,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a Sistemas Informáticos Distribuidos y Embebidos (PARS),Grupo 1,8.728,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a Sistemas Informáticos Distribuidos y Embebidos (PARS),Grupo 2,5.00,2025,ordinaria,
+Universidad Politécnica De Madrid,"Ingeniería en Tecnología Minera / Ing. Geológica / Ing. Mineralúrgica y
+Metalúrgica de las Materias Primas / Ing. en Recursos Energéticos,
+Combustibles y Explosivos",Grupo 1,8.390,2025,ordinaria,
+Universidad Politécnica De Madrid,"Ingeniería en Tecnología Minera / Ing. Geológica / Ing. Mineralúrgica y
+Metalúrgica de las Materias Primas / Ing. en Recursos Energéticos,
+Combustibles y Explosivos",Grupo 2,7.02,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería en Tecnologías Aeroespaciales,Grupo 1,12.363,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería en Tecnologías Aeroespaciales,Grupo 2,7.50,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería en Tecnologías Ambientales,Grupo 1,6.464,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería en Tecnologías Ambientales,Grupo 2,5.00,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería en Tecnologías Industriales,Grupo 1,12.114,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería en Tecnologías Industriales,Grupo 2,5.00,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Forestal,Grupo 1,5.404,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Forestal,Grupo 2,6.87,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Geomática,Grupo 1,6.686,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Geomática,Grupo 2,6.40,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a Industrial (PARS),Grupo 1,13.525,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a Industrial (PARS),Grupo 2,7.42,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Informática,Grupo 1,10.175,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Informática,Grupo 2,5.00,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a Informática (PARS),Grupo 1,11.425,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a Informática (PARS),Grupo 2,5.00,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Mecánica,Grupo 1,11.867,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Mecánica,Grupo 2,7.84,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a Naval y Oceánica (PARS),Grupo 1,11.978,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniero/a Naval y Oceánica (PARS),Grupo 2,7.16,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Química (Castellana),Grupo 1,11.707,2025,ordinaria,Castellana
+Universidad Politécnica De Madrid,Ingeniería Química (Castellana),Grupo 2,7.47,2025,ordinaria,Castellana
+Universidad Politécnica De Madrid,Ingeniería Química (Embajadores),Grupo 1,10.883,2025,ordinaria,Embajadores
+Universidad Politécnica De Madrid,Ingeniería Química (Embajadores),Grupo 2,5.00,2025,ordinaria,Embajadores
+Universidad Politécnica De Madrid,Ingeniería Telemática,Grupo 1,8.540,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería Telemática,Grupo 2,6.53,2025,ordinaria,
+Universidad Politécnica De Madrid,Ingeniería y Sistemas de datos (Campus Moncloa),Grupo 1,11.128,2025,ordinaria,Campus Moncloa
+Universidad Politécnica De Madrid,Ingeniería y Sistemas de datos (Campus Moncloa),Grupo 2,9.39,2025,ordinaria,Campus Moncloa
+Universidad Politécnica De Madrid,Matemáticas e Informática,Grupo 1,11.507,2025,ordinaria,
+Universidad Politécnica De Madrid,Matemáticas e Informática,Grupo 2,5.00,2025,ordinaria,
+Universidad Politécnica De Madrid,Sistemas de Información,Grupo 1,9.080,2025,ordinaria,
+Universidad Politécnica De Madrid,Sistemas de Información,Grupo 2,5.00,2025,ordinaria,
+Universidad Politécnica De Madrid,Tecnologías para la Sociedad de la Información,Grupo 1,8.190,2025,ordinaria,
+Universidad Politécnica De Madrid,Tecnologías para la Sociedad de la Información,Grupo 2,6.40,2025,ordinaria,
+Universidad Rey Juan Carlos,Ciencia e Ingeniería de Datos (Fuenlabrada),Grupo 1,10.403,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Ciencia e Ingeniería de Datos (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Diseño y Desarrollo de Videojuegos (Madrid),Grupo 1,9.489,2025,ordinaria,Madrid
+Universidad Rey Juan Carlos,Diseño y Desarrollo de Videojuegos (Madrid),Grupo 2,7.11,2025,ordinaria,Madrid
+Universidad Rey Juan Carlos,Diseño y Desarrollo de Videojuegos (Móstoles),Grupo 1,9.404,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Diseño y Desarrollo de Videojuegos (Móstoles),Grupo 2,6.32,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Fundamentos de la Arquitectura (Fuenlabrada),Grupo 1,10.428,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Fundamentos de la Arquitectura (Fuenlabrada),Grupo 2,8.22,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Ingeniería Aeroespacial (Fuenlabrada),Grupo 1,12.114,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Ingeniería Aeroespacial (Fuenlabrada),Grupo 2,9.07,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Ingeniería Ambiental (Móstoles),Grupo 1,7.848,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería Ambiental (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería Biomédica (Fuenlabrada),Grupo 1,12.339,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Ingeniería Biomédica (Fuenlabrada),Grupo 2,9.38,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Ingeniería Biomédica (inglés) (Fuenlabrada),Grupo 1,12.139,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Ingeniería Biomédica (inglés) (Fuenlabrada),Grupo 2,9.27,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Ingeniería de Computadores (Móstoles),Grupo 1,9.186,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería de Computadores (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería de la Ciberseguridad (Móstoles),Grupo 1,10.803,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería de la Ciberseguridad (Móstoles),Grupo 2,7.43,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería de la Energía (Móstoles),Grupo 1,10.040,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería de la Energía (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería de Materiales (Móstoles),Grupo 1,9.525,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería de Materiales (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería de Robótica Software (Fuenlabrada),Grupo 1,9.814,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Ingeniería de Robótica Software (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Administración y Dirección de Empresas (Fuenlabrada),Grupo 1,8.714,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Administración y Dirección de Empresas (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Administración y Dirección de Empresas (Inglés) (Vicalvaro),Grupo 1,8.925,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Administración y Dirección de Empresas (Inglés) (Vicalvaro),Grupo 2,7.77,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Administración y Direccion de Empresas (Móstoles),Grupo 1,8.838,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Administración y Direccion de Empresas (Móstoles),Grupo 2,6.97,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Administración y Dirección de Empresas (Vicalvaro),Grupo 1,8.450,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Administración y Dirección de Empresas (Vicalvaro),Grupo 2,6.32,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Administración y Dirección de Empresas (A Distancia) (Vicalvaro),Grupo 1,8.140,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Administración y Dirección de Empresas (A Distancia) (Vicalvaro),Grupo 2,8.22,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Ciencia Política y Gestión Pública (Fuenlabrada),Grupo 1,7.441,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Ciencia Política y Gestión Pública (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Ciencia Política y Gestión Pública (Vicalvaro),Grupo 1,7.427,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Ciencia Política y Gestión Pública (Vicalvaro),Grupo 2,6.22,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,"Ciencia, Gestión e Ingeniería de Servicios (Madrid)",Grupo 1,8.080,2025,ordinaria,Madrid
+Universidad Rey Juan Carlos,"Ciencia, Gestión e Ingeniería de Servicios (Madrid)",Grupo 2,5.00,2025,ordinaria,Madrid
+Universidad Rey Juan Carlos,"Ciencia, Gestión e Ingeniería de Servicios (Semipresencial) (Vicalvaro)",Grupo 1,7.200,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,"Ciencia, Gestión e Ingeniería de Servicios (Semipresencial) (Vicalvaro)",Grupo 2,8.44,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Ciencias de la Actividad Física y del Deporte (Fuenlabrada),Grupo 1,10.625,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Ciencias de la Actividad Física y del Deporte (Fuenlabrada),Grupo 2,8.55,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Comunicación Audiovisual (Fuenlabrada),Grupo 1,8.560,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Comunicación Audiovisual (Fuenlabrada),Grupo 2,7.03,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Comunicación Audiovisual (Vicalvaro),Grupo 1,9.115,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Comunicación Audiovisual (Vicalvaro),Grupo 2,7.40,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Comunicación Digital (Fuenlabrada),Grupo 1,9.138,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Comunicación Digital (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Contabilidad y Finanzas (Fuenlabrada),Grupo 1,8.300,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Contabilidad y Finanzas (Fuenlabrada),Grupo 2,6.65,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Contabilidad y Finanzas (Móstoles),Grupo 1,8.288,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Contabilidad y Finanzas (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Contabilidad y Finanzas (A Distancia) (Vicálvaro),Grupo 1,7.920,2025,ordinaria,Vicálvaro
+Universidad Rey Juan Carlos,Contabilidad y Finanzas (A Distancia) (Vicálvaro),Grupo 2,7.77,2025,ordinaria,Vicálvaro
+Universidad Rey Juan Carlos,Contabilidad y Finanzas (Vicalvaro),Grupo 1,9.039,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Contabilidad y Finanzas (Vicalvaro),Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Criminología (Alcorcón),Grupo 1,10.087,2025,ordinaria,Alcorcón
+Universidad Rey Juan Carlos,Criminología (Alcorcón),Grupo 2,8.60,2025,ordinaria,Alcorcón
+Universidad Rey Juan Carlos,Criminología (Vicalvaro),Grupo 1,10.461,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Criminología (Vicalvaro),Grupo 2,8.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Derecho (Fuenlabrada),Grupo 1,9.166,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Derecho (Fuenlabrada),Grupo 2,7.90,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Derecho (Móstoles),Grupo 1,8.889,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Derecho (Móstoles),Grupo 2,8.44,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Derecho (Vicalvaro),Grupo 1,8.723,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Derecho (Vicalvaro),Grupo 2,8.59,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Derecho (Semipresencial) (Vicalvaro),Grupo 1,8.111,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Derecho (Semipresencial) (Vicalvaro),Grupo 2,9.09,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Dirección y Gestión de Empresas en el Ámbito Digital (Vicálvaro),Grupo 1,9.903,2025,ordinaria,Vicálvaro
+Universidad Rey Juan Carlos,Dirección y Gestión de Empresas en el Ámbito Digital (Vicálvaro),Grupo 2,5.00,2025,ordinaria,Vicálvaro
+Universidad Rey Juan Carlos,Economía (Fuenlabrada),Grupo 1,9.078,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Economía (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Economía (Inglés) (Madrid),Grupo 1,6.989,2025,ordinaria,Madrid
+Universidad Rey Juan Carlos,Economía (Inglés) (Madrid),Grupo 2,5.00,2025,ordinaria,Madrid
+Universidad Rey Juan Carlos,Economía (Móstoles),Grupo 1,8.365,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Economía (Móstoles),Grupo 2,7.61,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Economía (Vicalvaro),Grupo 1,8.475,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Economía (Vicalvaro),Grupo 2,6.18,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Economía Financiera y Actuarial (Móstoles),Grupo 1,8.805,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Economía Financiera y Actuarial (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Economía Financiera y Actuarial (Vicalvaro),Grupo 1,9.564,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Economía Financiera y Actuarial (Vicalvaro),Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Educación Infantil (Fuenlabrada),Grupo 1,9.140,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Educación Infantil (Fuenlabrada),Grupo 2,7.84,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Educación Infantil (Inglés) (Vicalvaro),Grupo 1,5.000,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Educación Infantil (Inglés) (Vicalvaro),Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Educación Infantil (Móstoles),Grupo 1,8.910,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Educación Infantil (Móstoles),Grupo 2,7.70,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Educación Infantil (Semipresencial) (Vicalvaro),Grupo 1,8.670,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Educación Infantil (Semipresencial) (Vicalvaro),Grupo 2,9.53,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,"Educación Primaria y Educación Primaria mención Educación Física
+(Fuenlabrada)",Grupo 1,9.564,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,"Educación Primaria y Educación Primaria mención Educación Física
+(Fuenlabrada)",Grupo 2,8.51,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,"Educación Primaria y Educación Primaria mención Educación Musical,
+Educación Física, Ciencias y Matemáticas (Móstoles)",Grupo 1,9.750,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,"Educación Primaria y Educación Primaria mención Educación Musical,
+Educación Física, Ciencias y Matemáticas (Móstoles)",Grupo 2,8.62,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,"Educación Primaria y Educación Primaria mención Lengua Extranjera Inglés
+(Vicalvaro)",Grupo 1,8.524,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,"Educación Primaria y Educación Primaria mención Lengua Extranjera Inglés
+(Vicalvaro)",Grupo 2,8.48,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Educación Primaria (Semipresencial) (Vicalvaro),Grupo 1,9.014,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Educación Primaria (Semipresencial) (Vicalvaro),Grupo 2,9.48,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Gastronomía (Aranjuez),Grupo 1,5.000,2025,ordinaria,Aranjuez
+Universidad Rey Juan Carlos,Gastronomía (Aranjuez),Grupo 2,5.00,2025,ordinaria,Aranjuez
+Universidad Rey Juan Carlos,"Inteligencia, Seguridad y Diplomacia (Madrid-Quintana)",Grupo 1,7.303,2025,ordinaria,Madrid-Quintana
+Universidad Rey Juan Carlos,"Inteligencia, Seguridad y Diplomacia (Madrid-Quintana)",Grupo 2,6.14,2025,ordinaria,Madrid-Quintana
+Universidad Rey Juan Carlos,Lengua de Signos Española y Comunidad Sorda (Alcorcón),Grupo 1,5.000,2025,ordinaria,Alcorcón
+Universidad Rey Juan Carlos,Lengua de Signos Española y Comunidad Sorda (Alcorcón),Grupo 2,5.00,2025,ordinaria,Alcorcón
+Universidad Rey Juan Carlos,Lengua de Signos Española y Comunidad Sorda (Madrid-Quintana),Grupo 1,5.000,2025,ordinaria,Madrid-Quintana
+Universidad Rey Juan Carlos,Lengua de Signos Española y Comunidad Sorda (Madrid-Quintana),Grupo 2,5.00,2025,ordinaria,Madrid-Quintana
+Universidad Rey Juan Carlos,Marketing (Aranjuez),Grupo 1,8.330,2025,ordinaria,Aranjuez
+Universidad Rey Juan Carlos,Marketing (Aranjuez),Grupo 2,5.00,2025,ordinaria,Aranjuez
+Universidad Rey Juan Carlos,Marketing (Fuenlabrada),Grupo 1,10.199,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Marketing (Fuenlabrada),Grupo 2,5.61,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Marketing (Móstoles),Grupo 1,9.728,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Marketing (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Marketing (Inglés) (Vicalvaro),Grupo 1,9.458,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Marketing (Inglés) (Vicalvaro),Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Marketing (Vicalvaro),Grupo 1,10.624,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Marketing (Vicalvaro),Grupo 2,6.80,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Periodismo (Fuenlabrada),Grupo 1,7.930,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Periodismo (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Periodismo (Semipresencial) (Fuenlabrada),Grupo 1,7.000,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Periodismo (Semipresencial) (Fuenlabrada),Grupo 2,9.07,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Periodismo (Vicalvaro),Grupo 1,7.352,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Periodismo (Vicalvaro),Grupo 2,6.79,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,"Protocolo, Organización de Eventos y Com. Corporativa (Inglés) (Madrid)",Grupo 1,7.770,2025,ordinaria,Madrid
+Universidad Rey Juan Carlos,"Protocolo, Organización de Eventos y Com. Corporativa (Inglés) (Madrid)",Grupo 2,5.00,2025,ordinaria,Madrid
+Universidad Rey Juan Carlos,"Protocolo, Organización de Eventos y Com. Corporativa (Vicalvaro)",Grupo 1,9.625,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,"Protocolo, Organización de Eventos y Com. Corporativa (Vicalvaro)",Grupo 2,6.34,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Publicidad y Relaciones Públicas (Fuenlabrada),Grupo 1,10.311,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Publicidad y Relaciones Públicas (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Publicidad y Relaciones Públicas (Semipresencial) (Fuenlabrada),Grupo 1,8.889,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Publicidad y Relaciones Públicas (Semipresencial) (Fuenlabrada),Grupo 2,8.23,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Publicidad y Relaciones Públicas (Vicalvaro),Grupo 1,10.064,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Publicidad y Relaciones Públicas (Vicalvaro),Grupo 2,6.76,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Relaciones Internacionales (Aranjuez),Grupo 1,10.116,2025,ordinaria,Aranjuez
+Universidad Rey Juan Carlos,Relaciones Internacionales (Aranjuez),Grupo 2,5.00,2025,ordinaria,Aranjuez
+Universidad Rey Juan Carlos,Relaciones Internacionales (Fuenlabrada),Grupo 1,10.992,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Relaciones Internacionales (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Relaciones Internacionales (Inglés) (Vicalvaro),Grupo 1,10.632,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Relaciones Internacionales (Inglés) (Vicalvaro),Grupo 2,6.78,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Relaciones Laborales y Recursos Humanos (Alcorcón),Grupo 1,7.540,2025,ordinaria,Alcorcón
+Universidad Rey Juan Carlos,Relaciones Laborales y Recursos Humanos (Alcorcón),Grupo 2,8.02,2025,ordinaria,Alcorcón
+Universidad Rey Juan Carlos,Relaciones Laborales y Recursos Humanos (Vicalvaro),Grupo 1,7.328,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Relaciones Laborales y Recursos Humanos (Vicalvaro),Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Trabajo Social (Alcorcón),Grupo 1,8.710,2025,ordinaria,Alcorcón
+Universidad Rey Juan Carlos,Trabajo Social (Alcorcón),Grupo 2,7.36,2025,ordinaria,Alcorcón
+Universidad Rey Juan Carlos,Turismo (Fuenlabrada),Grupo 1,5.000,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Turismo (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Turismo (Inglés) (Vicalvaro),Grupo 1,5.000,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Turismo (Inglés) (Vicalvaro),Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Turismo (Vicalvaro),Grupo 1,5.000,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Turismo (Vicalvaro),Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Turismo (Semipresencial) (Vicalvaro),Grupo 1,5.000,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Turismo (Semipresencial) (Vicalvaro),Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Administración y Dirección de Empresas - Marketing (Vicálvaro),Grupo 1,12.014,2025,ordinaria,Vicálvaro
+Universidad Rey Juan Carlos,Administración y Dirección de Empresas - Marketing (Vicálvaro),Grupo 2,5.00,2025,ordinaria,Vicálvaro
+Universidad Rey Juan Carlos,Bellas Artes - Diseño Integral y Gestión de la Imagen (Aranjuez),Grupo 1,11.685,2025,ordinaria,Aranjuez
+Universidad Rey Juan Carlos,Bellas Artes - Diseño Integral y Gestión de la Imagen (Aranjuez),Grupo 2,7.27,2025,ordinaria,Aranjuez
+Universidad Rey Juan Carlos,Bellas Artes (Presencial) (Aranjuez) - Turismo (Semipresencial) (Vicalvaro),Grupo 1,8.461,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Bellas Artes (Presencial) (Aranjuez) - Turismo (Semipresencial) (Vicalvaro),Grupo 2,6.33,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Ciencia Política y Gestión Pública - Derecho (Fuenlabrada),Grupo 1,8.903,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Ciencia Política y Gestión Pública - Derecho (Fuenlabrada),Grupo 2,7.72,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Ciencia Política y Gestión Pública - Derecho (Vicalvaro),Grupo 1,9.937,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Ciencia Política y Gestión Pública - Derecho (Vicalvaro),Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Ciencia Política y Gestión Pública - Economía (Fuenlabrada),Grupo 1,8.189,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Ciencia Política y Gestión Pública - Economía (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Ciencia Política y Gestión Pública - Economía (Vicalvaro),Grupo 1,10.025,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Ciencia Política y Gestión Pública - Economía (Vicalvaro),Grupo 2,6.87,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Ciencia Política y Gestión Pública - Periodismo (Fuenlabrada),Grupo 1,8.775,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Ciencia Política y Gestión Pública - Periodismo (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Ciencia Política y Gestión Pública - Periodismo (Vicalvaro),Grupo 1,10.164,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Ciencia Política y Gestión Pública - Periodismo (Vicalvaro),Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,"Ciencia, Gestión e Ingeniería de Servicios (Semipresencial) - Marketing
+(Presencial) (Vicalvaro)",Grupo 1,10.161,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,"Ciencia, Gestión e Ingeniería de Servicios (Semipresencial) - Marketing
+(Presencial) (Vicalvaro)",Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,"Ciencia, Gestión e Ingeniería de Servicios (Semipresencial) - Turismo
+(Presencial) (Vicalvaro)",Grupo 1,6.431,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,"Ciencia, Gestión e Ingeniería de Servicios (Semipresencial) - Turismo
+(Presencial) (Vicalvaro)",Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Comunicación Audiovisual - ADE (Fuenlabrada),Grupo 1,8.339,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Comunicación Audiovisual - ADE (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Contabilidad y Finanzas - Relaciones Laborales y RR.HH. (Vicalvaro),Grupo 1,9.389,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Contabilidad y Finanzas - Relaciones Laborales y RR.HH. (Vicalvaro),Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Criminología - Derecho (Vicalvaro),Grupo 1,12.433,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Criminología - Derecho (Vicalvaro),Grupo 2,6.46,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Criminología - Ingeniería Informática (Vicalvaro),Grupo 1,10.867,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Criminología - Ingeniería Informática (Vicalvaro),Grupo 2,7.45,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Criminología - Psicología (Alcorcón),Grupo 1,12.314,2025,ordinaria,Alcorcón
+Universidad Rey Juan Carlos,Criminología - Psicología (Alcorcón),Grupo 2,9.33,2025,ordinaria,Alcorcón
+Universidad Rey Juan Carlos,Criminología - Trabajo Social (Alcorcón),Grupo 1,10.500,2025,ordinaria,Alcorcón
+Universidad Rey Juan Carlos,Criminología - Trabajo Social (Alcorcón),Grupo 2,7.78,2025,ordinaria,Alcorcón
+Universidad Rey Juan Carlos,Derecho - Periodismo (Vicalvaro),Grupo 1,11.378,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Derecho - Periodismo (Vicalvaro),Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Derecho - Relaciones Internacionales (Fuenlabrada),Grupo 1,13.161,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Derecho - Relaciones Internacionales (Fuenlabrada),Grupo 2,7.79,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Derecho - Relaciones Internacionales (Inglés) (Vicálvaro),Grupo 1,13.061,2025,ordinaria,Vicálvaro
+Universidad Rey Juan Carlos,Derecho - Relaciones Internacionales (Inglés) (Vicálvaro),Grupo 2,5.00,2025,ordinaria,Vicálvaro
+Universidad Rey Juan Carlos,Derecho - Relaciones Laborales y Recursos Humanos (Vicalvaro),Grupo 1,9.025,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Derecho - Relaciones Laborales y Recursos Humanos (Vicalvaro),Grupo 2,7.66,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Derecho (Semipresencial) - Relac. Internac. (Inglés) (Presencial) (Vicalvaro),Grupo 1,12.330,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Derecho (Semipresencial) - Relac. Internac. (Inglés) (Presencial) (Vicalvaro),Grupo 2,6.38,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Diseño y Desarrollo de Videojuegos - Ing. de Computadores (Móstoles),Grupo 1,11.102,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Diseño y Desarrollo de Videojuegos - Ing. de Computadores (Móstoles),Grupo 2,6.70,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Diseño y Gestión de Moda - Bellas Artes (Aranjuez),Grupo 1,11.503,2025,ordinaria,Aranjuez
+Universidad Rey Juan Carlos,Diseño y Gestión de Moda - Bellas Artes (Aranjuez),Grupo 2,6.24,2025,ordinaria,Aranjuez
+Universidad Rey Juan Carlos,Diseño y Gestión de Moda - Diseño Integral y Gest de la Imagen (Aranjuez),Grupo 1,10.690,2025,ordinaria,Aranjuez
+Universidad Rey Juan Carlos,Diseño y Gestión de Moda - Diseño Integral y Gest de la Imagen (Aranjuez),Grupo 2,8.31,2025,ordinaria,Aranjuez
+Universidad Rey Juan Carlos,Economía - Derecho (Fuenlabrada),Grupo 1,10.475,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Economía - Derecho (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Economía - Derecho (Móstoles),Grupo 1,11.078,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Economía - Derecho (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Economía - Derecho (Vicalvaro),Grupo 1,11.728,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Economía - Derecho (Vicalvaro),Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Economía - Historia (Fuenlabrada),Grupo 1,6.689,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Economía - Historia (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Economía - Matemáticas (Móstoles),Grupo 1,12.489,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Economía - Matemáticas (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Economía - Periodismo (Vicalvaro),Grupo 1,10.403,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Economía - Periodismo (Vicalvaro),Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Economía Financiera y Actuarial - ADE (Móstoles),Grupo 1,11.153,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Economía Financiera y Actuarial - ADE (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Economía Financiera y Actuarial - ADE (Vicalvaro),Grupo 1,11.287,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Economía Financiera y Actuarial - ADE (Vicalvaro),Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Economía Financiera y Actuarial - Economía (Móstoles),Grupo 1,10.036,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Economía Financiera y Actuarial - Economía (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Economía Financiera y Actuarial - Economía (Vicalvaro),Grupo 1,10.378,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Economía Financiera y Actuarial - Economía (Vicalvaro),Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Educación Infantil - Educación Primaria (Fuenlabrada),Grupo 1,11.961,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Educación Infantil - Educación Primaria (Fuenlabrada),Grupo 2,8.71,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Filosofía - Ciencia Política y Gestión Pública (Fuenlabrada),Grupo 1,5.000,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Filosofía - Ciencia Política y Gestión Pública (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Filosofía - Economía (Fuenlabrada),Grupo 1,5.000,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Filosofía - Economía (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Fundamentos de la Arquitectura - Paisajismo (Fuenlabrada),Grupo 1,10.185,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Fundamentos de la Arquitectura - Paisajismo (Fuenlabrada),Grupo 2,8.61,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Historia - Turismo (Fuenlabrada),Grupo 1,5.000,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Historia - Turismo (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Historia (Presencial) (Fuenlabrada) - Turismo (Semipresencial) (Vicálvaro),Grupo 1,5.000,2025,ordinaria,Vicálvaro
+Universidad Rey Juan Carlos,Historia (Presencial) (Fuenlabrada) - Turismo (Semipresencial) (Vicálvaro),Grupo 2,5.00,2025,ordinaria,Vicálvaro
+Universidad Rey Juan Carlos,Ingeniería Ambiental - Ingeniería en Organización Industrial (Móstoles),Grupo 1,9.903,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería Ambiental - Ingeniería en Organización Industrial (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería de la Energía - Ingeniería Ambiental (Móstoles),Grupo 1,10.373,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería de la Energía - Ingeniería Ambiental (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería de la Energia - Ingeniería en Organización Industrial (Móstoles),Grupo 1,10.814,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería de la Energia - Ingeniería en Organización Industrial (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería de Materiales - Ingeniería de la Energía (Móstoles),Grupo 1,9.914,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería de Materiales - Ingeniería de la Energía (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería de Materiales - Ingeniería en Organización Industrial (Móstoles),Grupo 1,10.478,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería de Materiales - Ingeniería en Organización Industrial (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería del Software - Matemáticas (Móstoles),Grupo 1,12.604,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería del Software - Matemáticas (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,"Ingeniería en Tecnología de Telecomunicación (Mención Sistema de
+Telecomunicación) - Ingeniería Aeroespacial (Mención Aeronavegación)",Grupo 1,12.089,2025,ordinaria,Mención Aeronavegación
+Universidad Rey Juan Carlos,"Ingeniería en Tecnología de Telecomunicación (Mención Sistema de
+Telecomunicación) - Ingeniería Aeroespacial (Mención Aeronavegación)",Grupo 2,7.09,2025,ordinaria,Mención Aeronavegación
+Universidad Rey Juan Carlos,Ingeniería Informática - ADE (Móstoles),Grupo 1,11.678,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería Informática - ADE (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería Informática - Ingeniería de Computadores (Móstoles),Grupo 1,9.849,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería Informática - Ingeniería de Computadores (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería Informática - Ingeniería del Software (Móstoles),Grupo 1,11.323,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería Informática - Ingeniería del Software (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería Informática - Matemáticas (Móstoles),Grupo 1,13.089,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería Informática - Matemáticas (Móstoles),Grupo 2,7.12,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,"Ingeniería Informática (Presencial) - Administración y Dirección de
+Empresas (A distancia) (Vicalvaro)",Grupo 1,10.589,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,"Ingeniería Informática (Presencial) - Administración y Dirección de
+Empresas (A distancia) (Vicalvaro)",Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Ingeniería Química - Ingeniería en Organización Industrial (Móstoles),Grupo 1,11.103,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería Química - Ingeniería en Organización Industrial (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería Química - Ingeniería Ambiental (Móstoles),Grupo 1,10.439,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería Química - Ingeniería Ambiental (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería Química - Ingeniería de la Energía (Móstoles),Grupo 1,10.825,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Ingeniería Química - Ingeniería de la Energía (Móstoles),Grupo 2,5.00,2025,ordinaria,Móstoles
+Universidad Rey Juan Carlos,Periodismo - Comunicación Audiovisual (Fuenlabrada),Grupo 1,8.936,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Periodismo - Comunicación Audiovisual (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Periodismo - Comunicación Audiovisual (Vicalvaro),Grupo 1,8.553,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Periodismo - Comunicación Audiovisual (Vicalvaro),Grupo 2,7.36,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Publicidad y Relaciones Públicas - ADE (Fuenlabrada),Grupo 1,10.046,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Publicidad y Relaciones Públicas - ADE (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Publicidad y Relaciones Públicas - Marketing (Fuenlabrada),Grupo 1,12.329,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Publicidad y Relaciones Públicas - Marketing (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Relaciones Internacionales - Ciencia Política y Gestión Pública (Fuenlabrada),Grupo 1,12.267,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Relaciones Internacionales - Ciencia Política y Gestión Pública (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Relaciones Internacionales - Economia (Fuenlabrada),Grupo 1,11.492,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Relaciones Internacionales - Economia (Fuenlabrada),Grupo 2,6.86,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Relaciones Internacionales - Periodismo (Fuenlabrada),Grupo 1,12.216,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Relaciones Internacionales - Periodismo (Fuenlabrada),Grupo 2,6.80,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,"Relaciones Internacionales (inglés) - Protocolo, Organización de Eventos y
+Comunicación Corporativa (Vicalvaro)",Grupo 1,12.369,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,"Relaciones Internacionales (inglés) - Protocolo, Organización de Eventos y
+Comunicación Corporativa (Vicalvaro)",Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Relaciones Laborales y RR.HH - Trabajo Social (Alcorcón),Grupo 1,8.760,2025,ordinaria,Alcorcón
+Universidad Rey Juan Carlos,Relaciones Laborales y RR.HH - Trabajo Social (Alcorcón),Grupo 2,6.16,2025,ordinaria,Alcorcón
+Universidad Rey Juan Carlos,Turismo - Administración y Dirección de Empresas (Fuenlabrada),Grupo 1,5.000,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Turismo - Administración y Dirección de Empresas (Fuenlabrada),Grupo 2,5.00,2025,ordinaria,Fuenlabrada
+Universidad Rey Juan Carlos,Turismo - Administración y Dirección de Empresas (Vicalvaro),Grupo 1,7.653,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Turismo - Administración y Dirección de Empresas (Vicalvaro),Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Turismo - Marketing (Vicalvaro),Grupo 1,10.177,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Turismo - Marketing (Vicalvaro),Grupo 2,5.00,2025,ordinaria,Vicalvaro
+Universidad Rey Juan Carlos,Turismo (Semipresencial) - Marketing (Presencial) (Vicálvaro),Grupo 1,9.289,2025,ordinaria,Vicálvaro
+Universidad Rey Juan Carlos,Turismo (Semipresencial) - Marketing (Presencial) (Vicálvaro),Grupo 2,5.00,2025,ordinaria,Vicálvaro
+Universidad Rey Juan Carlos,Artes Escénicas - Interpretación Audiovisual,Grupo 1,5.000,2025,ordinaria,
+Universidad Rey Juan Carlos,Artes Escénicas - Interpretación Audiovisual,Grupo 2,5.00,2025,ordinaria,
+Universidad Rey Juan Carlos,Artes Escénicas e Interpretación Audiovisual (inglés),Grupo 1,5.000,2025,ordinaria,
+Universidad Rey Juan Carlos,Artes Escénicas e Interpretación Audiovisual (inglés),Grupo 2,5.00,2025,ordinaria,
+Universidad Rey Juan Carlos,Bellas Artes,Grupo 1,5.000,2025,ordinaria,
+Universidad Rey Juan Carlos,Bellas Artes,Grupo 2,5.00,2025,ordinaria,
+Universidad Rey Juan Carlos,Cinematografía,Grupo 1,5.000,2025,ordinaria,
+Universidad Rey Juan Carlos,Cinematografía,Grupo 2,5.00,2025,ordinaria,
+Universidad Rey Juan Carlos,Cinematografía (inglés),Grupo 1,5.000,2025,ordinaria,
+Universidad Rey Juan Carlos,Cinematografía (inglés),Grupo 2,5.00,2025,ordinaria,
+Universidad Rey Juan Carlos,Composición Musical,Grupo 1,5.000,2025,ordinaria,
+Universidad Rey Juan Carlos,Composición Musical,Grupo 2,5.00,2025,ordinaria,
+Universidad Rey Juan Carlos,Composición Musical (inglés),Grupo 1,5.000,2025,ordinaria,
+Universidad Rey Juan Carlos,Composición Musical (inglés),Grupo 2,5.00,2025,ordinaria,
+Universidad Rey Juan Carlos,Fotografía y Creación Audiovisual,Grupo 1,5.000,2025,ordinaria,
+Universidad Rey Juan Carlos,Fotografía y Creación Audiovisual,Grupo 2,5.00,2025,ordinaria,
