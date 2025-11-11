@@ -48,13 +48,6 @@ services:
       - xpack.security.enabled=false
     volumes:
       - ./elasticsearch/seed_es.sh:/usr/share/elasticsearch/seed_es.sh
-    command: >
-      bash -c "
-        /usr/local/bin/docker-entrypoint.sh elasticsearch &
-        sleep 15 &&
-        bash /usr/share/elasticsearch/seed_es.sh &&
-        wait
-      "
     networks:
       - gestbd_net
   
