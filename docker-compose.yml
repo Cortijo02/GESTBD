@@ -41,15 +41,20 @@ services:
     container_name: elasticsearch_db
     image: elasticsearch:8.7.0
     ports:
-      - 8000:9200      
+      - 8000:9200
     environment:
       - discovery.type=single-node
       - ES_JAVA_OPTS=-Xms512m -Xmx512m
       - xpack.security.enabled=false
-    #volumes:
-    #  - ./es-data:/usr/share/elasticsearch/data
     volumes:
-      - ./elasticsearch/seed_es.sh:/usr/share/elasticsearch/data/seed_es.sh # TODO: esto es dummy, luego habrá que insetar datos reales desde los jupyters
+      - ./elasticsearch/seed_es.sh:/usr/share/elasticsearch/seed_es.sh
+    command: >
+      bash -c "
+        /usr/local/bin/docker-entrypoint.sh elasticsearch &
+        sleep 15 &&
+        bash /usr/share/elasticsearch/seed_es.sh &&
+        wait
+      "
     networks:
       - gestbd_net
   
@@ -61,8 +66,11 @@ services:
       - 8001:7200
     environment:
       GDB_JAVA_OPTS: -Dgraphdb.workbench.importDirectory=/opt/graphdb/home/graphdb-import
-    #volumes:
-    #  - ./gd-data:/opt/graphdb/home
+    
+    volumes:
+      - ./graphdb/imports:/opt/graphdb/home/graphdb-import
+      - ./graphdb/gd-data:/opt/graphdb/home
+
     networks:
       - gestbd_net
 

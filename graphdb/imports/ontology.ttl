@@ -87,7 +87,7 @@ sch:occupationalCredentialAwarded a owl:DatatypeProperty ;
     rdfs:domain sch:EducationalOccupationalProgram ;
     rdfs:range xsd:string .
 
-# CategoryCode
+# CategoryCode | Puede ser name o codeValue
 sch:name a owl:DatatypeProperty ;
     rdfs:domain sch:CategoryCode ;
     rdfs:range xsd:string .
@@ -132,6 +132,10 @@ sch:url a owl:DatatypeProperty ;
     rdfs:range xsd:anyURI .
 
 sch:address a owl:DatatypeProperty ;
+    rdfs:domain sch:School ;
+    rdfs:range xsd:string .
+
+sch:postalCode a owl:DatatypeProperty ;
     rdfs:domain sch:School ;
     rdfs:range xsd:string .
 
