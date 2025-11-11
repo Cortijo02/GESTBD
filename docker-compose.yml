@@ -61,8 +61,11 @@ services:
       - 8001:7200
     environment:
       GDB_JAVA_OPTS: -Dgraphdb.workbench.importDirectory=/opt/graphdb/home/graphdb-import
-    #volumes:
-    #  - ./gd-data:/opt/graphdb/home
+    
+    volumes:
+      - ./graphdb/imports:/opt/graphdb/home/graphdb-import
+      - ./graphdb/gd-data:/opt/graphdb/home
+
     networks:
       - gestbd_net
 
