@@ -11,4 +11,4 @@ JOIN facultad f ON go.id_facultad = f.id
 JOIN universidad u ON f.id_universidad = u.id 
 WHERE nc.nota <= 11.0 
 
-ORDER BY nc.nota DESC; 
+ORDER BY nc.nota DESC;  

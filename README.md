@@ -37,6 +37,7 @@ Y a continuación las credenciales de la base de datos:
 | port                | 5432                    |
 | username_db         | userGESTDB              |
 | password_db         | passGESTDB              |
+| postgres_db         | GESTDB                  |
 
 En el contenedor de jupyter "queries.ipynb" contiene las queries a los servicios de Postgres, ElasticSearch y GraphDB.
 
@@ -44,19 +45,19 @@ En el contenedor de jupyter "queries.ipynb" contiene las queries a los servicios
 
 ### Pasos seguidos
 
-1. Web scraping: utilizamos los datos abiertos de la página de grados de la Comunidad de Madrid, que habilita PDFs con las descripciones, salidas y centros de los grados. Desde la página web base, hicimos web scraping pasa sacar las URLs de los PDFs, junto con las ramas y áreas de las webs intermedias donde estaban ordenadas. De los PDFs sacamos la información relevante (jupyter > src > scraping > pdfs_automatizado.ipynb) y procesamos los datos (jupyter > src > scraping > generar_csvs.ipynb; jupyter > src > scraping > extraccion_centros.ipynb; jupyter > src > scraping > extraccion_notascorte.ipynb) para obtener los CSVs.
+1. **Web scraping:** utilizamos los datos abiertos de la página de grados de la Comunidad de Madrid, que habilita PDFs con las descripciones, salidas y centros de los grados. Desde la página web base, hicimos web scraping pasa sacar las URLs de los PDFs, junto con las ramas y áreas de las webs intermedias donde estaban ordenadas. De los PDFs sacamos la información relevante (`jupyter > src > scraping > pdfs_automatizado.ipynb`) y procesamos los datos (`jupyter > src > scraping > generar_csvs.ipynb ; jupyter > src > scraping > extraccion_centros.ipynb ; jupyter > src > scraping > extraccion_notascorte.ipynb`) para obtener los CSVs.
 
-2. Postgres
+2. **Postgres:** con los CSVs extraidos de la fase anterior definimos dos scripts `postgres > init > *.sql` para crear e insertar los datos de la carpeta `postgres > csv` durante el despliegue del servicio, siguiendo el esquema entidad relación definido a lo largo de la práctica. Una vez está desplegada la posgres nos podemos conectar a ella con las cedenciales definidas en la tabla anterior, podemos acceder a través del pgadmin o bien desde un cuaderno jupyter para lanzar consultas como veremos más adelante.
 
-# TODO
+4. **ElasticSearch:** una vez está desplegado el contenedor, generamos nuestro índice desde el propio notebook de `jupyter > src > queries > queries.ipynb`, definimos las propiedades y los tipos de las mismas siguiendo las ideas propuestas en las entregas anteriores.
 
-4. ElasticSearch
+5. **GraphDB:** Para realizar esto diseñamos la ontología estableciendo las tripletas (y los prefijos utilizados de ontologías existentes). A través de un script the python (`jupyter > src > graph > generador_grafo.ipynb`), pasamos de los datos de PostGres a la ontología establecida y el resultado (se genera en esa misma carpeta con nombre universidadesMadrid.ttl) lo copiamos en (`graphdb > imports`). Una vez tenemos los archivos de la carpeta `graphdb > imports` lanzamos el contenedor de GraphDB, generamos un repositorio 'Practica_GESTDB' e importamos ambos archivos (que se encuentrar en 'server files' porque los cargamos al montar el contenedor) con base iri 'http://example.org/universidadesMadrid#'. Una vez se realiza esto ya podemos lanzar las queries contra este sistema.
 
-# TODO
+6. **Jupyter LLM:** Hemos tenido que crear nuestro propio contenedor de docker utilizando como base una imagen de `nvidia/cuda`. Tenemos un Dockerfile con sus `requirements.txt` que instala y configura el servicio de ollama para el modelo llama3.1:8b. Además también desplegamos un jupyter lab para trabajar dentro del contenedor, aquí hemos hecho la inferencia del LLM para resumir texto en base al system prompt `jupyter > src > ollama.ipynb`. Hay una pequeña exploración de los resultados obtenidos durante el preprocesado con conclusiones en `jupyter_llm > src > summary.ipynb`
 
-6. GraphDB: Para realizar esto diseñamos la ontología estableciendo las tripletas (y los prefijos utilizados de ontologías existentes). A través de un script the python (jupyter > src > graph > generador_grafo.ipynb), pasamos de los datos de PostGres a la ontología establecida y el resultado (se genera en esa misma carpeta con nombre universidadesMadrid.ttl)lo copiamos en (graphdb > imports). Una vez tenemos los archivos de la carpeta 'graphdb > imports' lanzamos el contenedor de GraphDB, generamos un repositorio 'Practica_GESTDB' e importamos ambos archivos (que se encuentrar en 'server files' porque los cargamos al montar el contenedor) con base iri 'http://example.org/universidadesMadrid#'. Una vez se realiza esto ya podemos lanzar las queries contra este sistema.
+> Nota: Tener CUDA y una GPU de al menos 5-6Gb para poder ejecutarlo sin problemas.
 
-8. Cuaderno de consultas (jupyter > src > queries > queries.ipynb)
+7. **Jupyter:**. Tenemos definido un Dockerfile con sus `requirements.txt` que usa de base la imagen de jupyter proporcionada en la asignatura. En este contenedor hemos trabajado la mayor parte del tiempo y es donde se pueden ver las consultas finales (`jupyter > src > queries > queries.ipynb`).
 
 # TODO
 
