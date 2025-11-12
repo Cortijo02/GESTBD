@@ -1,197 +1,189 @@
 id;nombre;id_universidad;direccion;telefonos;webs;emails
 1;Facultad de Filosofia;1;Paseo de la Senda del Rey, 7 (Edificio Humanidades del campus sur) 28040 Madrid;91 398 69 03;www.uned.es;negociado.alumnos.filosofia@adm.uned.es
-23;Facultad de Geografia e Historia;1;Paseo de la Senda del Rey, 7 28040 Madrid;91 398 67 04;www.uned.es;negociado.geohist@adm.uned.es
-29;Facultad de Filologia;1;Paseo de la Senda del Rey, 7 28040 Madrid;91 398 67 03;www.uned.es;negociado.alumnos.filologia@adm.uned.es
-47;Facultad de Ciencias Politicas y Sociologia;1;C/ Del Obispo Trejo, 2 28040 Madrid;91 398 89 58;www.uned.es;alumnos.poli@adm.uned.es | infouned@adm.uned.es
-101;Facultad Ciencias Economicas y Empresariales;1;Paseo Senda del Rey, 11 28040 Madrid;91 398 63 04;www.uned.es;negociado.economicas@adm.uned.es
-151;Facultad de Psicologia Campus de Ciudad Universitaria;1;C/ Juan del Rosal, 10 Ciudad Universitaria 28040 Madrid;91 398 62 11;www.uned.es;infouned@adm.uned.es
-174;Escuela Tecnica Superior de Ingenieros Industriales;1;C/ Juan del Rosal, 12 28040 Madrid;91 398 64 04;www.uned.es;negelectricidad@iud.uned.es
-193;Escuela Tecnica Superior de Ingenieros Informaticos Campus Ciudad Universitaria;1;C/ Juan del Rosal, 16 28040 Madrid;91 398 73 02;www.uned.es;alumnosinformamtica@adm.uned.es
+21;Facultad de Geografia e Historia;1;Paseo de la Senda del Rey, 7 28040 Madrid;91 398 67 04;www.uned.es;negociado.geohist@adm.uned.es
+27;Facultad de Filologia;1;Paseo de la Senda del Rey, 7 28040 Madrid;91 398 67 03;www.uned.es;negociado.alumnos.filologia@adm.uned.es
+45;Facultad de Ciencias Politicas y Sociologia;1;C/ Del Obispo Trejo, 2 28040 Madrid;91 398 89 58;www.uned.es;alumnos.poli@adm.uned.es | infouned@adm.uned.es
+99;Facultad Ciencias Economicas y Empresariales;1;Paseo Senda del Rey, 11 28040 Madrid;91 398 63 04;www.uned.es;negociado.economicas@adm.uned.es
+149;Facultad de Psicologia Campus de Ciudad Universitaria;1;C/ Juan del Rosal, 10 Ciudad Universitaria 28040 Madrid;91 398 62 11;www.uned.es;infouned@adm.uned.es
+170;Escuela Tecnica Superior de Ingenieros Industriales;1;C/ Juan del Rosal, 12 28040 Madrid;91 398 64 04;www.uned.es;negelectricidad@iud.uned.es
 2;Facultad de Comunicacion y Artes Campus de MadridPrincesa;2;C/ Santa Cruz de Marcenado, 27 28015 Madrid;91 452 11 03;www.nebrija.com;informa@nebrija.com
 6;Facultad de Comunicacion y Artes Campus MadridPrincesa;2;C/ Santa Cruz de Marcenado, 27 28015 Madrid;91 452 11 03;www.nebrija.com;informa@nebrija.com
-9;Escuela Politecnica Superior Campus Dehesa de la Villa;2;C/ Pirineos, 55 28040 Madrid;91 452 11 00;www.nebrija.com;informa@nebrija.es
-50;Facultad de Derecho y de Relaciones Inter nacionales Campus MadridPrincesa;2;C/ Santa Cruz de Marcenado, 27 28015 Madrid;91 452 11 03;www.nebrija.com;informa@nebrija.com
-59;Facultad de Derecho y de Relaciones Internacionales Campus Madrid Princesa;2;C/ Santa Cruz de Marcenado, 27 28015 Madrid;91 452 11 01;www.nebrija.com;informa@nebrija.com
-61;Facultad de Ciencias Sociales Campus MadridPrincesa;2;C/ Santa Cruz de Marcenado, 27 28015 Madrid;91 452 11 03;www.nebrija.com;informa@nebrija.com
-71;Facultad de Economia y Empresa Campus MadridPrincesa;2;C/ Santa Cruz de Marcenado, 27 28015 Madrid;91 452 11 01;www.nebrija.com;informa@nebrija.com
-73;Facultad de Ciencias Lenguas y Educacion Campus MadridPrincesa;2;C/ Santa Cruz de Marcenado, 27 28015 Madrid;91 452 11 03;www.nebrija.com;informa@nebrija.com
-76;Facultad de Lenguas y Educacion Campus MadridPrincesa;2;C/ Santa Cruz de Marcenado, 27;91 452 11 03;www.nebrija.com;informa@nebrija.com
-99;Facultad de Economia y Empresa;2;C/ Santa Cruz de Marcenado, 27 28015 Madrid;91 452 11 03;www.nebrija.com;informa@nebrija.com
-120;Escuela Politecnica Superior Campus Madrid Princesa;2;C/ Santa Cruz de Marcenado, 27. 28015 Madrid;91 452 11 03;www.nebrija.com;informa@nebrija.es
-154;Escuela Politecnica Superior Campus de la Dehesa de la Villa;2;C/ Pirineos, 55 28040 Madrid;91 452 11 00;www.nebrija.com;informa@nebrija.es
-171;Escuela Politecnica Superior Campus MadridPrincesa;2;C/ Serrano Jover, 2 28015 Madrid;91 452 11 03;www.nebrija.com;informa@nebrija.com
+48;Facultad de Derecho y de Relaciones Inter nacionales Campus MadridPrincesa;2;C/ Santa Cruz de Marcenado, 27 28015 Madrid;91 452 11 03;www.nebrija.com;informa@nebrija.com
+57;Facultad de Derecho y de Relaciones Internacionales Campus Madrid Princesa;2;C/ Santa Cruz de Marcenado, 27 28015 Madrid;91 452 11 01;www.nebrija.com;informa@nebrija.com
+59;Facultad de Ciencias Sociales Campus MadridPrincesa;2;C/ Santa Cruz de Marcenado, 27 28015 Madrid;91 452 11 03;www.nebrija.com;informa@nebrija.com
+69;Facultad de Economia y Empresa Campus MadridPrincesa;2;C/ Santa Cruz de Marcenado, 27 28015 Madrid;91 452 11 01;www.nebrija.com;informa@nebrija.com
+71;Facultad de Ciencias Lenguas y Educacion Campus MadridPrincesa;2;C/ Santa Cruz de Marcenado, 27 28015 Madrid;91 452 11 03;www.nebrija.com;informa@nebrija.com
+74;Facultad de Lenguas y Educacion Campus MadridPrincesa;2;C/ Santa Cruz de Marcenado, 27;91 452 11 03;www.nebrija.com;informa@nebrija.com
+97;Facultad de Economia y Empresa;2;C/ Santa Cruz de Marcenado, 27 28015 Madrid;91 452 11 03;www.nebrija.com;informa@nebrija.com
+118;Escuela Politecnica Superior Campus Madrid Princesa;2;C/ Santa Cruz de Marcenado, 27. 28015 Madrid;91 452 11 03;www.nebrija.com;informa@nebrija.es
+167;Escuela Politecnica Superior Campus MadridPrincesa;2;C/ Serrano Jover, 2 28015 Madrid;91 452 11 03;www.nebrija.com;informa@nebrija.com
 3;Facultad de Bellas Artes Campus de Moncloa;3;C/ Pintor el Greco, 2 28040 Madrid;91 394 35 60;www.ucm.es;safba@ucm.es
-18;Facultad de Filologia Campus de Moncloa;3;;91 394 53 43;www.ucm.es;infocom@ucm.es
-20;Facultad de Filosofia Campus de Moncloa;3;;91 394 59 82;www.ucm.es;salfilo@ucm.es
-22;Facultad de Geografia e Historia Campus de Moncloa;3;C/ Profesor Aranguren, s/n Ciudad Universitaria 28040 Madrid;91 394 59 90;www.ucm.es;secretariagh@ucm.es
-34;Facultad de Ciencias Politicas y Sociologia Campus de Somosaguas;3;;91 394 29 52;www.ucm.es;inforoir@ucm.es | secre.alumnos@cps.upm.es
-41;Facultad de Derecho Campus de Moncloa;3;Avda. Complutense, s/n Ciudad Universitaria 28040 Madrid;91 394 54 28;www.ucm.es;gradorrll@ucm.es
-45;Facultad de Ciencias Politicas y Sociologia Campus Somosaguas;3;;91 394 29 60;www.ucm.es;inforoir@ucm.es
-53;Facultad de Comercio y Turismo Campus Moncloa;3;Avda. de Islas Filipinas, 3 28003 Madrid;91 394 67 66;www.ucm.es;alumnos.fct@ucm.es
-68;Facultad de Ciencias Economicas y Empresariales Campus de Somosaguas;3;;91 394 29 99;www.ucm.es;informacion@ccee.ucm.es
-80;Facultad de Educacion Campus Ciudad Universitaria;3;C/ Rector Royo Villanova, s/n Ciudad Universitaria 28040 Madrid;91 394 61 19;www.ucm.es;secre.alumnos@edu.ucm.es
-87;Facultad de Estudios Estadisticos;3;Avda. Puerta de Hierro, s/n Ciudad Universitaria 28040 Madrid;91 394 40 04;www.ucm.es;pweb@estad.ucm.es
-88;Facultad de Ciencias de la Documentacion;3;C/ Santísima Trinidad, 37 28010 Madrid;91 394 66 62;www.ucm.es;infccdoc@ucm.es
-90;Facultad de Ciencias de la Informacion Campus Ciudad Universitaria;3;Avda. Complutense, s/n Ciudad Universitaria 28040 Madrid;91 394 21 12;www.ucm.es;secre.alumnos@ccinf.ucm.es
-96;Facultad de Trabajo Social Campus de Somosaguas;3;;91 394 29 99;www.ucm.es;infotrs@trs.ucm.es
-100;Facultad de Comercio y Turismo;3;Avda. Filipinas, 3 28003 Madrid;91 394 67 67;www.ucm.es;alumnos.fct@ucm.es
-105;Facultad de Ciencias Biologicas;3;C/ José Antonio Novais,12 Ciudad Universitaria 28040 Madrid;91 394 50 29;www.ucm.es;biosecrest@ucm.es
-113;Facultad de Veterinaria;3;Avda. Puerta del Hierro, s/n Ciudad Universitaria 28040 Madrid;91 394 38 76;www.ucm.es;gervet@ucm.es
-119;Facultad de Ciencias Fisicas Ciudad Universitaria;3;;91 394 46 27;www.ucm.es;infofisicas@ucm.es
-121;Facultad de Ciencias Geologicas;3;C/ José Antonio Novais, 12 Ciudad Universitaria 28040 Madrid;91 394 48 37;www.ucm.es;infoweb@geo.ucm.es
-122;Facultad de Ciencias Matematicas Ciudad Universitaria;3;;91 394 46 24;www.ucm.es;sdamat@ucm.es
-125;Facultad de Ciencias Quimicas Ciudad Universitaria;3;;91 394 42 98;www.ucm.es;informacion@ucm.es
-131;Facultad de Enfermeria, Fisioterapia y Podologia;3;Pza. Ramón y Cajal, 3 Ciudad Universitaria 28040 Madrid;91 394 15 24;www.ucm.es;secre.alumnos@enf.ucm.es | secre.decaenf@ucm.es
-137;Facultad de Farmacia Campus de Moncloa;3;;91 394 72 19;www.ucm.es;información@ucm.es
-140;Facultad de Psicologia Campus de Somosaguas;3;;91 394 31 78;www.ucm.es;conps@ucm.es
-141;Facultad de Medicina Campus de Ciudad Universitaria;3;Pza. Ramón y Cajal, s/n 28040 Madrid;91 394 13 01;www.ucm.es;decmed@ucm.es | secre.alumnos@med.ucm.es
-143;Facultad de Odontologia Campus de Ciudad Universitaria;3;Pza. Ramón y Cajal, 3 28040 Madrid;91 394 19 10;www.ucm.es;infodon@pas.ucm.es
-145;Facultad de Optica y Optometria;3;Avda. Arcos de Jalón, 118 28037 Madrid;91 394 68 76;www.ucm.es;infopt@ucm.es
-148;Facultad de Psicologia Campus Somosaguas;3;;91 394 31 78;www.ucm.es;conpsi@ucm.es
-153;Facultad de Veterinaria Campus de Ciudad Universitaria;3;Avda. Puerta de Hierro, s/n Ciudad Universitaria 28040 Madrid;91 394 38 76;www.ucm.es;gervet@ucm.es
-164;Facultad de Ciencias Quimicas Campus Ciudad Universitaria;3;Pza. de las Ciencias 28040 Madrid;91 394 43 47;www.quimicas.ucm.es | www.ucm.es;
-178;Facultad de Ciencias Geologicas Ciudad Universitaria;3;C/ José Antonio Novais, 12 28040 Madrid;91 394 48 37;www.ucm.es;infoweb@geo.ucm.es
-180;Facultad de Ciencias Matematicas;3;Pza. de Ciencias, 3. Ciudad Universitaria 28040 Madrid;91 394 46 00;www.ucm.es;informacion@ucm.es
-182;Facultad de Ciencias Fisicas Campus de Ciudad Universitaria;3;Pza. de Ciencias, 1. Ciudad Universitaria 28040 Madrid;91 394 46 27;www.ucm.es;infofisicas@ucm.es
-184;Facultad de Ciencias Fisicas Campus Ciudad Universitaria;3;Pza. de Ciencias,1 28040 Madrid;91 394 46 48;www.ucm.es;infofisicas@ucm.es | informacion@ucm.es
-189;Facultad de Informatica;3;C/ Profesor José García Santesmases, 9 Ciudad Universitaria 28040 Madrid;91 394 75 02;www.ucm.es;salfdi@ucm.es
-192;Facultad de Informatica Campus de Moncloa;3;C/ Profesor José García Santesmases, 9 Ciudad Universitaria 28040 Madrid;91 394 75 02;www.ucm.es;salfdi@ucm.es
-195;Facultad de Informatica Campus Moncloa;3;C/ Profesor José García Santesmases, 9 Ciudad Universitaria 28040 Madrid;91 394 75 02;www.ucm.es;salfdi@ucm.es
+16;Facultad de Filologia Campus de Moncloa;3;;91 394 53 43;www.ucm.es;infocom@ucm.es
+18;Facultad de Filosofia Campus de Moncloa;3;;91 394 59 82;www.ucm.es;salfilo@ucm.es
+20;Facultad de Geografia e Historia Campus de Moncloa;3;C/ Profesor Aranguren, s/n Ciudad Universitaria 28040 Madrid;91 394 59 90;www.ucm.es;secretariagh@ucm.es
+32;Facultad de Ciencias Politicas y Sociologia Campus de Somosaguas;3;;91 394 29 52;www.ucm.es;inforoir@ucm.es | secre.alumnos@cps.upm.es
+39;Facultad de Derecho Campus de Moncloa;3;Avda. Complutense, s/n Ciudad Universitaria 28040 Madrid;91 394 54 28;www.ucm.es;gradorrll@ucm.es
+43;Facultad de Ciencias Politicas y Sociologia Campus Somosaguas;3;;91 394 29 60;www.ucm.es;inforoir@ucm.es
+51;Facultad de Comercio y Turismo Campus Moncloa;3;Avda. de Islas Filipinas, 3 28003 Madrid;91 394 67 66;www.ucm.es;alumnos.fct@ucm.es
+66;Facultad de Ciencias Economicas y Empresariales Campus de Somosaguas;3;;91 394 29 99;www.ucm.es;informacion@ccee.ucm.es
+78;Facultad de Educacion Campus Ciudad Universitaria;3;C/ Rector Royo Villanova, s/n Ciudad Universitaria 28040 Madrid;91 394 61 19;www.ucm.es;secre.alumnos@edu.ucm.es
+85;Facultad de Estudios Estadisticos;3;Avda. Puerta de Hierro, s/n Ciudad Universitaria 28040 Madrid;91 394 40 04;www.ucm.es;pweb@estad.ucm.es
+87;Facultad de Ciencias de la Documentacion;3;C/ Santísima Trinidad, 37 28010 Madrid;91 394 66 62;www.ucm.es;infccdoc@ucm.es
+89;Facultad de Ciencias de la Informacion Campus Ciudad Universitaria;3;Avda. Complutense, s/n Ciudad Universitaria 28040 Madrid;91 394 21 12;www.ucm.es;secre.alumnos@ccinf.ucm.es
+94;Facultad de Trabajo Social Campus de Somosaguas;3;;91 394 29 99;www.ucm.es;infotrs@trs.ucm.es
+98;Facultad de Comercio y Turismo;3;Avda. Filipinas, 3 28003 Madrid;91 394 67 67;www.ucm.es;alumnos.fct@ucm.es
+103;Facultad de Ciencias Biologicas;3;C/ José Antonio Novais,12 Ciudad Universitaria 28040 Madrid;91 394 50 29;www.ucm.es;biosecrest@ucm.es
+111;Facultad de Veterinaria;3;Avda. Puerta del Hierro, s/n Ciudad Universitaria 28040 Madrid;91 394 38 76;www.ucm.es;gervet@ucm.es
+117;Facultad de Ciencias Fisicas Ciudad Universitaria;3;;91 394 46 27;www.ucm.es;infofisicas@ucm.es
+119;Facultad de Ciencias Geologicas;3;C/ José Antonio Novais, 12 Ciudad Universitaria 28040 Madrid;91 394 48 37;www.ucm.es;infoweb@geo.ucm.es
+120;Facultad de Ciencias Matematicas Ciudad Universitaria;3;;91 394 46 24;www.ucm.es;sdamat@ucm.es
+123;Facultad de Ciencias Quimicas Ciudad Universitaria;3;;91 394 42 98;www.ucm.es;informacion@ucm.es
+129;Facultad de Enfermeria, Fisioterapia y Podologia;3;Pza. Ramón y Cajal, 3 Ciudad Universitaria 28040 Madrid;91 394 15 24;www.ucm.es;secre.alumnos@enf.ucm.es | secre.decaenf@ucm.es
+135;Facultad de Farmacia Campus de Moncloa;3;;91 394 72 19;www.ucm.es;información@ucm.es
+138;Facultad de Psicologia Campus de Somosaguas;3;;91 394 31 78;www.ucm.es;conps@ucm.es
+139;Facultad de Medicina Campus de Ciudad Universitaria;3;Pza. Ramón y Cajal, s/n 28040 Madrid;91 394 13 01;www.ucm.es;decmed@ucm.es | secre.alumnos@med.ucm.es
+141;Facultad de Odontologia Campus de Ciudad Universitaria;3;Pza. Ramón y Cajal, 3 28040 Madrid;91 394 19 10;www.ucm.es;infodon@pas.ucm.es
+143;Facultad de Optica y Optometria;3;Avda. Arcos de Jalón, 118 28037 Madrid;91 394 68 76;www.ucm.es;infopt@ucm.es
+146;Facultad de Psicologia Campus Somosaguas;3;;91 394 31 78;www.ucm.es;conpsi@ucm.es
+151;Facultad de Veterinaria Campus de Ciudad Universitaria;3;Avda. Puerta de Hierro, s/n Ciudad Universitaria 28040 Madrid;91 394 38 76;www.ucm.es;gervet@ucm.es
+161;Facultad de Ciencias Quimicas Campus Ciudad Universitaria;3;Pza. de las Ciencias 28040 Madrid;91 394 43 47;www.quimicas.ucm.es | www.ucm.es;
+172;Facultad de Ciencias Geologicas Ciudad Universitaria;3;C/ José Antonio Novais, 12 28040 Madrid;91 394 48 37;www.ucm.es;infoweb@geo.ucm.es
+174;Facultad de Ciencias Matematicas;3;Pza. de Ciencias, 3. Ciudad Universitaria 28040 Madrid;91 394 46 00;www.ucm.es;informacion@ucm.es
+175;Facultad de Ciencias Fisicas Campus de Ciudad Universitaria;3;Pza. de Ciencias, 1. Ciudad Universitaria 28040 Madrid;91 394 46 27;www.ucm.es;infofisicas@ucm.es
+177;Facultad de Ciencias Fisicas Campus Ciudad Universitaria;3;Pza. de Ciencias,1 28040 Madrid;91 394 46 48;www.ucm.es;infofisicas@ucm.es | informacion@ucm.es
+182;Facultad de Informatica;3;C/ Profesor José García Santesmases, 9 Ciudad Universitaria 28040 Madrid;91 394 75 02;www.ucm.es;salfdi@ucm.es
+184;Facultad de Informatica Campus de Moncloa;3;C/ Profesor José García Santesmases, 9 Ciudad Universitaria 28040 Madrid;91 394 75 02;www.ucm.es;salfdi@ucm.es
+187;Facultad de Informatica Campus Moncloa;3;C/ Profesor José García Santesmases, 9 Ciudad Universitaria 28040 Madrid;91 394 75 02;www.ucm.es;salfdi@ucm.es
 4;Facultad de Ciencias de la Comunicacion;4;;91 351 03 03 / 91 709 14 00;www.ufv.es;info@ufv.es
-55;Facultad de Derecho, Empresa y Gobierno;4;;91 351 03 03 / 91 709 14 00;www.ufv.es;info@ufv.es
-58;Facultad de de Derecho, Empresa y Gobierno;4;;91 351 03 03;www.ufv.es;info@ufv.es
-74;Facultad de Educacion y Psicologia;4;;91 351 03 03 / 91 709 14 00;www.ufv.es;info@ufv.es
-109;Facultad de Ciencias Experimentales;4;;91 351 03 03;www.ufv.es;info@ufv.es
-129;Facultad de Ciencias CC;4;;91 351 03 03;www.ufv.es;info@ufv.es
-132;Facultad de Ciencias de la Salud;4;;91 351 03 03 / 91 709 14 00;www.ufv.es;info@ufv.es
+53;Facultad de Derecho, Empresa y Gobierno;4;;91 351 03 03 / 91 709 14 00;www.ufv.es;info@ufv.es
+56;Facultad de de Derecho, Empresa y Gobierno;4;;91 351 03 03;www.ufv.es;info@ufv.es
+72;Facultad de Educacion y Psicologia;4;;91 351 03 03 / 91 709 14 00;www.ufv.es;info@ufv.es
+107;Facultad de Ciencias Experimentales;4;;91 351 03 03;www.ufv.es;info@ufv.es
+127;Facultad de Ciencias CC;4;;91 351 03 03;www.ufv.es;info@ufv.es
+130;Facultad de Ciencias de la Salud;4;;91 351 03 03 / 91 709 14 00;www.ufv.es;info@ufv.es
 5;Facultad de Artes y Humanidades Campus de Aranjuez;5;C/ San Pascual, s/n 28300 Aranjuez (Madrid);91 488 44 21;www.urjc.es;aranjuez.secretariadealumnos@urjc.es
 7;Facultad de Artes y Humanidades Campus de Fuenlabrada;5;Camino del Molino, s/n 28943 Fuenlabrada (Madrid);91 488 84 01;www.urjc.es;fuenlabrada.secretariadealumnos@urjc.es
-12;Facultad de Artes y Humanidadess Campus de Aranjuez;5;C/ San Pascual, s/n 28300 Aranjuez (Madrid);91 488 44 21 / 91 555 25 28;www.udit.es | www.urjc.es;aranjuez.secretariadealumnos@urjc.es | secretaria.alumnos@udit.es
-28;Facultad de Artes y Humanidades Campus Fuenlabrada;5;Camino del Molino, s/n 28943 Fuenlabrada (Madrid);91 488 84 01;www.urjc.es;fuenlabrada.secretariadealumnos@urjc.es
-30;Escuela de Ingenieria de Fuenlabrada Campus de Fuenlabrada;5;Camino del Molino, 5 28942 Fuenlabrada (Madrid);91 488 84 01;www.urjc.es;fuenlabrada.secretariadealumnos@urjc.es
-33;Facultad de Artes y Humanidades Campus Aranjuez;5;C/ Infantas, 55 28300 Aranjuez (Madrid);91 488 44 21 / 91 488 70 26;www.urjc.es;aranjuez.secrealumnos@urjc.es
-39;Facultad de Ciencias de la Educacion y del Deporte y Estudios Interdisciplinares Campus Alcorcon;5;Avda. de Atenas, s/n 28922 Alcorcón (Madrid);91 488 89 17;www.urjc.es;alcorcon.secretariadealumnos@urjc.es
-42;Facultad de Ciencias Juridicas y Politicas Campus Madrid;5;Paseo Artilleros, s/n 28032 Vicálvaro (Madrid);91 488 00 00 / 91 488 78 00 / 91 488 89 17;www.urjc.es;fcjs.secretariaacademica@urjc.es
-56;Facultad de Ciencias de la Economia y de la Empresa Campus Madrid Vicalvaro;5;Paseo de los Artilleros, s/n 28032 Vicálvaro (Madrid);91 488 44 17 / 91 488 70 26 / 91 488 78 00 / 91 488 79 27 / 91 488 84 01 / 91 661 74 35;www.urjc.es;aranjuez.secretariadealumnos@urjc.es | fcjs.secretariaacademica@urjc.es
-69;Facultad de Ciencias de la Economia y de la Empresa Campus Madrid;5;Paseo de los Artilleros, s/n 28032 Vicálvaro (Madrid);91 488 70 26 / 91 488 78 00 / 91 488 84 01 / 91 664 74 35;www.urjc.es;fuenlabrada.secretariadealumnos@urjc.es | madrid.secretariaalumnos@urjc.esFacultad | mostoles.secretariadealumnos@urjc.es
-75;Facultad de Ciencias de la Educacion y del Deporte y Estudios Interdisciplinares Campus Madrid;5;Paseo de los Artilleros, s/n 28032 Vicálvaro (Madrid);91 350 12 12 / 91 488 70 26 / 91 488 78 00 / 91 488 84 01 / 91 664 74 35;www.eserp.com | www.urjc.es;fuenlabrada.secretariadealumnos@urjc.es | info@eserp.com | mostoles.secretariadealumnos@urjc.es
-77;Facultad de Ciencias Juridicas y Sociales Campus Madrid;5;Paseo de los Artilleros, s/n 28032 Vicálvaro (Madrid);91 488 70 26 / 91 488 78 00 / 91 488 84 01 / 91 664 74 35;www.urjc.es;fuenlabrada.secretariadealumnos@urjc.es | madrid.secretariadealumnos@urjc.es | mostoles.secretariadealumnos@urjc.es
-82;Facultad de Ciencias de la Economia y de la Empresa Campus de Fuenlabrada;5;Camino del Molino, s/n 28943 Fuenlabrada (Madrid);91 488 70 26 / 91 488 78 00 / 91 488 84 01 / 91 664 74 35;www.urjc.es;fuenlabrada.secretariadealumnos@urjc.es | madrid.secretariaalumnos@urjc.es | mostoles.secretariadealumnos@urjc.es
-83;Facultad de Ciencias de la Economia y de la Empresa Campus de Madrid;5;Paseo Artilleros, s/n 28032 Vicálvaro (Madrid);91 488 78 00;www.urjc.es;madrid.secretariaalumnos@urjc.es
-89;Facultad de Ciencias de la Educacion y del Deporte y Estudios Interdisciplinares Campus de Alcorcon;5;Avda. de Atenas, s/n 28922 Alcorcón (Madrid);91 488 83 46 / 91 488 89 17;www.urjc.es;alcorcon.secretariadealumnos@urjc.es | ferraz.secretaria@urjc.es
-92;Facultad de Ciencias de la Comunicacion Campus de Fuenlabrada;5;Camino del Molino, s/n 28943 Fuenlabrada (Madrid);91 488 78 00 / 91 488 84 01;www.urjc.es;fuenlabrada.secretariadealumnos@urjc.es | madrid.secretariaalumnos@urjc.es
-97;Facultad de Ciencias Juridicas y Politica Campus de Alcorcon;5;Avda. de Atenas, s/n 28922 Alcorcón (Madrid);91 488 88 00 / 91 488 89 17;www.urjc.es;alcorcon.secretariadealumnos@urjc.es
-102;Facultad de Ciencias de la Economia y de la Empresa Facultad de Ciencias de la Econo mia y de la Empresa Campus de Madrid;5;Paseo Artilleros, s/n 28032 Vicálvaro (Madrid);91 488 78 00 / 91 488 84 01;www.urjc.es;fuenlabrada.secretariadealumnos@urjc.es | madrid.secretariaalumnos@urjc.es
-103;Facultad de Ciencias de la Comunicacion Campus Madrid;5;Paseo Artilleros, s/n 28032 Vicálvaro (Madrid);91 488 79 27 / 91 488 83 46;www.urjc.es;ferraz.secretariadealumnos@urjc.es | mostoles.secretariadealumnos@urjc.es
-106;Escuela Superior de Ciencias Experimentales y Tecnologia Campus Mostoles;5;C/ Tulipán, s/n 28933 Móstoles (Madrid);91 664 74 18;www.urjc.es;escet.director@urjc.es
-112;Escuela Superior de Ciencias Experimentales y Tecnologia Campus de Mostoles;5;C/ Tulipán, s/n 28933 Móstoles (Madrid);91 664 74 18;www.urjc.es;escet.director@urjc.es
-123;Escuela Tecnica Superior de Ingenieria Informatica Campus Mostoles;5;C/ Tulipán, s/n 28933 Móstoles (Madrid);91 488 76 23;www.urjc.es;etsii.info@urjc.es
-134;Facultad de Ciencias de la Salud Campus de Alcorcon;5;Avda. de Atenas, s/n 28922 Alcorcón (Madrid);91 488 89 17 / 91 488 93 93;www.urjc.es;alcorcon.secretariadealumnos@urjc.es
-138;Facultad de Ciencias de la Salud Campus Alcorcon;5;Avda. de Atenas, s/n 28922 Alcorcón (Madrid);91 488 89 17 / 91 488 93 93;www.urjc.es;alcorcon.secretariadealumnos@urjc.es
-156;Escuela de Ingenieria de Fuenlabrada Campus Fuenlabrada;5;Camino del Molino, s/n 28943 Fuenlabrada (Madrid);91 488 84 01 / 91 488 93 93;www.urjc.es;secretariaacademica@urjc.es
-168;Escuela de Ingenieria de Fuenlabrada Campus de Alcorcon (tambien en ingles);5;Avda. de Atenas, s/n 28922 Alcorcón (Madrid);91 488 89 17;www.urjc.es;alcorcon.secretariadealumnos@urjc.es
-183;Escuela Superior de Ciencias Experimenta les y Tecnologia Campus de Mostoles;5;C/ Tulipán, s/n 28933 Móstoles (Madrid);91 664 74 18 / 91 665 50 61;www.urjc.es;escet.director@urjc.es
-191;Escuela Tecnica Superior de Ingenieria Informatica Campus de Mostoles;5;C/ Tulipán, s/n 28933 Móstoles (Madrid);91 488 70 26 / 91 664 74 35;www.urjc.es;mostoles.secretariadealumnos@urjc.es
-196;Escuela Tecnica Superior de Ingenieria de Telecomunicacion Campus Fuenlabrada;5;Camino del Molino, 5 28942 Fuenlabrada (Madrid);91 488 72 21;www.urjc.es;etsit.director@urjc.es | etsit.sec.academica@urjc.es
+11;Facultad de Artes y Humanidadess Campus de Aranjuez;5;C/ San Pascual, s/n 28300 Aranjuez (Madrid);91 488 44 21 / 91 555 25 28;www.udit.es | www.urjc.es;aranjuez.secretariadealumnos@urjc.es | secretaria.alumnos@udit.es
+26;Facultad de Artes y Humanidades Campus Fuenlabrada;5;Camino del Molino, s/n 28943 Fuenlabrada (Madrid);91 488 84 01;www.urjc.es;fuenlabrada.secretariadealumnos@urjc.es
+28;Escuela de Ingenieria de Fuenlabrada Campus de Fuenlabrada;5;Camino del Molino, 5 28942 Fuenlabrada (Madrid);91 488 84 01;www.urjc.es;fuenlabrada.secretariadealumnos@urjc.es
+31;Facultad de Artes y Humanidades Campus Aranjuez;5;C/ Infantas, 55 28300 Aranjuez (Madrid);91 488 44 21 / 91 488 70 26;www.urjc.es;aranjuez.secrealumnos@urjc.es
+37;Facultad de Ciencias de la Educacion y del Deporte y Estudios Interdisciplinares Campus Alcorcon;5;Avda. de Atenas, s/n 28922 Alcorcón (Madrid);91 488 89 17;www.urjc.es;alcorcon.secretariadealumnos@urjc.es
+40;Facultad de Ciencias Juridicas y Politicas Campus Madrid;5;Paseo Artilleros, s/n 28032 Vicálvaro (Madrid);91 488 00 00 / 91 488 78 00 / 91 488 89 17;www.urjc.es;fcjs.secretariaacademica@urjc.es
+54;Facultad de Ciencias de la Economia y de la Empresa Campus Madrid Vicalvaro;5;Paseo de los Artilleros, s/n 28032 Vicálvaro (Madrid);91 488 44 17 / 91 488 70 26 / 91 488 78 00 / 91 488 79 27 / 91 488 84 01 / 91 661 74 35;www.urjc.es;aranjuez.secretariadealumnos@urjc.es | fcjs.secretariaacademica@urjc.es
+67;Facultad de Ciencias de la Economia y de la Empresa Campus Madrid;5;Paseo de los Artilleros, s/n 28032 Vicálvaro (Madrid);91 488 70 26 / 91 488 78 00 / 91 488 84 01 / 91 664 74 35;www.urjc.es;fuenlabrada.secretariadealumnos@urjc.es | madrid.secretariaalumnos@urjc.esFacultad | mostoles.secretariadealumnos@urjc.es
+73;Facultad de Ciencias de la Educacion y del Deporte y Estudios Interdisciplinares Campus Madrid;5;Paseo de los Artilleros, s/n 28032 Vicálvaro (Madrid);91 350 12 12 / 91 488 70 26 / 91 488 78 00 / 91 488 84 01 / 91 664 74 35;www.eserp.com | www.urjc.es;fuenlabrada.secretariadealumnos@urjc.es | info@eserp.com | mostoles.secretariadealumnos@urjc.es
+75;Facultad de Ciencias Juridicas y Sociales Campus Madrid;5;Paseo de los Artilleros, s/n 28032 Vicálvaro (Madrid);91 488 70 26 / 91 488 78 00 / 91 488 84 01 / 91 664 74 35;www.urjc.es;fuenlabrada.secretariadealumnos@urjc.es | madrid.secretariadealumnos@urjc.es | mostoles.secretariadealumnos@urjc.es
+80;Facultad de Ciencias de la Economia y de la Empresa Campus de Fuenlabrada;5;Camino del Molino, s/n 28943 Fuenlabrada (Madrid);91 488 70 26 / 91 488 78 00 / 91 488 84 01 / 91 664 74 35;www.urjc.es;fuenlabrada.secretariadealumnos@urjc.es | madrid.secretariaalumnos@urjc.es | mostoles.secretariadealumnos@urjc.es
+81;Facultad de Ciencias de la Economia y de la Empresa Campus de Madrid;5;Paseo Artilleros, s/n 28032 Vicálvaro (Madrid);91 488 78 00;www.urjc.es;madrid.secretariaalumnos@urjc.es
+88;Facultad de Ciencias de la Educacion y del Deporte y Estudios Interdisciplinares Campus de Alcorcon;5;Avda. de Atenas, s/n 28922 Alcorcón (Madrid);91 488 83 46 / 91 488 89 17;www.urjc.es;alcorcon.secretariadealumnos@urjc.es | ferraz.secretaria@urjc.es
+91;Facultad de Ciencias de la Comunicacion Campus de Fuenlabrada;5;Camino del Molino, s/n 28943 Fuenlabrada (Madrid);91 488 78 00 / 91 488 84 01;www.urjc.es;fuenlabrada.secretariadealumnos@urjc.es | madrid.secretariaalumnos@urjc.es
+95;Facultad de Ciencias Juridicas y Politica Campus de Alcorcon;5;Avda. de Atenas, s/n 28922 Alcorcón (Madrid);91 488 88 00 / 91 488 89 17;www.urjc.es;alcorcon.secretariadealumnos@urjc.es
+100;Facultad de Ciencias de la Economia y de la Empresa Facultad de Ciencias de la Econo mia y de la Empresa Campus de Madrid;5;Paseo Artilleros, s/n 28032 Vicálvaro (Madrid);91 488 78 00 / 91 488 84 01;www.urjc.es;fuenlabrada.secretariadealumnos@urjc.es | madrid.secretariaalumnos@urjc.es
+101;Facultad de Ciencias de la Comunicacion Campus Madrid;5;Paseo Artilleros, s/n 28032 Vicálvaro (Madrid);91 488 79 27 / 91 488 83 46;www.urjc.es;ferraz.secretariadealumnos@urjc.es | mostoles.secretariadealumnos@urjc.es
+104;Escuela Superior de Ciencias Experimentales y Tecnologia Campus Mostoles;5;C/ Tulipán, s/n 28933 Móstoles (Madrid);91 664 74 18;www.urjc.es;escet.director@urjc.es
+110;Escuela Superior de Ciencias Experimentales y Tecnologia Campus de Mostoles;5;C/ Tulipán, s/n 28933 Móstoles (Madrid);91 664 74 18;www.urjc.es;escet.director@urjc.es
+121;Escuela Tecnica Superior de Ingenieria Informatica Campus Mostoles;5;C/ Tulipán, s/n 28933 Móstoles (Madrid);91 488 76 23;www.urjc.es;etsii.info@urjc.es
+132;Facultad de Ciencias de la Salud Campus de Alcorcon;5;Avda. de Atenas, s/n 28922 Alcorcón (Madrid);91 488 89 17 / 91 488 93 93;www.urjc.es;alcorcon.secretariadealumnos@urjc.es
+136;Facultad de Ciencias de la Salud Campus Alcorcon;5;Avda. de Atenas, s/n 28922 Alcorcón (Madrid);91 488 89 17 / 91 488 93 93;www.urjc.es;alcorcon.secretariadealumnos@urjc.es
+153;Escuela de Ingenieria de Fuenlabrada Campus Fuenlabrada;5;Camino del Molino, s/n 28943 Fuenlabrada (Madrid);91 488 84 01 / 91 488 93 93;www.urjc.es;secretariaacademica@urjc.es
+162;Escuela de Ingenieria de Fuenlabrada Campus de Alcorcon (tambien en ingles);5;Avda. de Atenas, s/n 28922 Alcorcón (Madrid);91 488 89 17;www.urjc.es;alcorcon.secretariadealumnos@urjc.es
+176;Escuela Superior de Ciencias Experimenta les y Tecnologia Campus de Mostoles;5;C/ Tulipán, s/n 28933 Móstoles (Madrid);91 664 74 18 / 91 665 50 61;www.urjc.es;escet.director@urjc.es
+183;Escuela Tecnica Superior de Ingenieria Informatica Campus de Mostoles;5;C/ Tulipán, s/n 28933 Móstoles (Madrid);91 488 70 26 / 91 664 74 35;www.urjc.es;mostoles.secretariadealumnos@urjc.es
+188;Escuela Tecnica Superior de Ingenieria de Telecomunicacion Campus Fuenlabrada;5;Camino del Molino, 5 28942 Fuenlabrada (Madrid);91 488 72 21;www.urjc.es;etsit.director@urjc.es | etsit.sec.academica@urjc.es
 8;Facultad de Musica y Artes Escenicas;6;Avda. Comandante Franco, 10 bis 28016 Madrid;91 810 92 00;www.uax.es;info@uax.es
-49;Facultad de Estudios Sociales y Lenguas Aplicadas Campus de Villanueva de la Canada;6;Avda. de la Universidad, 1 28691 Villanueva de la Cañada (Madrid);91 810 92 00;www.uax.es;info@uax.es
-72;Facultad de Educacion;6;Avda. de la Universidad, 1 28691 Villanueva de la Cañada (Madrid);91 810 92 00;www.uax.es;info@uax.es
-81;Facultad de Estudios Sociales y Lenguas Aplicadas;6;Avda. de la Universidad, 1 28691 Villanueva de la Cañada (Madrid);91 810 92 00;www.uax.es;info@uax.es
-107;Facultad de Farmacia Campus de Villanueva de la Canada;6;Avda. de la Universidad, 1 28691 Villanueva de la Cañada (Madrid);91 810 92 00;www.uax.es;info@uax.es
-117;Escuela Politecnica Superior Campus de Villanueva de la Canada;6;Avda. de la Universidad, 1 28691 Villanueva de la Cañada (Madrid);91 810 92 00;www.uax.es;info@uax.es
-127;Facultad de Ciencias de la Salud Campus de Villanueva de la Canada;6;Avda. de la Universidad, 1 28691 Villanueva de la Cañada (Madrid);91 810 92 00;www.uax.es;info@uax.es
-152;Facultad de Veterinaria Campus de Villanueva de la Canada;6;Avda. de la Universidad, 1 28691 Villanueva de la Cañada (Madrid);91 810 92 00;www.uax.es;info@uax.es
-179;Escuela Poltecnica Superior Campus de Villanueva de la Canada;6;Avda. de la Universidad,1 28691 Villanueva de la Cañada (Madrid);91 810 92 00;www.uax.es;info@uax.es
-10;Facultad de Humanidades y Ciencias de la Comunicacion Campus de Moncloa;7;C/ Julián Romea, 18 28003 Madrid;91 514 04 04 / 91 555 25 28;www.udit.es | www.uspceu.com;info.usp@ceu.es | secretaria.alumnos@udit.es
-15;Escuela Politecnica Superior Campus de Monteprincipe;7;;91 372 40 35;www.uspceu.com;info.usp@ceu.es
-52;Facultad de Derecho Campus Moncloa;7;C/ Julián Romea, 23 28003 Madrid;91 456 63 00 / 91 514 04 00;www.uspceu.com;info.usp@ceu.es
-57;Facultad de Ciencias Economicas y Empresariales Campus de Moncloa;7;C/ Julián Romea, 23 28003 Madrid;91 456 63 00;www.uspceu.com;info.usp@ceu.es
-70;Facultad de Ciencias Economicas y Empresariales Campus Moncloa;7;C/ Julián Romea, 23 28003 Madrid;91 456 63 00 / 91 514 04 00;www.uspceu.com;info.usp@ceu.es
-110;Facultad de Farmacia Campus de Monteprincipe;7;Urb. Montepríncipe 28925 Alcorcón (Madrid);91 372 47 00;www.uspceu.com;info.usp@ceu.es
-135;Facultad de Medicina Campus de Monteprincipe;7;Urb. Montepríncipe 28925 Alcorcón (Madrid);91 372 47 00;www.uspceu.com;info.usp@ceu.es
-142;Facultad de Farmacia;7;Urb. Montepríncipe 28925 Alcorcón (Madrid);91 372 47 00;www.uspceu.es;info.usp@ceu.es
-146;Facultad de Farmacia Campus Monteprincipe;7;;91 372 47 00;www.uspceu.com;info.usp@ceu.es
-149;Facultad de Medicina Campus Monteprincipe;7;Urb. Montepríncipe 28925 Alcorcón (Madrid);91 372 47 00;www.uspceu.com;info.usp@ceu.es
-169;Escuela Politecnica Superior Campus Monteprincipe;7;Urb. Monteprincipe 28925 Alcorcón (Madrid);91 372 47 00;www.ucpceu.es;secretariamonteprincipe@ceu.es
-11;Escuela de Arquitectura, Ingenieria y Diseno;8;C/Tajo, s/n. Edificio B Urbanización El Bosque 28670 Villaviciosa de Odón (Madrid);91 414 66 11 / 91 740 72 72;www.universidadeuropea.es/madrid;ads@uem.es
-13;Escuela de Arquitectura, Ingenieria y Diseno Campus de Villaviciosa de Odon;8;C/ Tajo, s/n. Edificio C Urbanización El Bosque 28670 Villaviciosa de Odón (Madrid);91 740 72 72;www.universidadeuropea.es/madrid;ads@uem.es
-14;Escuela de Arquitectura, Ingenieria y Diseno Campus Universitario de Villaviciosa de Odon;8;C/Tajo, s/n. Edificio B Urbanización El Bosque 28670 Villaviciosa de Odón (Madrid);91 555 25 28 / 91 740 72 72;www.udit.es | www.universidadeuropea.es/madrid;ads@uem.esUniversidad | secretaria.alumnos@udit.es
-26;Facultad de CC;8;C/ Tajo, s/n. Edificio B Urbanización El Bosque 28670 Villaviciosa de Odón (Madrid);91 740 72 72;www.universidadeuropea.es/madrid;ads@uem.es
-32;Facultad de Ciencias Sociales y de la Comunicacion Campus de Villaviciosa de Odon;8;C/ Tajo, s/n. Edificio B Urbanización El Bosque 28670 Villaviciosa de Odón (Madrid);91 740 72 72;www.universidadeuropea.es/madrid;ads@uem.es
-36;Facultad de Ciencias de la Actividad Fisica y el Deporte Campus de Villaviciosa de Odon;8;C/ Tajo, s/n. Urbanización El Bosque Edificio D 28670 Villaviciosa de Odón (Madrid);91 740 72 72;www.universidadeuropea.es/madrid;ads@universidadeuropea.es
-91;Facultad de Ciencias Sociales y de la Comunicacion Campus Villaviciosa de Odon;8;C/ Tajo, s/n. Edificio B Urbanización El Bosque 28670 Villaviciosa de Odón (Madrid);91 740 72 72;www.universidadeuropea.es/madrid;ads@universidadeuropea.es
-94;Facultad de Ciencias Sociales y de la Co municacion Campus de Villaviciosa de Odon;8;C/ Tajo, s/n. Edificio B Urbanización El Bosque 28670 Villaviciosa de Odón (Madrid);91 740 72 72;www.universidadeuropea.es/madrid;ads@universidadeuropea.es
-108;Facultad de Ciencias Biomedicas y de la Salud Campus de Villaviciosa de Odon;8;C/ Tajo, s/n. Urbanización El Bosque 28670 Villaviciosa de Odón (Madrid);91 414 66 11 / 91 740 72 72;www.universidadeuropea.es/madrid;ads@universidadeuropea.es
-144;Facultad de Ciencias Biomedicas y de la Salud Campus de Villaviciosa de Odon y Clinicas Universitarias;8;C/ Tajo, s/n. Edificio A. Urbanización El Bosque 28670 Villaviciosa de Odón (Madrid);91 385 88 00 / 91 526 81 00 / 91 740 72 72;www.universidadeuropea.es/madrid;ads@universidadeuropea.es | policlinica@universidadeuropea.es
-16;Facultad de Humanidades, Comunicacion y Documentacion Campus de Getafe;9;C/ Madrid, 133 28903 Getafe (Madrid);91 624 60 00;www.uc3m.es;futuroestudiantes@uc3m.es
-43;Facultad de Ciencias Sociales y Juridicas;9;C/ Madrid, 126 28903 Getafe (Madrid);91 624 60 00;www.uc3m.es;futurosestudiantes@uc3m.es
-44;Facultad de Ciencias Sociales y Juridicas Campus de Getafe;9;C/ Madrid, 126 28903 Getafe (Madrid);91 624 60 00;www.uc3m.es;futurosestudiantes@uc3m.es
-48;Facultad de Humanidades, Comunicacion y Documentacion;9;C/ Madrid, 126 28903 Getafe (Madrid);91 624 06 00;www.uc3m.es;futuroestudiantes@uc3m.es
-67;Facultad de Ciencias Sociales y Juridicas Campus Getafe;9;C/ Madrid, 126 28903 Getafe (Madrid);91 624 60 00;www.uc3m.es;futurosestudiantes@uc3m.es
-86;Facultad de Ciencias Sociales y Juridicas Campus de Colmenarejo;9;Avda. Universidad Carlos III, 22 28270 Colmenarejo (Madrid);91 624 60 00;www.uc3m.es;futuroestudiantes@uc3m.es
-111;Escuela Politecnica Superior;9;Avda. de la Universidad, 30 28911 Leganés (Madrid);91 624 60 00;www.uc3m.es;futurosestudiantes@uc3m.esUniversidad
-160;Escuela Politecnica Superior Campus Leganes;9;Avda. de la Universidad, 30 28911 Leganés (Madrid);91 624 60 00;www.uc3m.es;futurosestudiantes@uc3m.es
-17;Facultad de Filosofia y Letras Campus de Cantoblanco;10;C/ Francisco Tomás y Valiente, 1 28049 Madrid;91 497 43 54;www.uam.es;informacion.filosofia@uam.es
-19;Facultad de Filosofia y Letras Campus Cantoblanco;10;C/ Francisco Tomás y Valiente,1 28049 Madrid;91 497 43 54;www.uam.es;informacion.filosofia@uam.es
-27;Facultad de Ciencias;10;C/ Darwin, 2 28049 Madrid;91 497 43 31;www.uam.es;informacion.ciencias@uam.es
-35;Facultad de Formacion de Profesorado y Educacion Campus Cantoblanco;10;Avda. de Tomás y Valiente, 3 28049 Madrid;91 497 86 22;www.uam.es;gestiongrado.fprofesorado@uam.es
-46;Facultad de Derecho Campus de Cantoblanco;10;C/ Kelsen, 1 28049 Madrid;91 497 81 51;www.uam.es/oae/contacto;informacion.derecho@uam.es
-66;Facultad de Ciencias Economicas y Empresariales Campus de Cantoblanco;10;C/ Francisco Tomás y Valiente, 5 28049 Madrid;91 497 43 07;www.uam.es;grado.economia.economicas@uam.es
-115;Facultad de Ciencias Campus de Cantoblanco;10;C/ Darwin, 2 28049 Madrid;91 497 83 46;www.uam.es;informacion.ciencias@uam.es
-118;Facultad de Ciencias Campus Cantoblanco;10;C/ Francisco Tomás y Valiente, 7 28049 Madrid;91 497 43 31;www.uam.es;informacion.ciencias@uam.es
-130;Facultad de Medicina Campus Medicina UAM;10;C/ Arzobispo Morcillo, 4 28029 Madrid;91 497 54 58 / 91 534 36 49 / 91 550 48 63;www./euenfermeriacruzroja.com | www.fjd.es/escuela_enfermeria | www.uam.es;euenfermeria.fjd@fjd.es | informacion.medicina@uam.es
-147;Facultad de Psicologia Campus Cantoblanco;10;C/ Iván P . Paulov, 6 28049 Madrid;91 497 40 46;www.uam.es;secretariagrado.psicologia@uam.es
-166;Escuela Politecnica Superior Campus de Cantoblanco;10;C/ Francisco Tomás y Valiente, 11 28049 Madrid;91 497 22 23;www.uam.es;informacion.eps@uam.es
-21;Facultad de Ciencias Humanas y Sociales;11;C/ Universidad Comillas, 35 28049 Madrid;91 734 39 50;www.comillas.edu;grado@comillas.edu
-38;Facultad de Ciencias Humanas y Sociales Comillas Cantoblanco;11;C/ Universidad de Comillas, 35 28049 Madrid;91 452 28 00;www.comillas.edu;grado@comillas.edu
-64;Facultad de Derecho;11;C/ Alberto Aguilera, 23 28015 Madrid;91 542 28 00;www.comillas.edu;grado@comillas.edu
-133;Escuela Universitaria de Enfermeria y Fisioterapia “San Juan de Dios”;11;Avda. de San Juan de Dios, 1 28350 Ciempozuelos (Madrid);91 893 37 69;www.comillas.edu;oia@comillas.edu
-176;Escuela Tecnica Superior de Ingenieria (ICAI);11;C/ Alberto Aguilera, 25 28015 Madrid;91 542 28 00;www.comillas.edu;grado@comillas.edu
-181;Escuela Tecnica Superior de Ingenieria;11;C/ Alberto Aguilera, 25 28015 Madrid;91 542 28 00;www.comillas.edu;grado@comillas.edu
-24;Facultad de Filosofia y Letras Campus Historico;12;C/ Colegios, 2 Colegio de Málaga 28801 Alcalá de Henares (Madrid);91 885 43 13;www.uah.es/facultadfilosofiayletras;decanato.fyl@uah.es | secalum.filosofia@uah.es
-31;Facultad de Filosofia y Letras Campus Guadalajara;12;C/ Madrid, 1 19001 Guadalajara;91 885 43 13 / 91 885 50 00;www.uah.es/facultadfilosofiayletras;decanato.fyl@uah.es
-60;Facultad de Derecho Campus Historico;12;C/ Libreros, 27 28801 Alcalá de Henares (Madrid);91 885 43 13;www.uah.es/facultadderecho;ciu@uah.es | secalum.derecho@uah.es
-65;Facultad de Ciencias Economicas, Empresariales y Turismo Campus Historico;12;Pza. de la Victoria, 2 28802 Alcalá de Henares (Madrid);91 885 43 13;www.uah.es;ciu@uah.es | secalum.economicas@uah.es
-78;Facultad de Educacion Campus Guadalajara;12;C/ Madrid, 1 19001 Guadalajara;949 20 96 60;www.uah.es/facultadeducacion;escuela.magisterio@uah.es
-98;Facultad de Ciencias Economicas, Empresariales y Turismo Campus Guadalajara;12;C/ Cifuentes, 28 19003 Guadalajara;949 20 96 60;www.uah.es/facultadcceeturismo;secretaria.multidepar@uah.es
-104;Facultad de Ciencias Campus CientificoTecnologico;12;Crta. de Barcelona, Km. 33,600 28871 Alcalá de Henares (Madrid);91 885 49 16;www.uah.es/facultadciencias;decanato.biologia@uah.es
-114;Facultad de Ciencias Campus Cientifico Tecnologico;12;;91 885 51 13;www.uah.es/facultadciencias;decanato.ambientales@uah.es
-126;Facultad de Medicina y Ciencias de la Salud Campus CientificoTecnologico;12;;91 885 48 55;www.medicinaycienciasdelasalud.uah.es;decanato.ccafyde@uah.es
-136;Facultad de Farmacia Campus CientificoTecnologico;12;;91 885 46 69;www.uah.es/medicina;decanato.farmacia@uah.es
-139;Facultad de Medicina y Ciencias de la Salud Campus Cientifico Tecnologico;12;;91 885 45 74;www.uah.es/medicina;decanato.enfermyfisiot@uah.es
-157;Escuela de Arquitectura Campus Historico;12;C/ Santa Úrsula, 8 28801 Alcalá de Henares (Madrid);91 883 92 56;www.arquitectura.uah.es;e.arquitectura@uah.es
-158;Escuela de Arquitectura Campus Guadalajara;12;C/ Cifuentes, 28 19003 Guadalajara;949 20 96 33;www.arquitectura.uah.es;direccioneuat.guada@uah.es
-175;Escuela Politecnica Superior Campus CientificoTecnologico;12;Crta. de Barcelona, Km. 33,600 28871 Alcalá de Henares (Madrid);91 885 65 18;www.uah.es/escuelapolitecnica;secalum.politecnica@uah.es
-187;Escuela Politecnica Superior Campus Cientifico Tecnologico;12;;91 885 65 18;www.uah.es/escuelapolitecnica;secalum.politecnica@uah.es
-25;Facultad de Ciencias Sociales y Humanidades;13;Crta. de La Coruña, Km. 38,500 Vía de Servicio, 15 28400 Collado Villalba (Madrid);902 02 00 03 / 91 189 69 99 / 91 856 16 99;www.udima.es;informa@udima.es
-40;Facultad CC;13;;902 02 00 03 / 91 189 69 99 / 91 856 16 99;www.udima.es;informa@udima.es
-54;Facultad de Ciencias Economicas y Empresariales;13;;902 02 00 03 / 91 189 69 99 / 91 856 16 99;www.udima.es;informa@udima.es
-63;Facultad de Ciencias Juridicas;13;;902 02 00 03 / 91 189 69 99 / 91 856 16 99;www.udima.es;informa@udima.es
-93;Facultad Ciencias Sociales y Humanidades;13;;91 189 69 99 / 91 856 16 99;www.udima.es;informa@udima.es
-150;Facultad Ciencias de la Salud y de la Educacion;13;;902 02 00 03 / 91 189 69 99 / 91 856 16 99;www.udima.es;informa@udima.es
-173;Escuela de Ciencias Tecnicas e Ingenieria;13;;902 02 00 03 / 91 189 69 99;www.udima.es;informa@udima.es
-37;Facultad de Ciencias de la Actividad Fisica y del Deporte (INEF) Campus Ciudad Universitaria;14;Avda. Martín Fierro, 7 28040 Madrid;91 067 78 98;www.inef.upm.es;informacion.academica@upm.es
-116;Escuela Tecnica Superior de Ingenieria Agronomica, Alimentaria y de Biosistemas Campus Ciudad Universitaria;14;Avda. Puerta de Hierro, 2 4 28040 Madrid;91 067 07 24;www.etsiaab.upm.es;gestion.administrativa.etsiaab@upm.es | secretaria.alumnos.etsiaab@upm.es
-124;Escuela Politecnica de Ensenanza Superior (EPES) Centro de imparticion de la docencia;14;Avda. Puerta de Hierro, 24 28040 Madrid;;www.epes.upm.es;secretaria.epes@upm.es
-155;Escuela Tecnica Superior de Arquitectura Campus Ciudad Universitaria;14;Avda. Juan Herrera, 4 28040 Madrid;91 067 47 24;www.etsamadrid.upm.es;secretaria.arquitectura@upm.es
-159;Escuela Tecnica Superior de Ingenieros Navales Campus Ciudad Universitaria;14;Avda. de la Memoria, 4 28040 Madrid;91 067 61 00;www.etsin.upm.es;acceso.universidad@upm.es | informacionyservicios.navales@upm.es
-161;Escuela Tecnica Superior de Ingenieros en Topografia, Geodesia y Cartografia Campus Sur;14;C/ Mercator, 2 28031 Madrid;91 067 38 24;www.topografia.upm.es;informacion.academica@upm.es
-162;Escuela Tecnica Superior de Ingenieria Aeronautica y del Espacio Campus Ciudad Universitaria;14;Pza. del Cardenal Cisneros, 3 28040 Madrid;91 067 55 34;www.etsiae.upm.es;info.aeroespacial@upm.es
-163;Escuela Tecnica Superior de Ingenieria de Montes, Forestal y del Medio Natural Campus Ciudad Universitaria;14;C/ Jose Antonio Novais, 10 28040 Madrid;91 067 14 24;www.montesymedionatural.upm.es;info.alumnadom.montes@upm.es
-165;Escuela Tecnica Superior de Ingenieros Industriales Campus Madrid Ciudad;14;C/ José Gutiérrez Abascal, 2 28006 Madrid;91 067 67 24 / 91 067 74 24;www.etsidi.upm.es | www.etsii.upm.es;secretaria.etsidi@upm.es | secretaria.industrial@upm.es
-167;Escuela Tecnica Superior de Ingenieros de Telecomunicacion Campus Ciudad Universitaria;14;Avda. Complutense, 30 28040 Madrid;91 067 19 00;www.etsit.upm.es;secretaria.alumnos@etsit.upm.es
-170;Escuela Tecnica Superior de Ingenieros de;14;Caminos, Canales y Puertos Campus Ciudad Universitaria C/ Profesor Aranguren, 3 28040 Madrid;91 067 40 00 / 91 067 40 24 / 91 067 45 34;www.caminos.upm.es;acceso.universidad@upm.es
-172;Escuela Tecnica Superior de Ingenieria y Diseno Industrial Campus Madrid Ciudad;14;;91 067 74 24;www.etsidi.upm.es;secretaria.estsidi@upm.es
-177;Escuela Tecnica Superior de Ingenieros de Minas y Energia Campus Madrid Ciudad;14;C/ Ríos Rosas, 21 28003 Madrid;91 067 66 02 / 91 067 67 24;www.etsii.upm.es | www.minasyenergia.upm.es;gia@upm.esEscuela | secretaria.industriales@upm.es
-185;Escuela Tecnica Superior de Ingenieria de Sistemas de Telecomunicacion Campus Sur;14;C/ Nikola Tesla, s/n Ctra. de Valencia, Km. 7 28031 Madrid;91 067 32 24;www.etsist.upm.es;secrealumnos.etsist@upm.es
-186;Escuela Tecnica Superior de Ingenieros de Telecomunicacion Campus de Ciudad Universitaria;14;Avda. Complutense, 30 28040 Madrid;91 067 19 00;www.etsit.upm.es;informacion.academica@upm.es | secretaria.alumnos@etsit.upm.es
-188;Escuela Tecnica Superior de Ingenieros de Telecomunicacion Campus Moncloa;14;Avda. Complutense, nº 30 28040 Madrid;91 067 19 00 / 91 067 32 00;www.etsit.upm.es;informacion.academica@upm.es
-190;Escuela Tecnica Superior de Ingenieria de Sistemas Informaticos Campus Sur;14;C/ Alan Turing, s/n Ctra. de Valencia, km 7 28031 Madrid;91 067 35 24;www.etsist.upm.es;negociado.alumnos.etsisi@upm.es
-194;Escuela Tecnica Superior de Ingenieros Informaticos Campus de Montegancedo;14;;91 067 27 24;www.etsist.upm.es;secretaria@fi.upm.es
-51;Facultad de Comunicacion y Humanidades Campus Villafranca;15;C/ Castillo de Alarcón, 49 Urb. Villafranca del Castillo 28692 Villanueva de la Cañada (Madrid);91 815 31 31;www.ucjc.edu;info@ucjc.edu
-62;Facultad de Comunicacion y Humanidades;15;C/ Castillo de Alarcón, 49 Urb. Villafranca del Castillo 28692 VIllanueva de la Cañada (Madrid);91 815 31 31;www.ucjc.es;info@ucjc.es
-79;Facultad de Educacion Campus Villafranca;15;C/ Castillo de Alarcón, 49 28692 Villanueva de la Cañada (Madrid);91 815 31 31;www.ucjc.edu;info@ucjc.edu
-84;Facultad de Tecnologia y Ciencia Campus de Almagro;15;C/ Almagro, 5 28010 Madrid;91 298 01 23;www.ucjc.edu;info@ucjc.edu
-85;Facultad de Tecnologia y Ciencia;15;C/ Castillo de Alarcón, 49 Urb. Villafranca del Castillo 28692 Villanueva de la Cañada (Madrid);91 815 31 31;www.ucjc.edu;info@ucjc.edu
-95;Facultad de Tecnologia y Ciencia Campus Almagro;15;C/ Almagro, 5 28010 Madrid;91 298 01 23;;ucjc@ucjc.edu
-128;Facultad de Salud;15;C/ Castillo de Alarcón, 49 Urb. Villafranca del Castillo 28692 Villanueva de la Cañada (Madrid);91 815 31 31;www.ucjc.edu;info@ucjc.edu
+47;Facultad de Estudios Sociales y Lenguas Aplicadas Campus de Villanueva de la Canada;6;Avda. de la Universidad, 1 28691 Villanueva de la Cañada (Madrid);91 810 92 00;www.uax.es;info@uax.es
+70;Facultad de Educacion;6;Avda. de la Universidad, 1 28691 Villanueva de la Cañada (Madrid);91 810 92 00;www.uax.es;info@uax.es
+79;Facultad de Estudios Sociales y Lenguas Aplicadas;6;Avda. de la Universidad, 1 28691 Villanueva de la Cañada (Madrid);91 810 92 00;www.uax.es;info@uax.es
+105;Facultad de Farmacia Campus de Villanueva de la Canada;6;Avda. de la Universidad, 1 28691 Villanueva de la Cañada (Madrid);91 810 92 00;www.uax.es;info@uax.es
+115;Escuela Politecnica Superior Campus de Villanueva de la Canada;6;Avda. de la Universidad, 1 28691 Villanueva de la Cañada (Madrid);91 810 92 00;www.uax.es;info@uax.es
+125;Facultad de Ciencias de la Salud Campus de Villanueva de la Canada;6;Avda. de la Universidad, 1 28691 Villanueva de la Cañada (Madrid);91 810 92 00;www.uax.es;info@uax.es
+150;Facultad de Veterinaria Campus de Villanueva de la Canada;6;Avda. de la Universidad, 1 28691 Villanueva de la Cañada (Madrid);91 810 92 00;www.uax.es;info@uax.es
+173;Escuela Poltecnica Superior Campus de Villanueva de la Canada;6;Avda. de la Universidad,1 28691 Villanueva de la Cañada (Madrid);91 810 92 00;www.uax.es;info@uax.es
+9;Facultad de Humanidades y Ciencias de la Comunicacion Campus de Moncloa;7;C/ Julián Romea, 18 28003 Madrid;91 514 04 04 / 91 555 25 28;www.udit.es | www.uspceu.com;info.usp@ceu.es | secretaria.alumnos@udit.es
+50;Facultad de Derecho Campus Moncloa;7;C/ Julián Romea, 23 28003 Madrid;91 456 63 00 / 91 514 04 00;www.uspceu.com;info.usp@ceu.es
+55;Facultad de Ciencias Economicas y Empresariales Campus de Moncloa;7;C/ Julián Romea, 23 28003 Madrid;91 456 63 00;www.uspceu.com;info.usp@ceu.es
+68;Facultad de Ciencias Economicas y Empresariales Campus Moncloa;7;C/ Julián Romea, 23 28003 Madrid;91 456 63 00 / 91 514 04 00;www.uspceu.com;info.usp@ceu.es
+108;Facultad de Farmacia Campus de Monteprincipe;7;Urb. Montepríncipe 28925 Alcorcón (Madrid);91 372 47 00;www.uspceu.com;info.usp@ceu.es
+133;Facultad de Medicina Campus de Monteprincipe;7;Urb. Montepríncipe 28925 Alcorcón (Madrid);91 372 47 00;www.uspceu.com;info.usp@ceu.es
+140;Facultad de Farmacia;7;Urb. Montepríncipe 28925 Alcorcón (Madrid);91 372 47 00;www.uspceu.es;info.usp@ceu.es
+144;Facultad de Farmacia Campus Monteprincipe;7;;91 372 47 00;www.uspceu.com;info.usp@ceu.es
+147;Facultad de Medicina Campus Monteprincipe;7;Urb. Montepríncipe 28925 Alcorcón (Madrid);91 372 47 00;www.uspceu.com;info.usp@ceu.es
+152;Escuela Politecnica Superior Campus de Monteprincipe;7;Urb. Montepríncipe 28925 Alcorcón (Madrid);91 372 40 35;www.uspceu.com;info.usp@ceu.es
+163;Escuela Politecnica Superior Campus Monteprincipe;7;Urb. Monteprincipe 28925 Alcorcón (Madrid);91 372 47 00;www.ucpceu.es;secretariamonteprincipe@ceu.es
+10;Escuela de Arquitectura, Ingenieria y Diseno;8;C/Tajo, s/n. Edificio B Urbanización El Bosque 28670 Villaviciosa de Odón (Madrid);91 414 66 11 / 91 740 72 72;www.universidadeuropea.es/madrid;ads@uem.es
+12;Escuela de Arquitectura, Ingenieria y Diseno Campus de Villaviciosa de Odon;8;C/ Tajo, s/n. Edificio C Urbanización El Bosque 28670 Villaviciosa de Odón (Madrid);91 740 72 72;www.universidadeuropea.es/madrid;ads@uem.es
+13;Escuela de Arquitectura, Ingenieria y Diseno Campus Universitario de Villaviciosa de Odon;8;C/Tajo, s/n. Edificio B Urbanización El Bosque 28670 Villaviciosa de Odón (Madrid);91 555 25 28 / 91 740 72 72;www.udit.es | www.universidadeuropea.es/madrid;ads@uem.esUniversidad | secretaria.alumnos@udit.es
+24;Facultad de CC;8;C/ Tajo, s/n. Edificio B Urbanización El Bosque 28670 Villaviciosa de Odón (Madrid);91 740 72 72;www.universidadeuropea.es/madrid;ads@uem.es
+30;Facultad de Ciencias Sociales y de la Comunicacion Campus de Villaviciosa de Odon;8;C/ Tajo, s/n. Edificio B Urbanización El Bosque 28670 Villaviciosa de Odón (Madrid);91 740 72 72;www.universidadeuropea.es/madrid;ads@uem.es
+34;Facultad de Ciencias de la Actividad Fisica y el Deporte Campus de Villaviciosa de Odon;8;C/ Tajo, s/n. Urbanización El Bosque Edificio D 28670 Villaviciosa de Odón (Madrid);91 740 72 72;www.universidadeuropea.es/madrid;ads@universidadeuropea.es
+90;Facultad de Ciencias Sociales y de la Comunicacion Campus Villaviciosa de Odon;8;C/ Tajo, s/n. Edificio B Urbanización El Bosque 28670 Villaviciosa de Odón (Madrid);91 740 72 72;www.universidadeuropea.es/madrid;ads@universidadeuropea.es
+93;Facultad de Ciencias Sociales y de la Co municacion Campus de Villaviciosa de Odon;8;C/ Tajo, s/n. Edificio B Urbanización El Bosque 28670 Villaviciosa de Odón (Madrid);91 740 72 72;www.universidadeuropea.es/madrid;ads@universidadeuropea.es
+106;Facultad de Ciencias Biomedicas y de la Salud Campus de Villaviciosa de Odon;8;C/ Tajo, s/n. Urbanización El Bosque 28670 Villaviciosa de Odón (Madrid);91 414 66 11 / 91 740 72 72;www.universidadeuropea.es/madrid;ads@universidadeuropea.es
+142;Facultad de Ciencias Biomedicas y de la Salud Campus de Villaviciosa de Odon y Clinicas Universitarias;8;C/ Tajo, s/n. Edificio A. Urbanización El Bosque 28670 Villaviciosa de Odón (Madrid);91 385 88 00 / 91 526 81 00 / 91 740 72 72;www.universidadeuropea.es/madrid;ads@universidadeuropea.es | policlinica@universidadeuropea.es
+14;Facultad de Humanidades, Comunicacion y Documentacion Campus de Getafe;9;C/ Madrid, 133 28903 Getafe (Madrid);91 624 60 00;www.uc3m.es;futuroestudiantes@uc3m.es
+41;Facultad de Ciencias Sociales y Juridicas;9;C/ Madrid, 126 28903 Getafe (Madrid);91 624 60 00;www.uc3m.es;futurosestudiantes@uc3m.es
+42;Facultad de Ciencias Sociales y Juridicas Campus de Getafe;9;C/ Madrid, 126 28903 Getafe (Madrid);91 624 60 00;www.uc3m.es;futurosestudiantes@uc3m.es
+46;Facultad de Humanidades, Comunicacion y Documentacion;9;C/ Madrid, 126 28903 Getafe (Madrid);91 624 06 00;www.uc3m.es;futuroestudiantes@uc3m.es
+65;Facultad de Ciencias Sociales y Juridicas Campus Getafe;9;C/ Madrid, 126 28903 Getafe (Madrid);91 624 60 00;www.uc3m.es;futurosestudiantes@uc3m.es
+84;Facultad de Ciencias Sociales y Juridicas Campus de Colmenarejo;9;Avda. Universidad Carlos III, 22 28270 Colmenarejo (Madrid);91 624 60 00;www.uc3m.es;futuroestudiantes@uc3m.es
+109;Escuela Politecnica Superior;9;Avda. de la Universidad, 30 28911 Leganés (Madrid);91 624 60 00;www.uc3m.es;futurosestudiantes@uc3m.esUniversidad
+157;Escuela Politecnica Superior Campus Leganes;9;Avda. de la Universidad, 30 28911 Leganés (Madrid);91 624 60 00;www.uc3m.es;futurosestudiantes@uc3m.es
+15;Facultad de Filosofia y Letras Campus de Cantoblanco;10;C/ Francisco Tomás y Valiente, 1 28049 Madrid;91 497 43 54;www.uam.es;informacion.filosofia@uam.es
+17;Facultad de Filosofia y Letras Campus Cantoblanco;10;C/ Francisco Tomás y Valiente,1 28049 Madrid;91 497 43 54;www.uam.es;informacion.filosofia@uam.es
+25;Facultad de Ciencias;10;C/ Darwin, 2 28049 Madrid;91 497 43 31;www.uam.es;informacion.ciencias@uam.es
+33;Facultad de Formacion de Profesorado y Educacion Campus Cantoblanco;10;Avda. de Tomás y Valiente, 3 28049 Madrid;91 497 86 22;www.uam.es;gestiongrado.fprofesorado@uam.es
+44;Facultad de Derecho Campus de Cantoblanco;10;C/ Kelsen, 1 28049 Madrid;91 497 81 51;www.uam.es/oae/contacto;informacion.derecho@uam.es
+64;Facultad de Ciencias Economicas y Empresariales Campus de Cantoblanco;10;C/ Francisco Tomás y Valiente, 5 28049 Madrid;91 497 43 07;www.uam.es;grado.economia.economicas@uam.es
+113;Facultad de Ciencias Campus de Cantoblanco;10;C/ Darwin, 2 28049 Madrid;91 497 83 46;www.uam.es;informacion.ciencias@uam.es
+116;Facultad de Ciencias Campus Cantoblanco;10;C/ Francisco Tomás y Valiente, 7 28049 Madrid;91 497 43 31;www.uam.es;informacion.ciencias@uam.es
+128;Facultad de Medicina Campus Medicina UAM;10;C/ Arzobispo Morcillo, 4 28029 Madrid;91 497 54 58 / 91 534 36 49 / 91 550 48 63;www./euenfermeriacruzroja.com | www.fjd.es/escuela_enfermeria | www.uam.es;euenfermeria.fjd@fjd.es | informacion.medicina@uam.es
+145;Facultad de Psicologia Campus Cantoblanco;10;C/ Iván P . Paulov, 6 28049 Madrid;91 497 40 46;www.uam.es;secretariagrado.psicologia@uam.es
+19;Facultad de Ciencias Humanas y Sociales;11;C/ Universidad Comillas, 35 28049 Madrid;91 734 39 50;www.comillas.edu;grado@comillas.edu
+36;Facultad de Ciencias Humanas y Sociales Comillas Cantoblanco;11;C/ Universidad de Comillas, 35 28049 Madrid;91 452 28 00;www.comillas.edu;grado@comillas.edu
+62;Facultad de Derecho;11;C/ Alberto Aguilera, 23 28015 Madrid;91 542 28 00;www.comillas.edu;grado@comillas.edu
+131;Escuela Universitaria de Enfermeria y Fisioterapia “San Juan de Dios”;11;Avda. de San Juan de Dios, 1 28350 Ciempozuelos (Madrid);91 893 37 69;www.comillas.edu;oia@comillas.edu
+169;Escuela Tecnica Superior de Ingenieria (ICAI);11;C/ Alberto Aguilera, 25 28015 Madrid;91 542 28 00;www.comillas.edu;grado@comillas.edu
+22;Facultad de Filosofia y Letras Campus Historico;12;C/ Colegios, 2 Colegio de Málaga 28801 Alcalá de Henares (Madrid);91 885 43 13;www.uah.es/facultadfilosofiayletras;decanato.fyl@uah.es | secalum.filosofia@uah.es
+29;Facultad de Filosofia y Letras Campus Guadalajara;12;C/ Madrid, 1 19001 Guadalajara;91 885 43 13 / 91 885 50 00;www.uah.es/facultadfilosofiayletras;decanato.fyl@uah.es
+58;Facultad de Derecho Campus Historico;12;C/ Libreros, 27 28801 Alcalá de Henares (Madrid);91 885 43 13;www.uah.es/facultadderecho;ciu@uah.es | secalum.derecho@uah.es
+63;Facultad de Ciencias Economicas, Empresariales y Turismo Campus Historico;12;Pza. de la Victoria, 2 28802 Alcalá de Henares (Madrid);91 885 43 13;www.uah.es;ciu@uah.es | secalum.economicas@uah.es
+76;Facultad de Educacion Campus Guadalajara;12;C/ Madrid, 1 19001 Guadalajara;949 20 96 60;www.uah.es/facultadeducacion;escuela.magisterio@uah.es
+96;Facultad de Ciencias Economicas, Empresariales y Turismo Campus Guadalajara;12;C/ Cifuentes, 28 19003 Guadalajara;949 20 96 60;www.uah.es/facultadcceeturismo;secretaria.multidepar@uah.es
+102;Facultad de Ciencias Campus CientificoTecnologico;12;Crta. de Barcelona, Km. 33,600 28871 Alcalá de Henares (Madrid);91 885 49 16;www.uah.es/facultadciencias;decanato.biologia@uah.es
+112;Facultad de Ciencias Campus Cientifico Tecnologico;12;;91 885 51 13;www.uah.es/facultadciencias;decanato.ambientales@uah.es
+124;Facultad de Medicina y Ciencias de la Salud Campus CientificoTecnologico;12;;91 885 48 55;www.medicinaycienciasdelasalud.uah.es;decanato.ccafyde@uah.es
+134;Facultad de Farmacia Campus CientificoTecnologico;12;;91 885 46 69;www.uah.es/medicina;decanato.farmacia@uah.es
+137;Facultad de Medicina y Ciencias de la Salud Campus Cientifico Tecnologico;12;;91 885 45 74;www.uah.es/medicina;decanato.enfermyfisiot@uah.es
+154;Escuela de Arquitectura Campus Historico;12;C/ Santa Úrsula, 8 28801 Alcalá de Henares (Madrid);91 883 92 56;www.arquitectura.uah.es;e.arquitectura@uah.es
+155;Escuela de Arquitectura Campus Guadalajara;12;C/ Cifuentes, 28 19003 Guadalajara;949 20 96 33;www.arquitectura.uah.es;direccioneuat.guada@uah.es
+168;Escuela Politecnica Superior Campus CientificoTecnologico;12;Crta. de Barcelona, Km. 33,600 28871 Alcalá de Henares (Madrid);91 885 65 18;www.uah.es/escuelapolitecnica;secalum.politecnica@uah.es
+180;Escuela Politecnica Superior Campus Cientifico Tecnologico;12;;91 885 65 18;www.uah.es/escuelapolitecnica;secalum.politecnica@uah.es
+23;Facultad de Ciencias Sociales y Humanidades;13;Crta. de La Coruña, Km. 38,500 Vía de Servicio, 15 28400 Collado Villalba (Madrid);902 02 00 03 / 91 189 69 99 / 91 856 16 99;www.udima.es;informa@udima.es
+38;Facultad CC;13;;902 02 00 03 / 91 189 69 99 / 91 856 16 99;www.udima.es;informa@udima.es
+52;Facultad de Ciencias Economicas y Empresariales;13;;902 02 00 03 / 91 189 69 99 / 91 856 16 99;www.udima.es;informa@udima.es
+61;Facultad de Ciencias Juridicas;13;;902 02 00 03 / 91 189 69 99 / 91 856 16 99;www.udima.es;informa@udima.es
+92;Facultad Ciencias Sociales y Humanidades;13;;91 189 69 99 / 91 856 16 99;www.udima.es;informa@udima.es
+148;Facultad Ciencias de la Salud y de la Educacion;13;;902 02 00 03 / 91 189 69 99 / 91 856 16 99;www.udima.es;informa@udima.es
+166;Escuela de Ciencias Tecnicas e Ingenieria;13;;902 02 00 03 / 91 189 69 99;www.udima.es;informa@udima.es
+35;Facultad de Ciencias de la Actividad Fisica y del Deporte (INEF) Campus Ciudad Universitaria;14;Avda. Martín Fierro, 7 28040 Madrid;91 067 78 98;www.inef.upm.es;informacion.academica@upm.es
+114;Escuela Tecnica Superior de Ingenieria Agronomica, Alimentaria y de Biosistemas Campus Ciudad Universitaria;14;Avda. Puerta de Hierro, 2 4 28040 Madrid;91 067 07 24;www.etsiaab.upm.es;gestion.administrativa.etsiaab@upm.es | secretaria.alumnos.etsiaab@upm.es
+122;Escuela Politecnica de Ensenanza Superior (EPES);14;;;;
+156;Escuela Tecnica Superior de Ingenieros Navales Campus Ciudad Universitaria;14;Avda. de la Memoria, 4 28040 Madrid;91 067 61 00;www.etsin.upm.es;acceso.universidad@upm.es | informacionyservicios.navales@upm.es
+158;Escuela Tecnica Superior de Ingenieros en Topografia, Geodesia y Cartografia Campus Sur;14;C/ Mercator, 2 28031 Madrid;91 067 38 24;www.topografia.upm.es;informacion.academica@upm.es
+159;Escuela Tecnica Superior de Ingenieria Aeronautica y del Espacio Campus Ciudad Universitaria;14;Pza. del Cardenal Cisneros, 3 28040 Madrid;91 067 55 34;www.etsiae.upm.es;info.aeroespacial@upm.es
+160;Escuela Tecnica Superior de Ingenieria de Montes, Forestal y del Medio Natural Campus Ciudad Universitaria;14;C/ Jose Antonio Novais, 10 28040 Madrid;91 067 14 24;www.montesymedionatural.upm.es;info.alumnadom.montes@upm.es
+164;Escuela Tecnica Superior de Ingenieros de;14;Caminos, Canales y Puertos Campus Ciudad Universitaria C/ Profesor Aranguren, 3 28040 Madrid;91 067 40 00 / 91 067 40 24 / 91 067 45 34;www.caminos.upm.es;acceso.universidad@upm.es
+165;Escuela Tecnica Superior de Ingenieria y Diseno Industrial Campus Madrid Ciudad;14;;91 067 74 24;www.etsidi.upm.es;secretaria.estsidi@upm.es
+171;Escuela Tecnica Superior de Ingenieros de Minas y Energia Campus Madrid Ciudad;14;C/ Ríos Rosas, 21 28003 Madrid;91 067 66 02;www.minasyenergia.upm.es;gia@upm.es
+178;Escuela Tecnica Superior de Ingenieria de Sistemas de Telecomunicacion Campus Sur;14;C/ Nikola Tesla, s/n Ctra. de Valencia, Km. 7 28031 Madrid;91 067 32 24;www.etsist.upm.es;secrealumnos.etsist@upm.es
+179;Escuela Tecnica Superior de Ingenieros de Telecomunicacion Campus de Ciudad Universitaria;14;Avda. Complutense, 30 28040 Madrid;91 067 19 00;www.etsit.upm.es;informacion.academica@upm.es | secretaria.alumnos@etsit.upm.es
+181;Escuela Tecnica Superior de Ingenieros de Telecomunicacion Campus Moncloa;14;Avda. Complutense, nº 30 28040 Madrid;91 067 19 00 / 91 067 32 00;www.etsit.upm.es;informacion.academica@upm.es
+185;Escuela Tecnica Superior de Ingenieria de Sistemas Informaticos Campus Sur;14;C/ Alan Turing, s/n Ctra. de Valencia, km 7 28031 Madrid;91 067 35 24;www.etsist.upm.es;negociado.alumnos.etsisi@upm.es
+186;Escuela Tecnica Superior de Ingenieros Informaticos Campus de Montegancedo;14;;91 067 27 24;www.etsist.upm.es;secretaria@fi.upm.es
+49;Facultad de Comunicacion y Humanidades Campus Villafranca;15;C/ Castillo de Alarcón, 49 Urb. Villafranca del Castillo 28692 Villanueva de la Cañada (Madrid);91 815 31 31;www.ucjc.edu;info@ucjc.edu
+60;Facultad de Comunicacion y Humanidades;15;C/ Castillo de Alarcón, 49 Urb. Villafranca del Castillo 28692 VIllanueva de la Cañada (Madrid);91 815 31 31;www.ucjc.es;info@ucjc.es
+77;Facultad de Educacion Campus Villafranca;15;C/ Castillo de Alarcón, 49 28692 Villanueva de la Cañada (Madrid);91 815 31 31;www.ucjc.edu;info@ucjc.edu
+82;Facultad de Tecnologia y Ciencia Campus de Almagro;15;C/ Almagro, 5 28010 Madrid;91 298 01 23;www.ucjc.edu;info@ucjc.edu
+83;Facultad de Tecnologia y Ciencia;15;C/ Castillo de Alarcón, 49 Urb. Villafranca del Castillo 28692 Villanueva de la Cañada (Madrid);91 815 31 31;www.ucjc.edu;info@ucjc.edu
+86;Facultad de Tecnologia y Ciencia Campus Almagro;15;C/ Almagro, 5 28010 Madrid;91 298 01 23;www.ucjc.edu;info@ucjc.edu
+126;Facultad de Salud;15;C/ Castillo de Alarcón, 49 Urb. Villafranca del Castillo 28692 Villanueva de la Cañada (Madrid);91 815 31 31;www.ucjc.edu;info@ucjc.edu
