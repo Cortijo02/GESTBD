@@ -49,8 +49,6 @@ En el contenedor de jupyter "queries.ipynb" contiene las queries a los servicios
 
 2. **Postgres:** con los CSVs extraidos de la fase anterior definimos dos scripts `postgres > init > *.sql` para crear e insertar los datos de la carpeta `postgres > csv` durante el despliegue del servicio, siguiendo el esquema entidad relación definido a lo largo de la práctica. Una vez está desplegada la posgres nos podemos conectar a ella con las cedenciales definidas en la tabla anterior, podemos acceder a través del pgadmin o bien desde un cuaderno jupyter para lanzar consultas como veremos más adelante.
 
-TODO: Añadir fotito
-
 4. **ElasticSearch:** una vez está desplegado el contenedor, generamos nuestro índice desde el propio notebook de `jupyter > src > queries > queries.ipynb`, definimos las propiedades y los tipos de las mismas siguiendo las ideas propuestas en las entregas anteriores.
 
 5. **GraphDB:** Para realizar esto diseñamos la ontología estableciendo las tripletas (y los prefijos utilizados de ontologías existentes). A través de un script the python (`jupyter > src > graph > generador_grafo.ipynb`), pasamos de los datos de PostGres a la ontología establecida y el resultado (se genera en esa misma carpeta con nombre universidadesMadrid.ttl) lo copiamos en (`graphdb > imports`). Una vez tenemos los archivos de la carpeta `graphdb > imports` lanzamos el contenedor de GraphDB, generamos un repositorio 'Practica_GESTDB' e importamos ambos archivos (que se encuentrar en 'server files' porque los cargamos al montar el contenedor) con base iri 'http://example.org/universidadesMadrid#'. Una vez se realiza esto ya podemos lanzar las queries contra este sistema.
