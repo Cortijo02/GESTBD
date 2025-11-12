@@ -1,0 +1,587 @@
+id_of;grado;universidad
+1;Antropologia Social y Cultural;Universidad Nacional de Educación a Distancia UNED
+2;Antropologia Social y Cultural;Universidad Nacional de Educación a Distancia UNED
+3;Bellas Artes;Universidad Nacional de Educación a Distancia UNED
+4;Conservacion y Restauracion del Patrimonio Cultural;Universidad Nacional de Educación a Distancia UNED
+5;Historia;Universidad Nacional de Educación a Distancia UNED
+6;Antropologia Social y Cultural;Universidad Autónoma de Madrid
+7;Antropologia Social y Cultural;Universidad Autónoma de Madrid
+8;Bellas Artes;Universidad Autónoma de Madrid
+9;Conservacion y Restauracion del Patrimonio Cultural;Universidad Autónoma de Madrid
+10;Arqueologia;Universidad Autónoma de Madrid
+11;Ciencia, Tecnologia y Humanidades;Universidad Autónoma de Madrid
+12;Espanol: Lengua y Literatura;Universidad Autónoma de Madrid
+13;Estudios Hispanicos;Universidad Autónoma de Madrid
+14;Lengua de Signos Espanola y Comunidad SordaArea de Lengua de Signos Rama de conocimiento Ciencias Sociales y Juridicas;Universidad Autónoma de Madrid
+15;Antropologia Social y Cultural;Universidad Complutense de Madrid
+16;Antropologia Social y Cultural;Universidad Complutense de Madrid
+17;Bellas Artes;Universidad Complutense de Madrid
+18;Conservacion y Restauracion del Patrimonio Cultural;Universidad Complutense de Madrid
+19;Artes Escenicas;Universidad Antonio de Nebrija
+20;Diseno Multimedia y Grafico;Universidad Antonio de Nebrija
+21;Estudios Semiticos e IslamicosArea de Estudios Semiticos e Islamicos Rama de conocimiento Artes y Humanidades;Universidad Antonio de Nebrija
+22;Artes Escenicas;Universidad Complutense de Madrid
+23;Artes Escenicas e Interpretacion Audiovisual;Universidad Complutense de Madrid
+24;Diseno Integral y Gestion de la Imagen;Universidad Complutense de Madrid
+25;Artes Escenicas;Universidad Francisco de Vitoria
+26;Estudios Hispanicos: Lengua Espanola y sus Literaturas;Universidad Francisco de Vitoria
+27;Artes Digitales;Universidad Francisco de Vitoria
+28;Bachelor of Digital ArtsArea de Entorno Digital Rama de conocimiento Ciencias Sociales y Juridicas;Universidad Francisco de Vitoria
+29;Gestion de la Ciberseguridad;Universidad Francisco de Vitoria
+30;Comunicacion Digital;Universidad Francisco de Vitoria
+31;Ciencia y Tecnologia;Universidad Francisco de Vitoria
+32;Artes Escenicas;Universidad Rey Juan Carlos
+33;Diseno Grafico y Multimedia;Universidad Rey Juan Carlos
+34;Efectos Visuales;Universidad Antonio de Nebrija
+35;Filosofia, Politica, Derecho y Economia;Universidad Antonio de Nebrija
+36;Artes Digitales;Universidad Antonio de Nebrija
+37;Bachelor of Digital ArtsArea de Entorno Digital Rama de conocimiento Ciencias Sociales y Juridicas;Universidad Antonio de Nebrija
+38;Gestion de la Ciberseguridad;Universidad Antonio de Nebrija
+39;Diseno Digital y Multimedia;Universidad Antonio de Nebrija
+40;Comunicacion Corporativa, Protocolo y Organizacion de Eventos;Universidad Antonio de Nebrija
+41;Ciencias Agrarias y Bioeconomia;Universidad Antonio de Nebrija
+42;Bachelor in Filmmaking;Universidad Rey Juan Carlos
+43;Historia;Universidad Rey Juan Carlos
+44;Ciencia, Tecnologia y Humanidades;Universidad Rey Juan Carlos
+45;Bachelor in Interior Design;Universidad Alfonso X El Sabio
+46;Estudios Hispanicos;Universidad Alfonso X El Sabio
+47;Diseno Integral y Gestion de la Imagen;Universidad Europea de Madrid
+48;Diseno Multimedia y Grafico;Universidad Europea de Madrid
+49;Estudios Semiticos e IslamicosArea de Estudios Semiticos e Islamicos Rama de conocimiento Artes y Humanidades;Universidad Europea de Madrid
+50;Arte Digital y Tecnologias creativas;Universidad Europea de Madrid
+51;Diseno Multimedia y Grafico;Universidad Rey Juan Carlos
+52;Estudios Semiticos e IslamicosArea de Estudios Semiticos e Islamicos Rama de conocimiento Artes y Humanidades;Universidad Rey Juan Carlos
+53;Arte Digital y Tecnologias creativas;Universidad Europea de Madrid
+54;Estudios de Asia y Africa: Arabe, Chino y Japones;Universidad San PabloCEU
+55;Gestion y Operaciones del Transporte Aereo;Universidad San PabloCEU
+56;Estudios de Asia y Africa: Arabe, Chino y Japones;Universidad Europea de Madrid
+57;Ingenieria Fisica;Universidad Europea de Madrid
+58;Geologia Realizan: Estudios del interior y exterior de la tierra. Busqueda;Universidad Europea de Madrid
+59;Ingenieria en Tecnologias Aeroespaciales;Universidad Europea de Madrid
+60;Diseno;Universidad Europea de Madrid
+61;Filosofia;Universidad Europea de Madrid
+62;Ingenieria del Medio Natural © Comunidad de Madrid. Edicion:;Universidad Europea de Madrid
+63;Ingenieria en Electronica y Automatica Industrial;Universidad Europea de Madrid
+64;Ingenieria Mecanica;Universidad Europea de Madrid
+65;Ingenieria en Matematica Aplicada al Analisis de Datos;Universidad Europea de Madrid
+66;Ingenieria de Sonido e Imagen;Universidad Europea de Madrid
+67;Ingenieria Informatica Biomedica;Universidad Europea de Madrid
+68;Diseno y Desarrollo de Videojuegos;Universidad Europea de Madrid
+69;Ingenieria Robotica Sotware;Universidad Europea de Madrid
+70;Ciencias de las Religiones;Universidad Carlos III de Madrid
+71;Estudios Hispanicos: Lengua Espanola y sus Literaturas;Universidad Carlos III de Madrid
+72;Lengua y Literatura Espanola;Universidad Carlos III de Madrid
+73;Artes Digitales;Universidad Carlos III de Madrid
+74;Bachelor of Digital ArtsArea de Entorno Digital Rama de conocimiento Ciencias Sociales y Juridicas;Universidad Carlos III de Madrid
+75;Gestion de la Ciberseguridad;Universidad Carlos III de Madrid
+76;Geografia e Historia;Universidad Complutense de Madrid
+77;Estudios Clasicos y de la Antiguedad;Universidad Complutense de Madrid
+78;Estudios HispanoAlemanes;Universidad Complutense de Madrid
+79;Lenguas Modernas y sus Literaturas;Universidad Complutense de Madrid
+80;Paisajismo;Universidad Complutense de Madrid
+81;Lenguas Modernas y Traduccion;Universidad Complutense de Madrid
+82;Traduccion e Interpretacion;Universidad Complutense de Madrid
+83;Ciencias de la Actividad Fisica y del Deporte;Universidad Complutense de Madrid
+84;Gestion Deportiva;Universidad Complutense de Madrid
+85;Historia;Universidad Autónoma de Madrid
+86;Musicologia;Universidad Autónoma de Madrid
+87;Estudios Ingleses;Universidad Autónoma de Madrid
+88;Lenguas Modernas, Cultura y Comunicacion: espanol, frances o ingles;Universidad Autónoma de Madrid
+89;Paisajismo;Universidad Autónoma de Madrid
+90;Traduccion e Interpretacion;Universidad Autónoma de Madrid
+91;Gestion Deportiva;Universidad Autónoma de Madrid
+92;Historia;Universidad Complutense de Madrid
+93;Historia del Arte;Universidad Complutense de Madrid
+94;Historia;Universidad Pontificia Comillas ICAIICADE
+95;Gestion Deportiva;Universidad Pontificia Comillas ICAIICADE
+96;Ingenieria Maritima;Universidad Pontificia Comillas ICAIICADE
+97;Musicologia;Universidad Complutense de Madrid
+98;Ciencia, Tecnologia y Humanidades;Universidad Complutense de Madrid
+99;Espanol: Lengua y Literatura;Universidad Complutense de Madrid
+100;Humanidades;Universidad Nacional de Educación a Distancia UNED
+101;Espanol: Lengua y Literatura;Universidad Nacional de Educación a Distancia UNED
+102;Estudios Hispanicos;Universidad Nacional de Educación a Distancia UNED
+103;Lengua de Signos Espanola y Comunidad SordaArea de Lengua de Signos Rama de conocimiento Ciencias Sociales y Juridicas;Universidad Nacional de Educación a Distancia UNED
+104;Ciencia, Tecnologia y Humanidades;Universidad de Alcalá
+105;Estudios Hispanicos: Lengua Espanola y sus Literaturas;Universidad de Alcalá
+106;Filologia Clasica;Universidad de Alcalá
+107;Paisajismo;Universidad de Alcalá
+108;Ciencia, Tecnologia y Humanidades;Universidad San PabloCEU
+109;Espanol: Lengua y Literatura;Universidad San PabloCEU
+110;Artes Digitales;Universidad San PabloCEU
+111;Diseno Digital y Multimedia;Universidad San PabloCEU
+112;Empresas y Actividades Turisticas;Universidad San PabloCEU
+113;Ciencia, Tecnologia y Humanidades;Universidad a Distancia de Madrid UDIMA
+114;Estudios Hispanicos;Universidad Europea de Madrid
+115;Ciencias del Trabajo, Relaciones Laborales y Recursos Humanos;Universidad Europea de Madrid
+116;Relaciones Laborales y Recursos Humanos;Universidad Europea de Madrid
+117;Ciencia Politica y Gestion Publica;Universidad Europea de Madrid
+118;Ciencia Politica y de la Administracion;Universidad Europea de Madrid
+119;Bachelor of European Studies (BAES);Universidad Europea de Madrid
+120;Derecho;Universidad Europea de Madrid
+121;Filosofia, Politica, Derecho y Economia;Universidad Europea de Madrid
+122;Economia y Finanzas;Universidad Europea de Madrid
+123;Bachelor in International Business Management;Universidad Europea de Madrid
+124;Contabilidad y Finanzas;Universidad Europea de Madrid
+125;Direccion y Gestion de Empresas en el Ambito Digital;Universidad Europea de Madrid
+126;Empresa y Tecnologia;Universidad Europea de Madrid
+127;Gestion Urbana;Universidad Europea de Madrid
+128;Publicidad y Relaciones Publicas;Universidad Europea de Madrid
+129;Artes Digitales;Universidad Europea de Madrid
+130;Ingenieria Fisica;Universidad Europea de Madrid
+131;Geologia Realizan: Estudios del interior y exterior de la tierra. Busqueda;Universidad Europea de Madrid
+132;Fisioterapia;Universidad Europea de Madrid
+133;Odontologia;Universidad Europea de Madrid
+134;Podologia;Universidad Europea de Madrid
+135;Ingenieria Maritima;Universidad Europea de Madrid
+136;Ingenieria en Electronica y Automatica Industrial;Universidad Europea de Madrid
+137;Lengua y Literatura Espanola;Universidad Autónoma de Madrid
+138;Fisica;Universidad Autónoma de Madrid
+139;Fisica e Instrumentacion Espacial;Universidad Autónoma de Madrid
+140;Fisica Aplicada;Universidad Autónoma de Madrid
+141;Ingenieria Fisica;Universidad Autónoma de Madrid
+142;Geologia Realizan: Estudios del interior y exterior de la tierra. Busqueda;Universidad Autónoma de Madrid
+143;Fisioterapia;Universidad Autónoma de Madrid
+144;Medicina;Universidad Autónoma de Madrid
+145;Arquitectura;Universidad Autónoma de Madrid
+146;Ingenieria Electrica;Universidad Autónoma de Madrid
+147;Estudios HispanoAlemanes;Universidad Rey Juan Carlos
+148;Estudios HispanoAlemanes;Universidad Nacional de Educación a Distancia UNED
+149;Paisajismo;Universidad Nacional de Educación a Distancia UNED
+150;Ciencias de la Actividad Fisica y del Deporte;Universidad Rey Juan Carlos
+151;Gestion Deportiva;Universidad de Alcalá
+152;Artes Digitales;Universidad de Alcalá
+153;Gestion Deportiva;Universidad Europea de Madrid
+154;Economia y Finanzas;Universidad Europea de Madrid
+155;Administracion y Direccion de Empresas;Universidad Europea de Madrid
+156;Direccion y Gestion de Empresas en el Ambito Digital;Universidad Europea de Madrid
+157;Gestion Urbana;Universidad Europea de Madrid
+158;Bachelor of Digital ArtsArea de Entorno Digital Rama de conocimiento Ciencias Sociales y Juridicas;Universidad Europea de Madrid
+159;Gestion de la Ciberseguridad;Universidad Europea de Madrid
+160;Gestion Deportiva;Universidad Rey Juan Carlos
+161;Ciencias del Trabajo, Relaciones Laborales y Recursos Humanos;Universidad Autónoma de Madrid
+162;Relaciones Laborales y Recursos Humanos;Universidad Autónoma de Madrid
+163;Ciencia Politica y Gestion Publica;Universidad Autónoma de Madrid
+164;Ciencia Politica y de la Administracion;Universidad Autónoma de Madrid
+165;Ciencias del Trabajo, Relaciones Laborales y Recursos Humanos;Universidad Europea de Madrid
+166;Relaciones Laborales y Recursos Humanos;Universidad Europea de Madrid
+167;Ciencia Politica y Gestion Publica;Universidad Europea de Madrid
+168;Ciencia Politica y de la Administracion;Universidad Europea de Madrid
+169;Relaciones Labores y Empleo;Universidad Europea de Madrid
+170;Ciencias Politicas;Universidad Europea de Madrid
+171;Ciencias del Trabajo, Relaciones Laborales y Recursos Humanos;Universidad Politécnica de Madrid
+172;Relaciones Laborales y Recursos Humanos;Universidad Politécnica de Madrid
+173;Ciencia Politica y Gestion Publica;Universidad Politécnica de Madrid
+174;Ciencia Politica y de la Administracion;Universidad Politécnica de Madrid
+175;Ciencias del Trabajo, Relaciones Laborales y Recursos Humanos;Universidad Pontificia Comillas ICAIICADE
+176;Relaciones Laborales y Recursos Humanos;Universidad Pontificia Comillas ICAIICADE
+177;Ciencia Politica y Gestion Publica;Universidad Pontificia Comillas ICAIICADE
+178;Ciencia Politica y de la Administracion;Universidad Pontificia Comillas ICAIICADE
+179;Economia y Finanzas;Universidad Pontificia Comillas ICAIICADE
+180;Contabilidad y Finanzas;Universidad Pontificia Comillas ICAIICADE
+181;Administracion y Direccion de Empresas;Universidad Pontificia Comillas ICAIICADE
+182;Direccion y Gestion de Empresas en el Ambito Digital;Universidad Pontificia Comillas ICAIICADE
+183;Ciencias Ambientales y Sostenibilidad;Universidad Pontificia Comillas ICAIICADE
+184;Ciencias del Trabajo, Relaciones Laborales y Recursos Humanos;Universidad Rey Juan Carlos
+185;Relaciones Laborales y Recursos Humanos;Universidad Rey Juan Carlos
+186;Ciencia Politica y Gestion Publica;Universidad Rey Juan Carlos
+187;Ciencia Politica y de la Administracion;Universidad Rey Juan Carlos
+188;Ciencias del Trabajo, Relaciones Laborales y Recursos Humanos;Universidad de Alcalá
+189;Relaciones Laborales y Recursos Humanos;Universidad de Alcalá
+190;Ciencia Politica y Gestion Publica;Universidad de Alcalá
+191;Ciencia Politica y de la Administracion;Universidad de Alcalá
+192;Odontologia;Universidad de Alcalá
+193;Veterinaria;Universidad de Alcalá
+194;Ciencias del Trabajo, Relaciones Laborales y Recursos Humanos;Universidad Alfonso X El Sabio
+195;Relaciones Laborales y Recursos Humanos;Universidad Alfonso X El Sabio
+196;Ciencia Politica y Gestion Publica;Universidad Alfonso X El Sabio
+197;Ciencia Politica y de la Administracion;Universidad Alfonso X El Sabio
+198;Odontologia;Universidad Alfonso X El Sabio
+199;Podologia;Universidad Alfonso X El Sabio
+200;Terapia Ocupacional;Universidad Alfonso X El Sabio
+201;Arquitectura;Universidad Alfonso X El Sabio
+202;Fundamentos de Arquitectura y Urbanismo;Universidad Alfonso X El Sabio
+203;Ingenieria Maritima;Universidad Alfonso X El Sabio
+204;Ciencias del Trabajo, Relaciones Laborales y Recursos Humanos;Universidad Camilo José Cela
+205;Relaciones Laborales y Recursos Humanos;Universidad Camilo José Cela
+206;Ciencia Politica y Gestion Publica;Universidad Camilo José Cela
+207;Ciencia Politica y de la Administracion;Universidad Camilo José Cela
+208;Odontologia;Universidad Camilo José Cela
+209;Optica y Optometria;Universidad Camilo José Cela
+210;Podologia;Universidad Camilo José Cela
+211;Terapia Ocupacional;Universidad Camilo José Cela
+212;Veterinaria;Universidad Camilo José Cela
+213;Arquitectura;Universidad Camilo José Cela
+214;Fundamentos de Arquitectura y Urbanismo;Universidad Camilo José Cela
+215;Ciencias del Trabajo, Relaciones Laborales y Recursos Humanos;Universidad Francisco de Vitoria
+216;Relaciones Laborales y Recursos Humanos;Universidad Francisco de Vitoria
+217;Ciencia Politica y Gestion Publica;Universidad Francisco de Vitoria
+218;Ciencia Politica y de la Administracion;Universidad Francisco de Vitoria
+219;Gestion y Administracion Publica;Universidad a Distancia de Madrid UDIMA
+220;Administracion y Direccion de Empresas;Universidad a Distancia de Madrid UDIMA
+221;Direccion y Gestion de Empresas en el Ambito Digital;Universidad a Distancia de Madrid UDIMA
+222;Empresa y Tecnologia;Universidad a Distancia de Madrid UDIMA
+223;Historia y Politica;Universidad Complutense de Madrid
+224;Economia;Universidad Complutense de Madrid
+225;Bachelor in International Business Management;Universidad Complutense de Madrid
+226;Finanzas, Banca y Seguros Un;Universidad Complutense de Madrid
+227;Historia y Politica;Universidad Rey Juan Carlos
+228;Sociologia;Universidad Rey Juan Carlos
+229;Economia y Finanzas;Universidad Rey Juan Carlos
+230;Estudios Internacionales;Universidad Carlos III de Madrid
+231;Filosofia, Politica, Derecho y Economia;Universidad Carlos III de Madrid
+232;Bachelor in International Business Management;Universidad Carlos III de Madrid
+233;Administracion y Direccion de Empresas;Universidad Carlos III de Madrid
+234;Direccion y Gestion de Empresas en el Ambito Digital;Universidad Carlos III de Madrid
+235;Empresa y Tecnologia;Universidad Carlos III de Madrid
+236;Artes Digitales;Universidad Carlos III de Madrid
+237;Bachelor of Digital ArtsArea de Entorno Digital Rama de conocimiento Ciencias Sociales y Juridicas;Universidad Carlos III de Madrid
+238;Gestion de la Ciberseguridad;Universidad Carlos III de Madrid
+239;Diseno Digital y Multimedia;Universidad Carlos III de Madrid
+240;Bachelor of European Studies (BAES);Universidad Carlos III de Madrid
+241;Derecho;Universidad Carlos III de Madrid
+242;Gestion Aeronautica;Universidad Carlos III de Madrid
+243;Bachelor of European Studies (BAES);Universidad Complutense de Madrid
+244;Marketing y Comunicacion;Universidad Complutense de Madrid
+245;Derecho;Universidad Complutense de Madrid
+246;Sociologia;Universidad Autónoma de Madrid
+247;Bachelor in International Business Management;Universidad Autónoma de Madrid
+248;Comercio;Universidad Nacional de Educación a Distancia UNED
+249;Derecho;Universidad Nacional de Educación a Distancia UNED
+250;CC. Juridicas de las Administraciones Publicas;Universidad Carlos III de Madrid
+251;Derecho Sorbona (Titulacion Internacional);Universidad Complutense de Madrid
+252;Filosofia, Politica, Derecho y Economia;Universidad a Distancia de Madrid UDIMA
+253;Economia Financiera y Actuarial;Universidad a Distancia de Madrid UDIMA
+254;Filosofia, Politica, Derecho y Economia;Universidad Alfonso X El Sabio
+255;Bachelor in International Business Management;Universidad Alfonso X El Sabio
+256;Filosofia, Politica, Derecho y Economia;Universidad Francisco de Vitoria
+257;Bachelor in International Business Management;Universidad Francisco de Vitoria
+258;Empresa y Tecnologia;Universidad Francisco de Vitoria
+259;Estadistica AplicadaArea de Estadistica Rama de conocimiento Ciencias Sociales y Juridicas;Universidad Francisco de Vitoria
+260;Gestion Urbana;Universidad Francisco de Vitoria
+261;Nanociencia y Nanotecnologia;Universidad Francisco de Vitoria
+262;Filosofia, Politica, Derecho y Economia;Universidad Rey Juan Carlos
+263;Filosofia, Politica, Derecho y Economia;Universidad San PabloCEU
+264;Empresa y Tecnologia;Universidad San PabloCEU
+265;Economia y Finanzas;Universidad San PabloCEU
+266;Direccion Internacional de Negocios;Universidad San PabloCEU
+267;Bachelor in International Business Management;Universidad San PabloCEU
+268;Ciencias Ambientales y Sostenibilidad;Universidad San PabloCEU
+269;Economia y Finanzas;Universidad Francisco de Vitoria
+270;Direccion Internacional de Negocios;Universidad Camilo José Cela
+271;Artes Digitales;Universidad Camilo José Cela
+272;Diseno y Gestion de Proyectos Transmedia;Universidad Camilo José Cela
+273;Ciencias Agrarias y Bioeconomia;Universidad Camilo José Cela
+274;Direccion Internacional de Negocios;Universidad Antonio de Nebrija
+275;Bachelor in International Business Management;Universidad de Alcalá
+276;Bachelor in International Business Management;Universidad Antonio de Nebrija
+277;Bachelor in International Business Management;Universidad Camilo José Cela
+278;Bachelor in International Business Management;Universidad a Distancia de Madrid UDIMA
+279;Bachelor in International Business Management;Universidad Pontificia Comillas ICAIICADE
+280;Economia Financiera y Actuarial;Universidad de Alcalá
+281;Magisterio en Educacion Primaria;Universidad de Alcalá
+282;Empresa y Tecnologia;Universidad de Alcalá
+283;Economia Financiera y Actuarial;Universidad Autónoma de Madrid
+284;Analisis de Negocios;Universidad Autónoma de Madrid
+285;Empresa y Tecnologia;Universidad Autónoma de Madrid
+286;Gestion Urbana;Universidad Autónoma de Madrid
+287;Recursos Hidricos;Universidad Autónoma de Madrid
+288;Economia Financiera y Actuarial;Universidad Carlos III de Madrid
+289;Magisterio en Educacion Primaria;Universidad Carlos III de Madrid
+290;Economia Financiera y Actuarial;Universidad Complutense de Madrid
+291;Magisterio en Educacion Infantil;Universidad Complutense de Madrid
+292;Empresa y Tecnologia;Universidad Complutense de Madrid
+293;Economia Financiera y Actuarial;Universidad Rey Juan Carlos
+294;Magisterio en Educacion Primaria;Universidad Rey Juan Carlos
+295;Educacion Social;Universidad Rey Juan Carlos
+296;Bachelor of Management and Tecnology;Universidad Rey Juan Carlos
+297;Economia Financiera y Actuarial;Universidad San PabloCEU
+298;Administracion y Direccion de Empresas;Universidad San PabloCEU
+299;Direccion y Gestion de Empresas en el Ambito Digital;Universidad San PabloCEU
+300;Administracion y Direccion de Empresas;Universidad Alfonso X El Sabio
+301;Creacion, Administracion y Direccion de Empresas;Universidad Alfonso X El Sabio
+302;Administracion y Direccion de Empresas;Universidad Antonio de Nebrija
+303;Administracion y Direccion de Empresas;Universidad Francisco de Vitoria
+304;Direccion y Gestion de Empresas en el Ambito Digital;Universidad Francisco de Vitoria
+305;Creacion, Administracion y Direccion de Empresas;Universidad Francisco de Vitoria
+306;Ingenieria Maritima;Universidad Francisco de Vitoria
+307;Administracion y Direccion de Empresas;Universidad Rey Juan Carlos
+308;Direccion y Gestion de Empresas en el Ambito Digital;Universidad Antonio de Nebrija
+309;Direccion y Gestion de Empresas en el Ambito Digital;Universidad Rey Juan Carlos
+310;Direccion y Gestion de Empresas en el Ambito Digital;Universidad de Alcalá
+311;Emprendimiento y Gestion de Empresas;Universidad Camilo José Cela
+312;Emprendimiento y Gestion de Empresas;Universidad Complutense de Madrid
+313;Empresa y Tecnologia;Universidad Alfonso X El Sabio
+314;Bachelor of Urban Management;Universidad Alfonso X El Sabio
+315;Empresa y Tecnologia;Universidad Rey Juan Carlos
+316;Gestion Empresarial basada en el Analisis de Datos (Business Analytics);Universidad Antonio de Nebrija
+317;Gestion Empresarial basada en el Analisis de Datos (Business Analytics);Universidad Rey Juan Carlos
+318;Inteligencia de Negocios Business Intelligence;Universidad Camilo José Cela
+319;Ingenieria en Sistemas Industriales;Universidad Camilo José Cela
+320;Estudios Urbanos;Universidad Complutense de Madrid
+321;Informacion y Documentacion;Universidad Complutense de Madrid
+322;Publicidad Creativa;Universidad Complutense de Madrid
+323;Publicidad y Creacion de Marca;Universidad Rey Juan Carlos
+324;Artes Digitales;Universidad Complutense de Madrid
+325;Bachelor of Digital ArtsArea de Entorno Digital Rama de conocimiento Ciencias Sociales y Juridicas;Universidad Complutense de Madrid
+326;Gestion de la Ciberseguridad;Universidad Complutense de Madrid
+327;Diseno Digital y Multimedia;Universidad Complutense de Madrid
+328;Artes Digitales;Universidad Europea de Madrid
+329;Artes Digitales;Universidad Rey Juan Carlos
+330;Bachelor of Digital ArtsArea de Entorno Digital Rama de conocimiento Ciencias Sociales y Juridicas;Universidad Rey Juan Carlos
+331;Gestion de la Ciberseguridad;Universidad Rey Juan Carlos
+332;Diseno Digital y Multimedia;Universidad Rey Juan Carlos
+333;Empresas y Actividades Turisticas;Universidad Rey Juan Carlos
+334;Bachelor of Digital ArtsArea de Entorno Digital Rama de conocimiento Ciencias Sociales y Juridicas;Universidad a Distancia de Madrid UDIMA
+335;Gestion de la Ciberseguridad;Universidad a Distancia de Madrid UDIMA
+336;Diseno Digital y Multimedia;Universidad a Distancia de Madrid UDIMA
+337;Comunicacion Digital;Universidad Europea de Madrid
+338;Ciencias Ambientales y Sostenibilidad;Universidad Complutense de Madrid
+339;Ciencias Ambientales y Sostenibilidad;Universidad Rey Juan Carlos
+340;Recursos Hidricos;Universidad de Alcalá
+341;Recursos Hidricos;Universidad Antonio de Nebrija
+342;Recursos Hidricos;Universidad Complutense de Madrid
+343;Recursos Hidricos;Universidad Nacional de Educación a Distancia UNED
+344;Recursos Hidricos;Universidad Rey Juan Carlos
+345;Ciencias Agrarias y Bioeconomia;Universidad Rey Juan Carlos
+346;Fisica;Universidad de Alcalá
+347;Ingenieria Fisica;Universidad de Alcalá
+348;Matematicas Aplicadas;Universidad de Alcalá
+349;Matematicas y Ciencia de Datos;Universidad de Alcalá
+350;Medicina;Universidad de Alcalá
+351;Nutricion Humana y Dietetica;Universidad de Alcalá
+352;Fisica;Universidad Complutense de Madrid
+353;Fisica;Universidad Rey Juan Carlos
+354;Fisica e Instrumentacion Espacial;Universidad Rey Juan Carlos
+355;Fisica Aplicada;Universidad Rey Juan Carlos
+356;Ingenieria en Tecnologia Minera Estos;Universidad Rey Juan Carlos
+357;Ingenieria Geologica;Universidad Rey Juan Carlos
+358;Matematica Computacional;Universidad Rey Juan Carlos
+359;Ingenieria de Materiales;Universidad Rey Juan Carlos
+360;Fisica;Universidad Alfonso X El Sabio
+361;Optica y Optometria;Universidad Alfonso X El Sabio
+362;Fisica;Universidad Europea de Madrid
+363;Odontologia;Universidad Europea de Madrid
+364;Optica y Optometria;Universidad Europea de Madrid
+365;Podologia;Universidad Europea de Madrid
+366;Psicologia;Universidad Europea de Madrid
+367;Terapia Ocupacional;Universidad Europea de Madrid
+368;Veterinaria;Universidad Europea de Madrid
+369;Arquitectura;Universidad Europea de Madrid
+370;Ingenieria Maritima;Universidad Europea de Madrid
+371;Ingenieria de las Tecnologias de la Informacion Geoespacial;Universidad Europea de Madrid
+372;Fisica;Universidad Francisco de Vitoria
+373;Optica y Optometria;Universidad Francisco de Vitoria
+374;Terapia Ocupacional;Universidad Francisco de Vitoria
+375;Veterinaria;Universidad Francisco de Vitoria
+376;Ingenieria en Electronica y Automatica Industrial;Universidad Francisco de Vitoria
+377;Fisica;Universidad San PabloCEU
+378;Nutricion Humana y Dietetica;Universidad San PabloCEU
+379;Optica y Optometria;Universidad San PabloCEU
+380;Fisica;Universidad Carlos III de Madrid
+381;Gestion y Operaciones del Transporte Aereo;Universidad Carlos III de Madrid
+382;Ingenieria en Electronica y Automatica Industrial;Universidad Carlos III de Madrid
+383;Ingenieria Mecanica;Universidad Carlos III de Madrid
+384;Ingenieria Geologica;Universidad Carlos III de Madrid
+385;Ingenieria Matematica;Universidad Carlos III de Madrid
+386;Ingenieria en Matematica Aplicada al Analisis de Datos;Universidad Carlos III de Madrid
+387;Ingenieria en Sistemas de Telecomunicacion;Universidad Carlos III de Madrid
+388;Diseno y Desarrollo de Videojuegos;Universidad Carlos III de Madrid
+389;Fisica;Universidad Rey Juan Carlos
+390;Fisica e Instrumentacion Espacial;Universidad Rey Juan Carlos
+391;Fisica Aplicada;Universidad Rey Juan Carlos
+392;Ingenieria en Organizacion Industrial;Universidad Rey Juan Carlos
+393;Ingenieria Electrica;Universidad Rey Juan Carlos
+394;Ingenieria de la Energia;Universidad Rey Juan Carlos
+395;Fisica e Instrumentacion Espacial;Universidad Complutense de Madrid
+396;Fisica Aplicada;Universidad de Alcalá
+397;Fisica Aplicada;Universidad Autónoma de Madrid
+398;Ingenieria Fisica;Universidad Politécnica de Madrid
+399;Ingenieria Biomedica;Universidad Politécnica de Madrid
+400;Ingenieria Civil en Construcciones Civiles;Universidad Politécnica de Madrid
+401;Ingenieria Civil y Territorial;Universidad Politécnica de Madrid
+402;Ingenieria en Electronica y Automatica Industrial;Universidad Politécnica de Madrid
+403;Ingenieria Fisica;Universidad Alfonso X El Sabio
+404;Geologia Realizan: Estudios del interior y exterior de la tierra. Busqueda;Universidad Alfonso X El Sabio
+405;Gestion y Operaciones del Transporte Aereo;Universidad Alfonso X El Sabio
+406;Ingenieria del Medio Natural © Comunidad de Madrid. Edicion:;Universidad Alfonso X El Sabio
+407;Ingenieria en Tecnologias Industriales;Universidad Alfonso X El Sabio
+408;Ingenieria en Tecnologia Minera Estos;Universidad Alfonso X El Sabio
+409;Ingenieria Geologica;Universidad Alfonso X El Sabio
+410;Ingenieria en Matematica Aplicada al Analisis de Datos;Universidad Alfonso X El Sabio
+411;Diseno y Desarrollo de Videojuegos;Universidad Alfonso X El Sabio
+412;Ingenieria Fisica;Universidad Autónoma de Madrid
+413;Geologia Realizan: Estudios del interior y exterior de la tierra. Busqueda;Universidad Autónoma de Madrid
+414;Fisioterapia;Universidad Autónoma de Madrid
+415;Biomedicina;Universidad Autónoma de Madrid
+416;Medicina;Universidad Autónoma de Madrid
+417;Ingenieria Fisica;Universidad Complutense de Madrid
+418;Geologia Realizan: Estudios del interior y exterior de la tierra. Busqueda;Universidad Complutense de Madrid
+419;Bioquimica;Universidad Antonio de Nebrija
+420;Quimica Tienen;Universidad Antonio de Nebrija
+421;Farmacia;Universidad Complutense de Madrid
+422;Fisioterapia;Universidad Complutense de Madrid
+423;Logopedia;Universidad Complutense de Madrid
+424;Fisioterapia;Universidad Rey Juan Carlos
+425;Fisioterapia;Universidad Politécnica de Madrid
+426;Biomedicina;Universidad Complutense de Madrid
+427;Medicina;Universidad Complutense de Madrid
+428;Odontologia;Universidad Autónoma de Madrid
+429;Veterinaria;Universidad Autónoma de Madrid
+430;Odontologia;Universidad Complutense de Madrid
+431;Podologia;Universidad Complutense de Madrid
+432;Odontologia;Universidad Francisco de Vitoria
+433;Veterinaria;Universidad Francisco de Vitoria
+434;Arquitectura;Universidad Francisco de Vitoria
+435;Ingenieria Maritima;Universidad Francisco de Vitoria
+436;Odontologia;Universidad Pontificia Comillas ICAIICADE
+437;Podologia;Universidad Pontificia Comillas ICAIICADE
+438;Odontologia;Universidad Rey Juan Carlos
+439;Ingenieria Geomatica;Universidad Rey Juan Carlos
+440;Odontologia;Universidad San PabloCEU
+441;Podologia;Universidad San PabloCEU
+442;Veterinaria;Universidad San PabloCEU
+443;Fundamentos de Arquitectura y Urbanismo;Universidad San PabloCEU
+444;Optica y Optometria;Universidad de Alcalá
+445;Optica y Optometria;Universidad Complutense de Madrid
+446;Optica y Optometria;Universidad Rey Juan Carlos
+447;Podologia;Universidad Rey Juan Carlos
+448;Veterinaria;Universidad Rey Juan Carlos
+449;Fundamentos de Arquitectura y Urbanismo;Universidad Rey Juan Carlos
+450;Ingenieria Maritima;Universidad Rey Juan Carlos
+451;Podologia;Universidad de Alcalá
+452;Psicologia;Universidad Complutense de Madrid
+453;Veterinaria;Universidad Complutense de Madrid
+454;Arquitectura;Universidad Complutense de Madrid
+455;Ingenieria Geomatica;Universidad Complutense de Madrid
+456;Arquitectura;Universidad San PabloCEU
+457;Fundamentos de Arquitectura y Urbanismo;Universidad Complutense de Madrid
+458;Fundamentos de Arquitectura y Urbanismo;Universidad Europea de Madrid
+459;Arquitectura Tecnica y Edificacion;Universidad Complutense de Madrid
+460;Arquitectura Tecnica y Edificacion;Universidad San PabloCEU
+461;Ingenieria Maritima;Universidad Autónoma de Madrid
+462;Ingenieria Maritima;Universidad Complutense de Madrid
+463;Ingenieria Maritima;Universidad San PabloCEU
+464;Ingenieria Maritima;Universidad a Distancia de Madrid UDIMA
+465;Ingenieria Maritima;Universidad Nacional de Educación a Distancia UNED
+466;Ingenieria de las Tecnologias de la Informacion Geoespacial;Universidad Alfonso X El Sabio
+467;Ingenieria de las Tecnologias de la Informacion Geoespacial;Universidad Complutense de Madrid
+468;Ingenieria en Tecnologias Aeroespaciales;Universidad Antonio de Nebrija
+469;Ingenieria en Tecnologias Aeroespaciales;Universidad Politécnica de Madrid
+470;Ingenieria Agricola;Universidad Politécnica de Madrid
+471;Ingenieria en Tecnologias Aeroespaciales;Universidad Rey Juan Carlos
+472;Ingenieria del Medio Natural © Comunidad de Madrid. Edicion:;Universidad Rey Juan Carlos
+473;Ingenieria Informatica;Universidad Rey Juan Carlos
+474;Ingenieria Informatica Biomedica;Universidad Rey Juan Carlos
+475;Tecnologias para la Sociedad de la Informacion;Universidad Rey Juan Carlos
+476;Ingenieria del Software;Universidad Rey Juan Carlos
+477;Ingenieria en Tecnologias Aeroespaciales;Universidad de Alcalá
+478;Ingenieria Agricola;Universidad de Alcalá
+479;Ingenieria Agroambiental;Universidad Politécnica de Madrid
+480;Ingenieria Alimentaria;Universidad Politécnica de Madrid
+481;Biologia Sanitaria;Universidad Carlos III de Madrid
+482;Enfermeria;Universidad Carlos III de Madrid
+483;Ingenieria del Medio Natural © Comunidad de Madrid. Edicion:;Universidad Carlos III de Madrid
+484;Ingenieria en Electronica y Automatica Industrial;Universidad Carlos III de Madrid
+485;Ingenieria de los Recursos Energeticos, Combustibles y Explosivos;Universidad Carlos III de Madrid
+486;Ingenieria en Tecnologia Minera Estos;Universidad Carlos III de Madrid
+487;Ingenieria Geologica;Universidad Carlos III de Madrid
+488;Matematica Computacional;Universidad Carlos III de Madrid
+489;Ingenieria de Materiales;Universidad Carlos III de Madrid
+490;Ingenieria de Tecnologias y Servicios de Telecomunicacion;Universidad Carlos III de Madrid
+491;Ingenieria de Computadores;Universidad Carlos III de Madrid
+492;Ingenieria de Sistemas de Informacion;Universidad Carlos III de Madrid
+493;Tecnologias para la Sociedad de la Informacion;Universidad Carlos III de Madrid
+494;Ingenieria del Software;Universidad Carlos III de Madrid
+495;Diseno y Desarrollo de Videojuegos;Universidad Carlos III de Madrid
+496;;Universidad Carlos III de Madrid
+497;Ingenieria Forestal;Universidad Politécnica de Madrid
+498;Ingenieria del Medio Natural © Comunidad de Madrid. Edicion:;Universidad Politécnica de Madrid
+499;Ingenieria del Medio Natural © Comunidad de Madrid. Edicion:;Universidad Politécnica de Madrid
+500;Ingenieria Ambiental;Universidad Politécnica de Madrid
+501;Ingenieria Quimica;Universidad Politécnica de Madrid
+502;Transporte y Logistica;Universidad Politécnica de Madrid
+503;Ingenieria Electrica;Universidad Politécnica de Madrid
+504;Ingenieria Electrica;Universidad Complutense de Madrid
+505;Ingenieria Electrica;Universidad Politécnica de Madrid
+506;Ingenieria de la Energia;Universidad Politécnica de Madrid
+507;Matematica Computacional;Universidad Politécnica de Madrid
+508;Ingenieria en Electronica y Automatica Industrial;Universidad Autónoma de Madrid
+509;Tecnologias para la Sociedad de la Informacion;Universidad Autónoma de Madrid
+510;Diseno y Desarrollo de Videojuegos;Universidad Autónoma de Madrid
+511;Ingenieria en Electronica y Automatica Industrial;Universidad Politécnica de Madrid
+512;Ingenieria en Electronica y Automatica Industrial;Universidad Rey Juan Carlos
+513;Ingenieria en Electronica y Automatica Industrial;Universidad San PabloCEU
+514;Ingenieria en Sistemas de Telecomunicacion;Universidad San PabloCEU
+515;Ingenieria Informatica Biomedica;Universidad San PabloCEU
+516;Ciencia de Datos e Inteligencia Artificial;Universidad San PabloCEU
+517;Ingenieria en Industria Conectada;Universidad Politécnica de Madrid
+518;Ingenieria Telematica;Universidad Politécnica de Madrid
+519;Ingenieria en Tecnologias Industriales;Universidad Antonio de Nebrija
+520;Ingenieria de la Energia;Universidad Antonio de Nebrija
+521;Ingenieria Geologica;Universidad Antonio de Nebrija
+522;Matematica Computacional;Universidad Antonio de Nebrija
+523;Diseno y Desarrollo de Videojuegos;Universidad Antonio de Nebrija
+524;Ingenieria en Tecnologias Industriales;Universidad Politécnica de Madrid
+525;Ingenieria de los Recursos Energeticos, Combustibles y Explosivos;Universidad Politécnica de Madrid
+526;Ingenieria en Tecnologia Minera Estos;Universidad Politécnica de Madrid
+527;Ingenieria Geologica;Universidad Politécnica de Madrid
+528;Ingenieria de la Energia;Universidad a Distancia de Madrid UDIMA
+529;Tecnologias para la Sociedad de la Informacion;Universidad a Distancia de Madrid UDIMA
+530;Diseno y Desarrollo de Videojuegos;Universidad a Distancia de Madrid UDIMA
+531;Ingenieria de los Recursos Energeticos, Combustibles y Explosivos;Universidad Nacional de Educación a Distancia UNED
+532;Ingenieria en Tecnologia Minera Estos;Universidad Nacional de Educación a Distancia UNED
+533;Ingenieria Geologica;Universidad Nacional de Educación a Distancia UNED
+534;Matematica Computacional;Universidad Nacional de Educación a Distancia UNED
+535;Ingenieria de Materiales;Universidad Nacional de Educación a Distancia UNED
+536;Ingenieria en Tecnologia Minera Estos;Universidad de Alcalá
+537;Matematica Computacional;Universidad de Alcalá
+538;Ingenieria y Sistemas de Datos;Universidad de Alcalá
+539;Ingenieria Informatica Biomedica;Universidad de Alcalá
+540;Tecnologias para la Sociedad de la Informacion;Universidad de Alcalá
+541;Ingenieria en Tecnologias para Animacion y Videojuegos;Universidad de Alcalá
+542;Diseno y Desarrollo de Videojuegos;Universidad de Alcalá
+543;Matematica Computacional;Universidad Pontificia Comillas ICAIICADE
+544;Tecnologias para la Sociedad de la Informacion;Universidad Pontificia Comillas ICAIICADE
+545;Ingenieria de Materiales;Universidad Politécnica de Madrid
+546;Ingenieria Electronica de Comunicaciones;Universidad Politécnica de Madrid
+547;Ingenieria de Comunicaciones Moviles y Espaciales;Universidad Politécnica de Madrid
+548;Ingenieria en Sistemas Audiovisuales y Multimedia;Universidad Politécnica de Madrid
+549;Ingenieria en Sistemas Audiovisuales y Multimedia;Universidad Complutense de Madrid
+550;Ingenieria en Sistemas de Telecomunicacion;Universidad Alfonso X El Sabio
+551;Ingenieria en Sistemas de Telecomunicacion;Universidad Complutense de Madrid
+552;Ingenieria en Sistemas de Telecomunicacion;Universidad Pontificia Comillas ICAIICADE
+553;Ingenieria Telematica;Universidad Complutense de Madrid
+554;Ingenieria Telematica;Universidad Rey Juan Carlos
+555;Ingenieria y Sistemas de Datos;Universidad Complutense de Madrid
+556;Ingenieria y Sistemas de Datos;Universidad Politécnica de Madrid
+557;Ingenieria Informatica Biomedica;Universidad Politécnica de Madrid
+558;Ingenieria de Sistemas de Informacion;Universidad Politécnica de Madrid
+559;Ingenieria del Software;Universidad Politécnica de Madrid
+560;Tecnologias para la Sociedad de la Informacion;Universidad Politécnica de Madrid
+561;Ingenieria del Software;Universidad de Alcalá
+562;Ciencia de Datos e Inteligencia Artificial;Universidad de Alcalá
+563;Ingenieria de la Ciberseguridad;Universidad Politécnica de Madrid
+564;Matematicas e Informatica;Universidad Politécnica de Madrid
+565;Ingenieria en Tecnologias para Animacion y Videojuegos;Universidad Complutense de Madrid
+566;Ingenieria en Tecnologias para Animacion y Videojuegos;Universidad Politécnica de Madrid
+567;Diseno y Desarrollo de Videojuegos;Universidad Politécnica de Madrid
+568;Ciencia de Datos e Inteligencia Artificial;Universidad Politécnica de Madrid
+569;Inteligencia Artificial;Universidad Politécnica de Madrid
+570;Computacion e Inteligencia Artificial;Universidad Politécnica de Madrid
+571;;Universidad Politécnica de Madrid
+572;Ingenieria en Tecnologias para Animacion y Videojuegos;Universidad Rey Juan Carlos
+573;Diseno y Desarrollo de Videojuegos;Universidad Rey Juan Carlos
+574;Ingenieria Robotica Sotware;Universidad Rey Juan Carlos
+575;;Universidad Rey Juan Carlos
+576;Diseno y Desarrollo de Videojuegos;Universidad Camilo José Cela
+577;Ingenieria de Datos e Inteligencia Artificial;Universidad Camilo José Cela
+578;;Universidad Camilo José Cela
+579;Diseno y Desarrollo de Videojuegos;Universidad Complutense de Madrid
+580;Computacion e Inteligencia Artificial;Universidad Complutense de Madrid
+581;Diseno y Desarrollo de Videojuegos;Universidad Nacional de Educación a Distancia UNED
+582;Inteligencia Artificial;Universidad Nacional de Educación a Distancia UNED
+583;Ingenieria Robotica e Inteligencia artificial;Universidad Politécnica de Madrid
+584;;Universidad Politécnica de Madrid
+585;;Universidad Complutense de Madrid
+586;;Universidad Rey Juan Carlos
