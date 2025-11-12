@@ -64,12 +64,21 @@ En el contenedor de jupyter "queries.ipynb" contiene las queries a los servicios
 
 6. **Jupyter:**. Tenemos definido un Dockerfile con sus `requirements.txt` que usa de base la imagen de jupyter proporcionada en la asignatura. En este contenedor hemos trabajado la mayor parte del tiempo y es donde se pueden ver las consultas finales (`jupyter > src > queries > queries.ipynb`).
 
-### Futuros pasos y aspectos a mejorar
+### Conclusiones
 
-Uno de los retos de este proyecto ha sido la obtención de datos desde los PDFs de la Comunidad de Madrid, que al tener múltiples formatos hacía complicado en muchos casos aplicar reglas que favoreciesen la generalización y obtuviesen toda la información bien. Por ello, un aspecto a mejorar sería mejorar el procesamiento de los datos iniciales y asegurar que estos tuviesen formatos similares en los CSVs resultantes. 
+Uno de los retos de este proyecto ha sido la obtención de datos desde los PDFs de la Comunidad de Madrid, que al tener múltiples formatos hacía complicado en muchos casos aplicar reglas que favoreciesen la generalización y obtuviesen toda la información bien. Por ello, un aspecto a mejorar sería mejorar el procesamiento de los datos iniciales y asegurar que estos tuviesen formatos similares en los CSVs resultantes.
 
-El desarollo de este proyecto nos ha ayudado a familiarizarnos con el despliegue de bases de datos, así como a entender lo importante que es tener buenas fuentes e información completa y estandarizada, como mencionamos el en punto anterior. Por ello, en parte, también hemos optado por utilizar un LLM para enriquecer nuestros datos. Ha sido interesante usar datos diversos y poder extraer utilidad de todos ellos, en futuros pasos de desarrollo de este proyecto entrarían muchas posibilidades que combinasen búsquedas semánticas o sintácticas, por ejemplo. Una idea que superaba el scope de nuestro trabajo, pero que podría ser de interés consistiría en añadir una tabla con alumnos, datos personales y su carrera, e implementar un sistema de recomendación en base a gustos u otros datos para ayudar a un determinado alumno a elegir un grado universitario. Otra idea para futuros pasos consiste en escalar el proyecto a nivel nacional, en lugar de centrarse únicamente en la Comunidad de Madrid, de manera que se podrían explorar las oportunidades de forma más amplia. Además, también sería interesante habilitar un servidor en el cual se pudiesen hacer las consultas de manera pública a nuestra base de datos.
+El desarollo de este proyecto nos ha ayudado a familiarizarnos con el despliegue de bases de datos, así como a entender lo importante que es tener buenas fuentes e información completa y estandarizada, como mencionamos el en punto anterior. Por ello, en parte, también hemos optado por utilizar un LLM para enriquecer nuestros datos. Ha sido interesante usar datos diversos y poder extraer utilidad de todos ellos, en futuros pasos de desarrollo de este proyecto entrarían muchas posibilidades que combinasen búsquedas semánticas o sintácticas, por ejemplo.
 
+### Futuros pasos
+
+Una idea que superaba el scope de nuestro trabajo, pero que podría ser de interés consistiría en añadir una tabla con alumnos, datos personales y su carrera, e implementar un sistema de recomendación en base a gustos u otros datos para ayudar a un determinado alumno a elegir un grado universitario.
+
+Otra idea para futuros pasos consiste en escalar el proyecto a nivel nacional, en lugar de centrarse únicamente en la Comunidad de Madrid, de manera que se podrían explorar las oportunidades de forma más amplia.
+
+También, sería interesante utilizar los datos geográficos (direcciones) para que el usuario interesado, pueda consultar sus opciones en base a su cercanía.
+
+Por último, se podría plantear un sistema de predicción de notas de corte basado en las notas de corte de años anteriores de cada grado, para orientar a futurios estudiantes universitarios. Además, también sería interesante habilitar un servidor en el cual se pudiesen hacer las consultas de manera pública a nuestra base de datos.
 
 
 ### Aspectos legales
