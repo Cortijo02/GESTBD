@@ -2,3 +2,5 @@ jupyter
 pandas
 tqdm
 ollama
+matplotlib
+wordcloud
