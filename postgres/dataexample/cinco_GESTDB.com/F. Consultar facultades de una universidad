@@ -1,0 +1,7 @@
+SELECT  
+    u.nombre AS universidad,
+    f.nombre AS factultad
+FROM universidad u
+JOIN facultad f ON f.id_universidad = u.id 
+WHERE u.id= 1
+ORDER BY f.nombre;
