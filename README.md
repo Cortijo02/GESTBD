@@ -39,3 +39,31 @@ Y a continuación las credenciales de la base de datos:
 | password_db         | passGESTDB              |
 
 En el contenedor de jupyter "queries.ipynb" contiene las queries a los servicios de Postgres, ElasticSearch y GraphDB.
+
+## Sobre el trabajo
+
+### Pasos seguidos
+
+1. Web scraping: utilizamos los datos abiertos de la página de grados de la Comunidad de Madrid, que habilita PDFs con las descripciones, salidas y centros de los grados. Desde la página web base, hicimos web scraping pasa sacar las URLs de los PDFs, junto con las ramas y áreas de las webs intermedias donde estaban ordenadas. De los PDFs sacamos la información relevante (jupyter > src > scraping > pdfs_automatizado.ipynb) y procesamos los datos (jupyter > src > scraping > generar_csvs.ipynb; jupyter > src > scraping > extraccion_centros.ipynb; jupyter > src > scraping > extraccion_notascorte.ipynb) para obtener los CSVs.
+
+2. Postgres
+
+# TODO
+
+4. ElasticSearch
+
+# TODO
+
+6. GraphDB
+
+# TODO
+
+8. Cuaderno de consultas (jupyter > src > queries > queries.ipynb)
+
+# TODO
+
+### Futuros pasos y aspectos a mejorar
+
+Una idea que superaba el scope de nuestro trabajo, pero que podría ser de interés consistiría en añadir una tabla con alumnos, datos personales y su carrera, e implementar un sistema de recomendación en base a gustos u otros datos para ayudar a un determinado alumno a elegir un grado universitario. 
+
+Uno de los retos de este proyecto ha sido la obtención de datos desde los PDFs de la Comunidad de Madrid, que al tener múltiples formatos hacía complicado en muchos casos aplicar reglas que favoreciesen la generalización y obtuviesen toda la información bien. Por ello, un aspecto a mejorar sería mejorar el procesamiento de los datos inciales y asegurar que estos tuviesen formatos similares en los CSVs resultantes.
