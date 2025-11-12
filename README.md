@@ -63,9 +63,9 @@ En el contenedor de jupyter "queries.ipynb" contiene las queries a los servicios
 
 ### Futuros pasos y aspectos a mejorar
 
-Una idea que superaba el scope de nuestro trabajo, pero que podría ser de interés consistiría en añadir una tabla con alumnos, datos personales y su carrera, e implementar un sistema de recomendación en base a gustos u otros datos para ayudar a un determinado alumno a elegir un grado universitario. 
+Una idea que superaba el scope de nuestro trabajo, pero que podría ser de interés consistiría en añadir una tabla con alumnos, datos personales y su carrera, e implementar un sistema de recomendación en base a gustos u otros datos para ayudar a un determinado alumno a elegir un grado universitario. Otra idea para futuros pasos consiste en escalar el proyecto a nivel nacional, en lugar de centrarse únicamente en la Comunidad de Madrid, de manera que se podrían explorar las oportunidades de forma más amplia.
 
-Uno de los retos de este proyecto ha sido la obtención de datos desde los PDFs de la Comunidad de Madrid, que al tener múltiples formatos hacía complicado en muchos casos aplicar reglas que favoreciesen la generalización y obtuviesen toda la información bien. Por ello, un aspecto a mejorar sería mejorar el procesamiento de los datos inciales y asegurar que estos tuviesen formatos similares en los CSVs resultantes.
+Uno de los retos de este proyecto ha sido la obtención de datos desde los PDFs de la Comunidad de Madrid, que al tener múltiples formatos hacía complicado en muchos casos aplicar reglas que favoreciesen la generalización y obtuviesen toda la información bien. Por ello, un aspecto a mejorar sería mejorar el procesamiento de los datos iniciales y asegurar que estos tuviesen formatos similares en los CSVs resultantes.
 
 
 ### Aspectos legales
