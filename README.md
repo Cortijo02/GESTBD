@@ -54,9 +54,7 @@ En el contenedor de jupyter "queries.ipynb" contiene las queries a los servicios
 
 # TODO
 
-6. GraphDB
-
-# TODO
+6. GraphDB: Para realizar esto diseñamos la ontología estableciendo las tripletas (y los prefijos utilizados de ontologías existentes). A través de un script the python (jupyter > src > graph > generador_grafo.ipynb), pasamos de los datos de PostGres a la ontología establecida y el resultado (se genera en esa misma carpeta con nombre universidadesMadrid.ttl)lo copiamos en (graphdb > imports). Una vez tenemos los archivos de la carpeta 'graphdb > imports' lanzamos el contenedor de GraphDB, generamos un repositorio 'Practica_GESTDB' e importamos ambos archivos (que se encuentrar en 'server files' porque los cargamos al montar el contenedor) con base iri 'http://example.org/universidadesMadrid#'. Una vez se realiza esto ya podemos lanzar las queries contra este sistema.
 
 8. Cuaderno de consultas (jupyter > src > queries > queries.ipynb)
 
@@ -67,3 +65,8 @@ En el contenedor de jupyter "queries.ipynb" contiene las queries a los servicios
 Una idea que superaba el scope de nuestro trabajo, pero que podría ser de interés consistiría en añadir una tabla con alumnos, datos personales y su carrera, e implementar un sistema de recomendación en base a gustos u otros datos para ayudar a un determinado alumno a elegir un grado universitario. 
 
 Uno de los retos de este proyecto ha sido la obtención de datos desde los PDFs de la Comunidad de Madrid, que al tener múltiples formatos hacía complicado en muchos casos aplicar reglas que favoreciesen la generalización y obtuviesen toda la información bien. Por ello, un aspecto a mejorar sería mejorar el procesamiento de los datos inciales y asegurar que estos tuviesen formatos similares en los CSVs resultantes.
+
+
+### Aspectos legales
+
+Los datos utilizados en este proyecto son utilizados con fines académicos, han sido extraídos de la página web de la Comunidad de Madrid el día 6 de noviembre de 2025.
